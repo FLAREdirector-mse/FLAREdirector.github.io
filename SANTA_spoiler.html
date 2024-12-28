@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">  
+    <link rel="preload" href="img/SANTA/bg.png" as="image"> 
+    <link rel="preload" href="img/card_back.png" as="image">
+    <link rel="preload" href="img/flip.png" as="image">
+    <link rel="icon" type="image/png" href="img/SANTA/icon.png"/>
+    <title>SANTA visual spoiler</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            overscroll-behavior: none;
+            background-image: url('img/SANTA/bg.png');
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        .main-content {
+            position: relative;
+            width: 100%;
+            float: left;
+            z-index: 2;
+        }
+        .sidebar {
+            position: sticky;
+            top: 0;
+            display: none;
+            text-align: center;
+            padding-right: 2.5%;
+            z-index: 1;
+        }
+        .sidebar img {
+            vertical-align: middle;
+            max-width: 100%;
+            width: 30%;
+        }
+        .sidebar .btn {
+          background: url('img/close.png') no-repeat;
+          background-size: contain;
+          background-position: center;
+          width: 10%;
+          height: 10%;
+          border: none;
+          cursor: pointer;
+          position: absolute;
+          right: -1.5%;
+        }
+        .sidebar .btn:hover {
+          background: url('img/close-hover.png') no-repeat;
+          background-size: contain;
+          background-position: center;
+          width: 10%;
+          height: 10%;
+          border: none;
+          cursor: pointer;
+          position: absolute;
+          right: -1.5%;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+            gap: 1px;
+            padding-left: 5%;
+            padding-right: 5%;
+            padding-bottom: 3%;
+            justify-items: center;
+        }
+        .grid-container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            visibility: hidden;
+            cursor: pointer;
+        }
+        .banner {
+            width: 100%;
+            height: auto;
+            padding-top: 20px;
+            padding-bottom: 50px;
+        }
+        .logo {
+            display: block;
+            margin: auto;
+            width: 40%;
+        }
+        .container {
+          position: relative;
+          width: 100%;
+        }
+        .container img {
+          width: 100%;
+          height: auto;
+        }
+        .container .btn {
+          background: url('img/flip.png') no-repeat;
+          background-size: contain;
+          background-position: center;
+          width: 15%;
+          height: 11%;
+          cursor: pointer;
+          border: none;
+          position: absolute;
+          top: 6.5%;
+          left: 8.5%;
+          transform: translate(-50%, -50%);
+        }
+        .container .btn:hover {
+          background: url('img/flip-hover.png') no-repeat;
+          background-size: contain;
+          background-position: center;
+          width: 15%;
+          height: 11%;
+          cursor: pointer;
+          border: none;
+          position: absolute;
+          top: 6.5%;
+          left: 8.5%;
+          transform: translate(-50%, -50%);
+        }
+        .icon-bar {
+            display: grid;
+            grid-template-columns: 3fr 2fr 3fr 2fr 3fr 2fr 3fr 2fr 3fr 2fr 3fr 2fr 3fr 2fr 3fr;
+            gap: 1px;
+            padding-left: 5%;
+            padding-right: 5%;
+            padding-top: 2%;
+            padding-bottom: 1%;
+            justify-items: center;
+            align-items: center;
+        }
+        .icon-bar .icon img {
+            width: 90%;
+            height: auto;
+            display: block;
+            padding: 5%;
+            margin: auto;
+            text-align: center;
+        }
+        .icon-bar .dot img {
+            width: 50%;
+            height: auto;
+            display: block;
+            margin: auto;
+            text-align: center;
+        }
+        /* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+        .footer {
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+    <div class="icon-bar">
+          <div class="icon"><a href="SANTA_spoiler.html"><img src="img/SANTA/icon.png"></img></a></div>
+
+        </div>
+        <div class="banner">
+        <img class="logo" src="img/SANTA/logo.png">
+        </div>
+        <div class="main-content" id="main-content">
+            <div class="grid-container">
+              <div class="container"><img src="img\SANTA\Azestru, the Radiant Lich.png" alt="1" id="1" data-flag="@X" onclick="openSidebar(1)"></div>
+          <div class="container"><img src="img\SANTA\Ahuzak, Center of Preservation.png" alt="2" id="2" data-flag="@X" onclick="openSidebar(2)"></div>
+          <div class="container"><img src="img\SANTA\The Big Bad Wolf.png" alt="3" id="3" data-flag="@X" onclick="openSidebar(3)"></div>
+          <div class="container"><img src="img\SANTA\Asuka, Victorius Velocity.png" alt="4" id="4" data-flag="@X" onclick="openSidebar(4)"></div>
+          <div class="container"><img src="img\SANTA\Bon Vivoracious.png" alt="5" id="5" data-flag="@X" onclick="openSidebar(5)"></div>
+          <div class="container"><img src="img\SANTA\Greg, Naive Troublemaker.png" alt="6" id="6" data-flag="@X" onclick="openSidebar(6)"></div>
+          <div class="container"><img src="img\SANTA\Beatrice, Cursed Bluebird.png" alt="7" id="7" data-flag="@X" onclick="openSidebar(7)"></div>
+          <div class="container"><img src="img\SANTA\Charged Shadowbeast.png" alt="8" id="8" data-flag="@X" onclick="openSidebar(8)"></div>
+          <div class="container"><img src="img\SANTA\Silly.png" alt="9" id="9" data-flag="@X" onclick="openSidebar(9)"></div>
+          <div class="container"><img src="img\SANTA\XVX Mechanic.png" alt="10" id="10" data-flag="@X" onclick="openSidebar(10)"></div>
+          <div class="container"><img src="img\SANTA\Monastery Grounds.png" alt="11" id="11" data-flag="@X" onclick="openSidebar(11)"></div>
+          <div class="container"><img src="img\SANTA\Eternities' Wake.png" alt="12" id="12" data-flag="@X" onclick="openSidebar(12)"></div>
+          <div class="container"><img src="img\SANTA\Desperate Bargain.png" alt="13" id="13" data-flag="@X" onclick="openSidebar(13)"></div>
+          <div class="container"><img src="img\SANTA\XVX Rano C4.png" alt="14" id="14" data-flag="@X" onclick="openSidebar(14)"></div>
+          <div class="container"><img src="img\SANTA\Dire Bulette.png" alt="15" id="15" data-flag="@X" onclick="openSidebar(15)"></div>
+          <div class="container"><img src="img\SANTA\Sigmar, Uniter of Mankind.png" alt="16" id="16" data-flag="@X" onclick="openSidebar(16)"></div>
+          <div class="container"><img src="img\SANTA\Osiris GT M2.png" alt="17" id="17" data-flag="@X" onclick="openSidebar(17)"></div>
+          <div class="container"><img src="img\SANTA\Giyama, the Ending Soul.png" alt="18" id="18" data-flag="@X" onclick="openSidebar(18)"></div>
+          <div class="container"><img src="img\SANTA\Auntie Whisper's Bell.png" alt="19" id="19" data-flag="@X" onclick="openSidebar(19)"></div>
+          <div class="container"><img src="img\SANTA\Disciple of the Swarm.png" alt="20" id="20" data-flag="@X" onclick="openSidebar(20)"></div>
+          <div class="container"><img src="img\SANTA\System-a99 a Gundam.png" alt="21" id="21" data-flag="@X" onclick="openSidebar(21)"></div>
+          <div class="container"><img src="img\SANTA\Abjurer's Aspiration.png" alt="22" id="22" data-flag="@X" onclick="openSidebar(22)"></div>
+          <div class="container"><img src="img\SANTA\Most Wanted.png" alt="23" id="23" data-flag="@X" onclick="openSidebar(23)"></div>
+          <div class="container"><img src="img\SANTA\Burning of the Archive at Alephne.png" alt="24" id="24" data-flag="@X" onclick="openSidebar(24)"></div>
+          <div class="container"><img src="img\SANTA\Dreams of the Wild.png" alt="25" id="25" data-flag="@X" onclick="openSidebar(25)"></div>
+          <div class="container"><img src="img\SANTA\Tal'Set, The First Turok.png" alt="26" id="26" data-flag="@X" onclick="openSidebar(26)"></div>
+          <div class="container"><img src="img\SANTA\At Horizon's Edge.png" alt="27" id="27" data-flag="@X" onclick="openSidebar(27)"></div>
+          <div class="container"><img src="img\SANTA\Necrodancer's Torment.png" alt="28" id="28" data-flag="@X" onclick="openSidebar(28)"></div>
+          <div class="container"><img src="img\SANTA\Collision Elemental.png" alt="29" id="29" data-flag="@X" onclick="openSidebar(29)"></div>
+          <div class="container"><img src="img\SANTA\Exodite Warbeast.png" alt="30" id="30" data-flag="@X" onclick="openSidebar(30)"></div>
+          <div class="container"><img src="img\SANTA\Xipe of the Thousand Faces.png" alt="31" id="31" data-flag="@X" onclick="openSidebar(31)"></div>
+          <div class="container"><img src="img\SANTA\Bender of Wills.png" alt="32" id="32" data-flag="@X" onclick="openSidebar(32)"></div>
+          <div class="container"><img src="img\SANTA\Amarax, Blood Worshipper.png" alt="33" id="33" data-flag="@X" onclick="openSidebar(33)"></div>
+          <div class="container"><img src="img\SANTA\Dhomir Smith.png" alt="34" id="34" data-flag="@X" onclick="openSidebar(34)"></div>
+          <div class="container"><img src="img\SANTA\Graveyard Crusher.png" alt="35" id="35" data-flag="@X" onclick="openSidebar(35)"></div>
+          <div class="container"><img src="img\SANTA\Angeldown Wings.png" alt="36" id="36" data-flag="@X" onclick="openSidebar(36)"></div>
+          <div class="container"><img src="img\SANTA\Bifurcated Will.png" alt="37" id="37" data-flag="@X" onclick="openSidebar(37)"></div>
+          <div class="container"><img src="img\SANTA\Aperture Tracker.png" alt="38" id="38" data-flag="@X" onclick="openSidebar(38)"></div>
+          <div class="container"><img src="img\SANTA\Dragonscale Mask.png" alt="39" id="39" data-flag="@X" onclick="openSidebar(39)"></div>
+          <div class="container"><img src="img\SANTA\Havrouth, Expedition Leader.png" alt="40" id="40" data-flag="@X" onclick="openSidebar(40)"></div>
+          <div class="container"><img src="img\SANTA\Angella, Queen of Bright Moon.png" alt="41" id="41" data-flag="@X" onclick="openSidebar(41)"></div>
+          <div class="container"><img src="img\SANTA\Captivating Constellation.png" alt="42" id="42" data-flag="@X" onclick="openSidebar(42)"></div>
+          <div class="container"><img src="img\SANTA\Archdemon of Redemption.png" alt="43" id="43" data-flag="@X" onclick="openSidebar(43)"></div>
+          <div class="container"><img src="img\SANTA\Durakko, Junk Specialist.png" alt="44" id="44" data-flag="@X" onclick="openSidebar(44)"></div>
+          <div class="container"><img src="img\SANTA\Hydra-Eye Necklace.png" alt="45" id="45" data-flag="@X" onclick="openSidebar(45)"></div>
+          <div class="container"><img src="img\SANTA\Bezpez, Dream-Weaver.png" alt="46" id="46" data-flag="@X" onclick="openSidebar(46)"></div>
+          <div class="container"><img src="img\SANTA\Catherine Chun, ARK-itect.png" alt="47" id="47" data-flag="@X" onclick="openSidebar(47)"></div>
+          <div class="container"><img src="img\SANTA\Before the Gates of Hell.png" alt="48" id="48" data-flag="@X" onclick="openSidebar(48)"></div>
+          <div class="container"><img src="img\SANTA\Etali's Skeleton.png" alt="49" id="49" data-flag="@X" onclick="openSidebar(49)"></div>
+          <div class="container"><img src="img\SANTA\Ilmo, Ravenous Cub.png" alt="50" id="50" data-flag="@X" onclick="openSidebar(50)"></div>
+          <div class="container"><img src="img\SANTA\Boon of Athena.png" alt="51" id="51" data-flag="@X" onclick="openSidebar(51)"></div>
+          <div class="container"><img src="img\SANTA\Chitinflash Lancer.png" alt="52" id="52" data-flag="@X" onclick="openSidebar(52)"></div>
+          <div class="container"><img src="img\SANTA\Burgeoning Necromancer.png" alt="53" id="53" data-flag="@X" onclick="openSidebar(53)"></div>
+          <div class="container"><img src="img\SANTA\Fashionable Orc.png" alt="54" id="54" data-flag="@X" onclick="openSidebar(54)"></div>
+          <div class="container"><img src="img\SANTA\Keystone Adapter.png" alt="55" id="55" data-flag="@X" onclick="openSidebar(55)"></div>
+          <div class="container"><img src="img\SANTA\Carapace Crystallizer.png" alt="56" id="56" data-flag="@X" onclick="openSidebar(56)"></div>
+          <div class="container"><img src="img\SANTA\Chthonic Formthief.png" alt="57" id="57" data-flag="@X" onclick="openSidebar(57)"></div>
+          <div class="container"><img src="img\SANTA\CCRV-7 Blackbox.png" alt="58" id="58" data-flag="@X" onclick="openSidebar(58)"></div>
+          <div class="container"><img src="img\SANTA\Fiery Fascination.png" alt="59" id="59" data-flag="@X" onclick="openSidebar(59)"></div>
+          <div class="container"><img src="img\SANTA\Myth of Origination.png" alt="60" id="60" data-flag="@X" onclick="openSidebar(60)"></div>
+          <div class="container"><img src="img\SANTA\Chains of Command.png" alt="61" id="61" data-flag="@X" onclick="openSidebar(61)"></div>
+          <div class="container"><img src="img\SANTA\Frieren, The Last Great Mage.png" alt="62" id="62" data-flag="@X" onclick="openSidebar(62)"></div>
+          <div class="container"><img src="img\SANTA\Darkhand's Influence.png" alt="63" id="63" data-flag="@X" onclick="openSidebar(63)"></div>
+          <div class="container"><img src="img\SANTA\Follower Phoenix.png" alt="64" id="64" data-flag="@X" onclick="openSidebar(64)"></div>
+          <div class="container"><img src="img\SANTA\The Springwinder.png" alt="65" id="65" data-flag="@X" onclick="openSidebar(65)"></div>
+          <div class="container"><img src="img\SANTA\Etienne, Drone Operator.png" alt="66" id="66" data-flag="@X" onclick="openSidebar(66)"></div>
+          <div class="container"><img src="img\SANTA\Garron, Mad Inquisitor.png" alt="67" id="67" data-flag="@X" onclick="openSidebar(67)"></div>
+          <div class="container"><img src="img\SANTA\Demonhide Jacket.png" alt="68" id="68" data-flag="@X" onclick="openSidebar(68)"></div>
+          <div class="container"><img src="img\SANTA\Goblin Fireworks.png" alt="69" id="69" data-flag="@X" onclick="openSidebar(69)"></div>
+          <div class="container"><img src="img\SANTA\Terrible Wolfman.png" alt="70" id="70" data-flag="@X" onclick="openSidebar(70)"></div>
+          <div class="container"><img src="img\SANTA\Fanatic Submission.png" alt="71" id="71" data-flag="@X" onclick="openSidebar(71)"></div>
+          <div class="container"><img src="img\SANTA\Industrialized Recycling.png" alt="72" id="72" data-flag="@X" onclick="openSidebar(72)"></div>
+          <div class="container"><img src="img\SANTA\Dio, Evil Incarnate.png" alt="73" id="73" data-flag="@X" onclick="openSidebar(73)"></div>
+          <div class="container"><img src="img\SANTA\He Can Handle It.png" alt="74" id="74" data-flag="@X" onclick="openSidebar(74)"></div>
+          <div class="container"><img src="img\SANTA\Trash Treasurer.png" alt="75" id="75" data-flag="@X" onclick="openSidebar(75)"></div>
+          <div class="container"><img src="img\SANTA\Flawless Maneuver.png" alt="76" id="76" data-flag="@X" onclick="openSidebar(76)"></div>
+          <div class="container"><img src="img\SANTA\Kraken o' Nine Tails.png" alt="77" id="77" data-flag="@X" onclick="openSidebar(77)"></div>
+          <div class="container"><img src="img\SANTA\For the Elder.png" alt="78" id="78" data-flag="@X" onclick="openSidebar(78)"></div>
+          <div class="container"><img src="img\SANTA\Hearth Breach.png" alt="79" id="79" data-flag="@X" onclick="openSidebar(79)"></div>
+          <div class="container"><img src="img\SANTA\Traversing the Ruins of Time.png" alt="80" id="80" data-flag="@X" onclick="openSidebar(80)"></div>
+          <div class="container"><img src="img\SANTA\Grand Finale.png" alt="81" id="81" data-flag="@X" onclick="openSidebar(81)"></div>
+          <div class="container"><img src="img\SANTA\Marci, Replication Mage.png" alt="82" id="82" data-flag="@X" onclick="openSidebar(82)"></div>
+          <div class="container"><img src="img\SANTA\Fresh Air of Night.png" alt="83" id="83" data-flag="@X" onclick="openSidebar(83)"></div>
+          <div class="container"><img src="img\SANTA\Jeanne, Umbral Heir.png" alt="84" id="84" data-flag="@X" onclick="openSidebar(84)"></div>
+          <div class="container"><img src="img\SANTA\Turn to Edelwood.png" alt="85" id="85" data-flag="@X" onclick="openSidebar(85)"></div>
+          <div class="container"><img src="img\SANTA\Himmel, Inspiring Hero.png" alt="86" id="86" data-flag="@X" onclick="openSidebar(86)"></div>
+          <div class="container"><img src="img\SANTA\Mind Control Hat.png" alt="87" id="87" data-flag="@X" onclick="openSidebar(87)"></div>
+          <div class="container"><img src="img\SANTA\Get It Twisted.png" alt="88" id="88" data-flag="@X" onclick="openSidebar(88)"></div>
+          <div class="container"><img src="img\SANTA\Kamina, Who Believes in You.png" alt="89" id="89" data-flag="@X" onclick="openSidebar(89)"></div>
+          <div class="container"><img src="img\SANTA\Wooly Meowmoth.png" alt="90" id="90" data-flag="@X" onclick="openSidebar(90)"></div>
+          <div class="container"><img src="img\SANTA\Hold the Line.png" alt="91" id="91" data-flag="@X" onclick="openSidebar(91)"></div>
+          <div class="container"><img src="img\SANTA\Mystique, the Perfect Mimic.png" alt="92" id="92" data-flag="@X" onclick="openSidebar(92)"></div>
+          <div class="container"><img src="img\SANTA\Hard Drive Collector.png" alt="93" id="93" data-flag="@X" onclick="openSidebar(93)"></div>
+          <div class="container"><img src="img\SANTA\Mak'Gora.png" alt="94" id="94" data-flag="@X" onclick="openSidebar(94)"></div>
+          <div class="container"><img src="img\SANTA\Xerx's Rivalry.png" alt="95" id="95" data-flag="@X" onclick="openSidebar(95)"></div>
+          <div class="container"><img src="img\SANTA\Hour of Reckoning.png" alt="96" id="96" data-flag="@X" onclick="openSidebar(96)"></div>
+          <div class="container"><img src="img\SANTA\Nihilego.png" alt="97" id="97" data-flag="@X" onclick="openSidebar(97)"></div>
+          <div class="container"><img src="img\SANTA\Leyvoid Tear.png" alt="98" id="98" data-flag="@X" onclick="openSidebar(98)"></div>
+          <div class="container"><img src="img\SANTA\Mariah Carey, Defrosted.png" alt="99" id="99" data-flag="@X" onclick="openSidebar(99)"></div>
+          <div class="container"><img src="img\SANTA\Blossoming Descent.png" alt="100" id="100" data-flag="@X" onclick="openSidebar(100)"></div>
+          <div class="container"><img src="img\SANTA\Ideal Endured.png" alt="101" id="101" data-flag="@X" onclick="openSidebar(101)"></div>
+          <div class="container"><img src="img\SANTA\Osiris Chaser.png" alt="102" id="102" data-flag="@X" onclick="openSidebar(102)"></div>
+          <div class="container"><img src="img\SANTA\Lost and Found.png" alt="103" id="103" data-flag="@X" onclick="openSidebar(103)"></div>
+          <div class="container"><img src="img\SANTA\Orissa's Rivalry.png" alt="104" id="104" data-flag="@X" onclick="openSidebar(104)"></div>
+          <div class="container"><img src="img\SANTA\Day's End Rest.png" alt="105" id="105" data-flag="@X" onclick="openSidebar(105)"></div>
+          <div class="container"><img src="img\SANTA\Jintou, Progenitor of the Wilds.png" alt="106" id="106" data-flag="@X" onclick="openSidebar(106)"></div>
+          <div class="container"><img src="img\SANTA\Potapez, River-Blood.png" alt="107" id="107" data-flag="@X" onclick="openSidebar(107)"></div>
+          <div class="container"><img src="img\SANTA\Night Ride.png" alt="108" id="108" data-flag="@X" onclick="openSidebar(108)"></div>
+          <div class="container"><img src="img\SANTA\Ork Boyz.png" alt="109" id="109" data-flag="@X" onclick="openSidebar(109)"></div>
+          <div class="container"><img src="img\SANTA\Esoteric Spellscribe.png" alt="110" id="110" data-flag="@X" onclick="openSidebar(110)"></div>
+          <div class="container"><img src="img\SANTA\Leadership Ability Tree.png" alt="111" id="111" data-flag="@X" onclick="openSidebar(111)"></div>
+          <div class="container"><img src="img\SANTA\Resourceful Waterguardian.png" alt="112" id="112" data-flag="@X" onclick="openSidebar(112)"></div>
+          <div class="container"><img src="img\SANTA\The Silence.png" alt="113" id="113" data-flag="@X" onclick="openSidebar(113)"></div>
+          <div class="container"><img src="img\SANTA\Phil, Phil Connors.png" alt="114" id="114" data-flag="@X" onclick="openSidebar(114)"></div>
+          <div class="container"><img src="img\SANTA\Lepari Protector.png" alt="115" id="115" data-flag="@X" onclick="openSidebar(115)"></div>
+          <div class="container"><img src="img\SANTA\Link, Hero of Hyrule.png" alt="116" id="116" data-flag="@X" onclick="openSidebar(116)"></div>
+          <div class="container"><img src="img\SANTA\Silent Study.png" alt="117" id="117" data-flag="@X" onclick="openSidebar(117)"></div>
+          <div class="container"><img src="img\SANTA\Zoron, Plaguelord.png" alt="118" id="118" data-flag="@X" onclick="openSidebar(118)"></div>
+          <div class="container"><img src="img\SANTA\Trogdor the Burninator.png" alt="119" id="119" data-flag="@X" onclick="openSidebar(119)"></div>
+          <div class="container"><img src="img\SANTA\Mean Giant.png" alt="120" id="120" data-flag="@X" onclick="openSidebar(120)"></div>
+          <div class="container"><img src="img\SANTA\The Loving Silver Tree.png" alt="121" id="121" data-flag="@X" onclick="openSidebar(121)"></div>
+          <div class="container"><img src="img\SANTA\Sorceress Sellen_a.png" alt="122" id="122" data-flag="@N" onclick="openSidebar(122)"></div>
+          <div class="container"><img src="img\SANTA\Annihilape.png" alt="123" id="123" data-flag="@X" onclick="openSidebar(123)"></div>
+          <div class="container"><img src="img\SANTA\Vyze, Adventurous Swashbuckler.png" alt="124" id="124" data-flag="@X" onclick="openSidebar(124)"></div>
+          <div class="container"><img src="img\SANTA\Oomph.png" alt="125" id="125" data-flag="@X" onclick="openSidebar(125)"></div>
+          <div class="container"><img src="img\SANTA\Mardia, Dusk Priest.png" alt="126" id="126" data-flag="@X" onclick="openSidebar(126)"></div>
+          <div class="container"><img src="img\SANTA\They Who Knick the Knacks.png" alt="127" id="127" data-flag="@X" onclick="openSidebar(127)"></div>
+          <div class="container"><img src="img\SANTA\Cog Gang.png" alt="128" id="128" data-flag="@X" onclick="openSidebar(128)"></div>
+          <div class="container"><img src="img\SANTA\Aggressive Codriver.png" alt="129" id="129" data-flag="@X" onclick="openSidebar(129)"></div>
+          <div class="container"><img src="img\SANTA\Palm Weasel.png" alt="130" id="130" data-flag="@X" onclick="openSidebar(130)"></div>
+          <div class="container"><img src="img\SANTA\Maroth, Heavenly Overseer.png" alt="131" id="131" data-flag="@X" onclick="openSidebar(131)"></div>
+          <div class="container"><img src="img\SANTA\Victory at Any Cost.png" alt="132" id="132" data-flag="@X" onclick="openSidebar(132)"></div>
+          <div class="container"><img src="img\SANTA\Hemorrhage.png" alt="133" id="133" data-flag="@X" onclick="openSidebar(133)"></div>
+          <div class="container"><img src="img\SANTA\Berserk Spell.png" alt="134" id="134" data-flag="@X" onclick="openSidebar(134)"></div>
+          <div class="container"><img src="img\SANTA\Public Gardens.png" alt="135" id="135" data-flag="@X" onclick="openSidebar(135)"></div>
+          <div class="container"><img src="img\SANTA\Plentiful Canopy.png" alt="136" id="136" data-flag="@X" onclick="openSidebar(136)"></div>
+          <div class="container"><img src="img\SANTA\Where Earth Meets Sky.png" alt="137" id="137" data-flag="@X" onclick="openSidebar(137)"></div>
+          <div class="container"><img src="img\SANTA\Murderous Intent.png" alt="138" id="138" data-flag="@X" onclick="openSidebar(138)"></div>
+          <div class="container"><img src="img\SANTA\Bifurcated Crash.png" alt="139" id="139" data-flag="@X" onclick="openSidebar(139)"></div>
+          <div class="container"><img src="img\SANTA\Test of Mettle.png" alt="140" id="140" data-flag="@X" onclick="openSidebar(140)"></div>
+          <div class="container"><img src="img\SANTA\Potatoes and Molasses.png" alt="141" id="141" data-flag="@X" onclick="openSidebar(141)"></div>
+          <div class="container"><img src="img\SANTA\Coronal Astromancer.png" alt="142" id="142" data-flag="@X" onclick="openSidebar(142)"></div>
+          <div class="container"><img src="img\SANTA\Nemesistode.png" alt="143" id="143" data-flag="@X" onclick="openSidebar(143)"></div>
+          <div class="container"><img src="img\SANTA\Boon of Zeus.png" alt="144" id="144" data-flag="@X" onclick="openSidebar(144)"></div>
+          <div class="container"><img src="img\SANTA\Unspeak.png" alt="145" id="145" data-flag="@X" onclick="openSidebar(145)"></div>
+          <div class="container"><img src="img\SANTA\The Powerpuff Girls.png" alt="146" id="146" data-flag="@X" onclick="openSidebar(146)"></div>
+          <div class="container"><img src="img\SANTA\Cosmic Mind.png" alt="147" id="147" data-flag="@X" onclick="openSidebar(147)"></div>
+          <div class="container"><img src="img\SANTA\Nouveau Liche.png" alt="148" id="148" data-flag="@X" onclick="openSidebar(148)"></div>
+          <div class="container"><img src="img\SANTA\Bullet Control.png" alt="149" id="149" data-flag="@X" onclick="openSidebar(149)"></div>
+          <div class="container"><img src="img\SANTA\Wanderlust.png" alt="150" id="150" data-flag="@X" onclick="openSidebar(150)"></div>
+          <div class="container"><img src="img\SANTA\Sanctifiers-in-Ichor.png" alt="151" id="151" data-flag="@X" onclick="openSidebar(151)"></div>
+          <div class="container"><img src="img\SANTA\Deter.png" alt="152" id="152" data-flag="@X" onclick="openSidebar(152)"></div>
+          <div class="container"><img src="img\SANTA\Revolting Pixie.png" alt="153" id="153" data-flag="@X" onclick="openSidebar(153)"></div>
+          <div class="container"><img src="img\SANTA\Burning Memories.png" alt="154" id="154" data-flag="@X" onclick="openSidebar(154)"></div>
+          <div class="container"><img src="img\SANTA\Shimmering Aurora.png" alt="155" id="155" data-flag="@X" onclick="openSidebar(155)"></div>
+          <div class="container"><img src="img\SANTA\Secret Cobblers.png" alt="156" id="156" data-flag="@X" onclick="openSidebar(156)"></div>
+          <div class="container"><img src="img\SANTA\Feather's Fall.png" alt="157" id="157" data-flag="@X" onclick="openSidebar(157)"></div>
+          <div class="container"><img src="img\SANTA\Slay the Omen.png" alt="158" id="158" data-flag="@X" onclick="openSidebar(158)"></div>
+          <div class="container"><img src="img\SANTA\Car Jacker.png" alt="159" id="159" data-flag="@X" onclick="openSidebar(159)"></div>
+          <div class="container"><img src="img\SANTA\Ambitious Biofowl.png" alt="160" id="160" data-flag="@X" onclick="openSidebar(160)"></div>
+          <div class="container"><img src="img\SANTA\Simon, Who Pierces the Heavens.png" alt="161" id="161" data-flag="@X" onclick="openSidebar(161)"></div>
+          <div class="container"><img src="img\SANTA\Gen 2 Mana Vehicle.png" alt="162" id="162" data-flag="@X" onclick="openSidebar(162)"></div>
+          <div class="container"><img src="img\SANTA\Stirge Swarm.png" alt="163" id="163" data-flag="@X" onclick="openSidebar(163)"></div>
+          <div class="container"><img src="img\SANTA\Face the Molten Core.png" alt="164" id="164" data-flag="@X" onclick="openSidebar(164)"></div>
+          <div class="container"><img src="img\SANTA\Blessing of the Snake.png" alt="165" id="165" data-flag="@X" onclick="openSidebar(165)"></div>
+          <div class="container"><img src="img\SANTA\Solaire, Sun-Seeking Knight.png" alt="166" id="166" data-flag="@X" onclick="openSidebar(166)"></div>
+          <div class="container"><img src="img\SANTA\Gifts from Mother Crow.png" alt="167" id="167" data-flag="@X" onclick="openSidebar(167)"></div>
+          <div class="container"><img src="img\SANTA\Taken Out Back.png" alt="168" id="168" data-flag="@X" onclick="openSidebar(168)"></div>
+          <div class="container"><img src="img\SANTA\Feverish Fervor.png" alt="169" id="169" data-flag="@X" onclick="openSidebar(169)"></div>
+          <div class="container"><img src="img\SANTA\Cultivate.png" alt="170" id="170" data-flag="@X" onclick="openSidebar(170)"></div>
+          <div class="container"><img src="img\SANTA\Steel Meridian.png" alt="171" id="171" data-flag="@X" onclick="openSidebar(171)"></div>
+          <div class="container"><img src="img\SANTA\Grotto Musings.png" alt="172" id="172" data-flag="@X" onclick="openSidebar(172)"></div>
+          <div class="container"><img src="img\SANTA\Thrall's Wings.png" alt="173" id="173" data-flag="@X" onclick="openSidebar(173)"></div>
+          <div class="container"><img src="img\SANTA\Final Frontier.png" alt="174" id="174" data-flag="@X" onclick="openSidebar(174)"></div>
+          <div class="container"><img src="img\SANTA\Curious Lezhji.png" alt="175" id="175" data-flag="@X" onclick="openSidebar(175)"></div>
+          <div class="container"><img src="img\SANTA\Surge MV.png" alt="176" id="176" data-flag="@X" onclick="openSidebar(176)"></div>
+          <div class="container"><img src="img\SANTA\Into Infinity.png" alt="177" id="177" data-flag="@X" onclick="openSidebar(177)"></div>
+          <div class="container"><img src="img\SANTA\Tox.png" alt="178" id="178" data-flag="@X" onclick="openSidebar(178)"></div>
+          <div class="container"><img src="img\SANTA\Frizz.png" alt="179" id="179" data-flag="@X" onclick="openSidebar(179)"></div>
+          <div class="container"><img src="img\SANTA\Druidic Heirloom.png" alt="180" id="180" data-flag="@X" onclick="openSidebar(180)"></div>
+          <div class="container"><img src="img\SANTA\Telos Impact.png" alt="181" id="181" data-flag="@X" onclick="openSidebar(181)"></div>
+          <div class="container"><img src="img\SANTA\Learned Lioness.png" alt="182" id="182" data-flag="@X" onclick="openSidebar(182)"></div>
+          <div class="container"><img src="img\SANTA\Tunnel to Freedom.png" alt="183" id="183" data-flag="@X" onclick="openSidebar(183)"></div>
+          <div class="container"><img src="img\SANTA\Glitzy Rhinestone Jean Jacket.png" alt="184" id="184" data-flag="@X" onclick="openSidebar(184)"></div>
+          <div class="container"><img src="img\SANTA\Elvish Merrymakers.png" alt="185" id="185" data-flag="@X" onclick="openSidebar(185)"></div>
+          <div class="container"><img src="img\SANTA\Zoltraak.png" alt="186" id="186" data-flag="@X" onclick="openSidebar(186)"></div>
+          <div class="container"><img src="img\SANTA\Living Armor.png" alt="187" id="187" data-flag="@X" onclick="openSidebar(187)"></div>
+          <div class="container"><img src="img\SANTA\Unfortunate Accident.png" alt="188" id="188" data-flag="@X" onclick="openSidebar(188)"></div>
+          <div class="container"><img src="img\SANTA\Goblin Bombardier.png" alt="189" id="189" data-flag="@X" onclick="openSidebar(189)"></div>
+          <div class="container"><img src="img\SANTA\Fecundate.png" alt="190" id="190" data-flag="@X" onclick="openSidebar(190)"></div>
+          <div class="container"><img src="img\SANTA\Drangleic Castle.png" alt="191" id="191" data-flag="@X" onclick="openSidebar(191)"></div>
+          <div class="container"><img src="img\SANTA\Multiboost.png" alt="192" id="192" data-flag="@X" onclick="openSidebar(192)"></div>
+          <div class="container"><img src="img\SANTA\Abundance of Sickness.png" alt="193" id="193" data-flag="@X" onclick="openSidebar(193)"></div>
+          <div class="container"><img src="img\SANTA\Golden Gun.png" alt="194" id="194" data-flag="@X" onclick="openSidebar(194)"></div>
+          <div class="container"><img src="img\SANTA\Glade Wanderer.png" alt="195" id="195" data-flag="@X" onclick="openSidebar(195)"></div>
+          <div class="container"><img src="img\SANTA\Armed Farmer.png" alt="196" id="196" data-flag="@X" onclick="openSidebar(196)"></div>
+          <div class="container"><img src="img\SANTA\Obblinox Spy.png" alt="197" id="197" data-flag="@X" onclick="openSidebar(197)"></div>
+          <div class="container"><img src="img\SANTA\Beat Bloody.png" alt="198" id="198" data-flag="@X" onclick="openSidebar(198)"></div>
+          <div class="container"><img src="img\SANTA\Kazooie, Sassy Support.png" alt="199" id="199" data-flag="@X" onclick="openSidebar(199)"></div>
+          <div class="container"><img src="img\SANTA\Lepari Alchemist.png" alt="200" id="200" data-flag="@X" onclick="openSidebar(200)"></div>
+          <div class="container"><img src="img\SANTA\Birdfolk Hunter.png" alt="201" id="201" data-flag="@X" onclick="openSidebar(201)"></div>
+          <div class="container"><img src="img\SANTA\Ping.png" alt="202" id="202" data-flag="@X" onclick="openSidebar(202)"></div>
+          <div class="container"><img src="img\SANTA\Blackwings' Blessing.png" alt="203" id="203" data-flag="@X" onclick="openSidebar(203)"></div>
+          <div class="container"><img src="img\SANTA\Lion Clan Bandit.png" alt="204" id="204" data-flag="@X" onclick="openSidebar(204)"></div>
+          <div class="container"><img src="img\SANTA\Lifecycling Project.png" alt="205" id="205" data-flag="@X" onclick="openSidebar(205)"></div>
+          <div class="container"><img src="img\SANTA\Body Enhancement Magic.png" alt="206" id="206" data-flag="@X" onclick="openSidebar(206)"></div>
+          <div class="container"><img src="img\SANTA\Power Vortex.png" alt="207" id="207" data-flag="@X" onclick="openSidebar(207)"></div>
+          <div class="container"><img src="img\SANTA\Blindsight Initiate.png" alt="208" id="208" data-flag="@X" onclick="openSidebar(208)"></div>
+          <div class="container"><img src="img\SANTA\Needler.png" alt="209" id="209" data-flag="@X" onclick="openSidebar(209)"></div>
+          <div class="container"><img src="img\SANTA\Measure Your Strength.png" alt="210" id="210" data-flag="@X" onclick="openSidebar(210)"></div>
+          <div class="container"><img src="img\SANTA\Cloak in Rime.png" alt="211" id="211" data-flag="@X" onclick="openSidebar(211)"></div>
+          <div class="container"><img src="img\SANTA\Purple Tiger.png" alt="212" id="212" data-flag="@X" onclick="openSidebar(212)"></div>
+          <div class="container"><img src="img\SANTA\Blood Supper.png" alt="213" id="213" data-flag="@X" onclick="openSidebar(213)"></div>
+          <div class="container"><img src="img\SANTA\Repair Crew.png" alt="214" id="214" data-flag="@X" onclick="openSidebar(214)"></div>
+          <div class="container"><img src="img\SANTA\Mysterious Doors.png" alt="215" id="215" data-flag="@X" onclick="openSidebar(215)"></div>
+          <div class="container"><img src="img\SANTA\Cloud of Erasure.png" alt="216" id="216" data-flag="@X" onclick="openSidebar(216)"></div>
+          <div class="container"><img src="img\SANTA\Wrong Turn at Albuquerque.png" alt="217" id="217" data-flag="@X" onclick="openSidebar(217)"></div>
+          <div class="container"><img src="img\SANTA\Bloodborne Conjurant.png" alt="218" id="218" data-flag="@X" onclick="openSidebar(218)"></div>
+          <div class="container"><img src="img\SANTA\Shaggy, All Alone.png" alt="219" id="219" data-flag="@X" onclick="openSidebar(219)"></div>
+          <div class="container"><img src="img\SANTA\Nourishing Rot.png" alt="220" id="220" data-flag="@X" onclick="openSidebar(220)"></div>
+          <div class="container"><img src="img\SANTA\Combee_a.png" alt="221" id="221" data-flag="@N" onclick="openSidebar(221)"></div>
+          <div class="container"><img src="img\SANTA\Aspect of Fluidity.png" alt="222" id="222" data-flag="@X" onclick="openSidebar(222)"></div>
+          <div class="container"><img src="img\SANTA\Finished Business.png" alt="223" id="223" data-flag="@X" onclick="openSidebar(223)"></div>
+          <div class="container"><img src="img\SANTA\Team Lounge.png" alt="224" id="224" data-flag="@X" onclick="openSidebar(224)"></div>
+          <div class="container"><img src="img\SANTA\Pine Kraken.png" alt="225" id="225" data-flag="@X" onclick="openSidebar(225)"></div>
+          <div class="container"><img src="img\SANTA\Demonstrate Faith.png" alt="226" id="226" data-flag="@X" onclick="openSidebar(226)"></div>
+          <div class="container"><img src="img\SANTA\Blessing of the Ox.png" alt="227" id="227" data-flag="@X" onclick="openSidebar(227)"></div>
+          <div class="container"><img src="img\SANTA\Flesh Shatter.png" alt="228" id="228" data-flag="@X" onclick="openSidebar(228)"></div>
+          <div class="container"><img src="img\SANTA\Wildfire Phoenix.png" alt="229" id="229" data-flag="@X" onclick="openSidebar(229)"></div>
+          <div class="container"><img src="img\SANTA\Rapid Bite.png" alt="230" id="230" data-flag="@X" onclick="openSidebar(230)"></div>
+          <div class="container"><img src="img\SANTA\Dragon's Scales.png" alt="231" id="231" data-flag="@X" onclick="openSidebar(231)"></div>
+          <div class="container"><img src="img\SANTA\Diffuse.png" alt="232" id="232" data-flag="@X" onclick="openSidebar(232)"></div>
+          <div class="container"><img src="img\SANTA\Highborn Wretch.png" alt="233" id="233" data-flag="@X" onclick="openSidebar(233)"></div>
+          <div class="container"><img src="img\SANTA\Wizard Lord Phoenix.png" alt="234" id="234" data-flag="@X" onclick="openSidebar(234)"></div>
+          <div class="container"><img src="img\SANTA\Reach for the Impossible.png" alt="235" id="235" data-flag="@X" onclick="openSidebar(235)"></div>
+          <div class="container"><img src="img\SANTA\Dreamguide.png" alt="236" id="236" data-flag="@X" onclick="openSidebar(236)"></div>
+          <div class="container"><img src="img\SANTA\Gifted Thief.png" alt="237" id="237" data-flag="@X" onclick="openSidebar(237)"></div>
+          <div class="container"><img src="img\SANTA\Necromancer of Thay.png" alt="238" id="238" data-flag="@X" onclick="openSidebar(238)"></div>
+          <div class="container"><img src="img\SANTA\Aggressive Learning.png" alt="239" id="239" data-flag="@X" onclick="openSidebar(239)"></div>
+          <div class="container"><img src="img\SANTA\Rooftop Duel.png" alt="240" id="240" data-flag="@X" onclick="openSidebar(240)"></div>
+          <div class="container"><img src="img\SANTA\Fatal Crash.png" alt="241" id="241" data-flag="@X" onclick="openSidebar(241)"></div>
+          <div class="container"><img src="img\SANTA\Lepari Spiritspeaker.png" alt="242" id="242" data-flag="@X" onclick="openSidebar(242)"></div>
+          <div class="container"><img src="img\SANTA\Orc Matron.png" alt="243" id="243" data-flag="@X" onclick="openSidebar(243)"></div>
+          <div class="container"><img src="img\SANTA\Air Alight.png" alt="244" id="244" data-flag="@X" onclick="openSidebar(244)"></div>
+          <div class="container"><img src="img\SANTA\Sacred Tortoise.png" alt="245" id="245" data-flag="@X" onclick="openSidebar(245)"></div>
+          <div class="container"><img src="img\SANTA\Gracious Mycologist.png" alt="246" id="246" data-flag="@X" onclick="openSidebar(246)"></div>
+          <div class="container"><img src="img\SANTA\Maintain Tranquility.png" alt="247" id="247" data-flag="@X" onclick="openSidebar(247)"></div>
+          <div class="container"><img src="img\SANTA\Prison Break.png" alt="248" id="248" data-flag="@X" onclick="openSidebar(248)"></div>
+          <div class="container"><img src="img\SANTA\Back-Alley Bouncer.png" alt="249" id="249" data-flag="@X" onclick="openSidebar(249)"></div>
+          <div class="container"><img src="img\SANTA\Shelter in Place.png" alt="250" id="250" data-flag="@X" onclick="openSidebar(250)"></div>
+          <div class="container"><img src="img\SANTA\Knight of Might and Magic.png" alt="251" id="251" data-flag="@X" onclick="openSidebar(251)"></div>
+          <div class="container"><img src="img\SANTA\Mana Harness.png" alt="252" id="252" data-flag="@X" onclick="openSidebar(252)"></div>
+          <div class="container"><img src="img\SANTA\Punji Pit!.png" alt="253" id="253" data-flag="@X" onclick="openSidebar(253)"></div>
+          <div class="container"><img src="img\SANTA\Bring to Ruin.png" alt="254" id="254" data-flag="@X" onclick="openSidebar(254)"></div>
+          <div class="container"><img src="img\SANTA\Treetop Lezhji.png" alt="255" id="255" data-flag="@X" onclick="openSidebar(255)"></div>
+          <div class="container"><img src="img\SANTA\Metal Slime.png" alt="256" id="256" data-flag="@X" onclick="openSidebar(256)"></div>
+          <div class="container"><img src="img\SANTA\Melancholic Kelpie.png" alt="257" id="257" data-flag="@X" onclick="openSidebar(257)"></div>
+          <div class="container"><img src="img\SANTA\Shady Mafioso.png" alt="258" id="258" data-flag="@X" onclick="openSidebar(258)"></div>
+          <div class="container"><img src="img\SANTA\Human Seeking Gun.png" alt="259" id="259" data-flag="@X" onclick="openSidebar(259)"></div>
+          <div class="container"><img src="img\SANTA\Trickster Wolf.png" alt="260" id="260" data-flag="@X" onclick="openSidebar(260)"></div>
+          <div class="container"><img src="img\SANTA\Nurturing Love.png" alt="261" id="261" data-flag="@X" onclick="openSidebar(261)"></div>
+          <div class="container"><img src="img\SANTA\Mind Flayer.png" alt="262" id="262" data-flag="@X" onclick="openSidebar(262)"></div>
+          <div class="container"><img src="img\SANTA\Unearth (the Shards of Alara one).png" alt="263" id="263" data-flag="@X" onclick="openSidebar(263)"></div>
+          <div class="container"><img src="img\SANTA\Mankey.png" alt="264" id="264" data-flag="@X" onclick="openSidebar(264)"></div>
+          <div class="container"><img src="img\SANTA\Verdure Hart.png" alt="265" id="265" data-flag="@X" onclick="openSidebar(265)"></div>
+          <div class="container"><img src="img\SANTA\Ode to Caress and Cicatrix.png" alt="266" id="266" data-flag="@X" onclick="openSidebar(266)"></div>
+          <div class="container"><img src="img\SANTA\Protective Grotesque.png" alt="267" id="267" data-flag="@X" onclick="openSidebar(267)"></div>
+          <div class="container"><img src="img\SANTA\WAU Proxy.png" alt="268" id="268" data-flag="@X" onclick="openSidebar(268)"></div>
+          <div class="container"><img src="img\SANTA\Mass Weaponcrafting.png" alt="269" id="269" data-flag="@X" onclick="openSidebar(269)"></div>
+          <div class="container"><img src="img\SANTA\What's New Pussycat!.png" alt="270" id="270" data-flag="@X" onclick="openSidebar(270)"></div>
+          <div class="container"><img src="img\SANTA\Orpheus of the Bargain.png" alt="271" id="271" data-flag="@X" onclick="openSidebar(271)"></div>
+          <div class="container"><img src="img\SANTA\Ravenous Piranha.png" alt="272" id="272" data-flag="@X" onclick="openSidebar(272)"></div>
+          <div class="container"><img src="img\SANTA\Xerx's Subterfuge.png" alt="273" id="273" data-flag="@X" onclick="openSidebar(273)"></div>
+          <div class="container"><img src="img\SANTA\Over-Rev.png" alt="274" id="274" data-flag="@X" onclick="openSidebar(274)"></div>
+          <div class="container"><img src="img\SANTA\Wildkin Summoner.png" alt="275" id="275" data-flag="@X" onclick="openSidebar(275)"></div>
+          <div class="container"><img src="img\SANTA\Pitstop.png" alt="276" id="276" data-flag="@X" onclick="openSidebar(276)"></div>
+          <div class="container"><img src="img\SANTA\Slumber Deeply.png" alt="277" id="277" data-flag="@X" onclick="openSidebar(277)"></div>
+          <div class="container"><img src="img\SANTA\Zoinks!.png" alt="278" id="278" data-flag="@X" onclick="openSidebar(278)"></div>
+          <div class="container"><img src="img\SANTA\Pawmi.png" alt="279" id="279" data-flag="@X" onclick="openSidebar(279)"></div>
+          <div class="container"><img src="img\SANTA\Fortuitous Encounter.png" alt="280" id="280" data-flag="@X" onclick="openSidebar(280)"></div>
+          <div class="container"><img src="img\SANTA\Reheal.png" alt="281" id="281" data-flag="@X" onclick="openSidebar(281)"></div>
+          <div class="container"><img src="img\SANTA\Sorcerous Mishaps.png" alt="282" id="282" data-flag="@X" onclick="openSidebar(282)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="283" id="283" data-flag="@E" onclick="openSidebar(283)"></div>
+          <div class="container"><img src="img\SANTA\Pie in the Face!.png" alt="284" id="284" data-flag="@X" onclick="openSidebar(284)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="285" id="285" data-flag="@E" onclick="openSidebar(285)"></div>
+          <div class="container"><img src="img\SANTA\Rolling Maneuver.png" alt="286" id="286" data-flag="@X" onclick="openSidebar(286)"></div>
+          <div class="container"><img src="img\SANTA\Starwatcher Wolf.png" alt="287" id="287" data-flag="@X" onclick="openSidebar(287)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="288" id="288" data-flag="@E" onclick="openSidebar(288)"></div>
+          <div class="container"><img src="img\SANTA\Primeape.png" alt="289" id="289" data-flag="@X" onclick="openSidebar(289)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="290" id="290" data-flag="@E" onclick="openSidebar(290)"></div>
+          <div class="container"><img src="img\SANTA\Senshi, Dungeon Cook.png" alt="291" id="291" data-flag="@X" onclick="openSidebar(291)"></div>
+          <div class="container"><img src="img\SANTA\Temporary Jetpacks.png" alt="292" id="292" data-flag="@X" onclick="openSidebar(292)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="293" id="293" data-flag="@E" onclick="openSidebar(293)"></div>
+          <div class="container"><img src="img\SANTA\Quickshot Duo.png" alt="294" id="294" data-flag="@X" onclick="openSidebar(294)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="295" id="295" data-flag="@E" onclick="openSidebar(295)"></div>
+          <div class="container"><img src="img\SANTA\Tandem Sanctity.png" alt="296" id="296" data-flag="@X" onclick="openSidebar(296)"></div>
+          <div class="container"><img src="img\SANTA\Traveler's Dolphin.png" alt="297" id="297" data-flag="@X" onclick="openSidebar(297)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="298" id="298" data-flag="@E" onclick="openSidebar(298)"></div>
+          <div class="container"><img src="img\SANTA\Ride the Rocket.png" alt="299" id="299" data-flag="@X" onclick="openSidebar(299)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="300" id="300" data-flag="@E" onclick="openSidebar(300)"></div>
+          <div class="container"><img src="img\SANTA\Trusty Salvager.png" alt="301" id="301" data-flag="@X" onclick="openSidebar(301)"></div>
+          <div class="container"><img src="img\SANTA\Triumvirate's Dictate.png" alt="302" id="302" data-flag="@X" onclick="openSidebar(302)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="303" id="303" data-flag="@E" onclick="openSidebar(303)"></div>
+          <div class="container"><img src="img\SANTA\Slobbermander.png" alt="304" id="304" data-flag="@X" onclick="openSidebar(304)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="305" id="305" data-flag="@E" onclick="openSidebar(305)"></div>
+          <div class="container"><img src="img\SANTA\Unnatural Gust.png" alt="306" id="306" data-flag="@X" onclick="openSidebar(306)"></div>
+          <div class="container"><img src="img\SANTA\Well-Placed Bananas!.png" alt="307" id="307" data-flag="@X" onclick="openSidebar(307)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="308" id="308" data-flag="@E" onclick="openSidebar(308)"></div>
+          <div class="container"><img src="img\SANTA\Smoldering Inside.png" alt="309" id="309" data-flag="@X" onclick="openSidebar(309)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="310" id="310" data-flag="@E" onclick="openSidebar(310)"></div>
+          <div class="container"><img src="img\SANTA\Vox Harmonique.png" alt="311" id="311" data-flag="@X" onclick="openSidebar(311)"></div>
+          <div class="container"><img src="img\SANTA\Fearsome Sturgeon.png" alt="312" id="312" data-flag="@X" onclick="openSidebar(312)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="313" id="313" data-flag="@E" onclick="openSidebar(313)"></div>
+          <div class="container"><img src="img\SANTA\Traveler's Lizard.png" alt="314" id="314" data-flag="@X" onclick="openSidebar(314)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="315" id="315" data-flag="@E" onclick="openSidebar(315)"></div>
+          <div class="container"><img src="img\SANTA\Blessing of the Hare.png" alt="316" id="316" data-flag="@X" onclick="openSidebar(316)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="317" id="317" data-flag="@E" onclick="openSidebar(317)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="318" id="318" data-flag="@E" onclick="openSidebar(318)"></div>
+          <div class="container"><img src="img\SANTA\Unlucky Accident.png" alt="319" id="319" data-flag="@X" onclick="openSidebar(319)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="320" id="320" data-flag="@E" onclick="openSidebar(320)"></div>
+          <div class="container"><img src="img\SANTA\Chained Lezhji.png" alt="321" id="321" data-flag="@X" onclick="openSidebar(321)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="322" id="322" data-flag="@E" onclick="openSidebar(322)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="323" id="323" data-flag="@E" onclick="openSidebar(323)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="324" id="324" data-flag="@E" onclick="openSidebar(324)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="325" id="325" data-flag="@E" onclick="openSidebar(325)"></div>
+          <div class="container"><img src="img\SANTA\Comedic Vandalism!.png" alt="326" id="326" data-flag="@X" onclick="openSidebar(326)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="327" id="327" data-flag="@E" onclick="openSidebar(327)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="328" id="328" data-flag="@E" onclick="openSidebar(328)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="329" id="329" data-flag="@E" onclick="openSidebar(329)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="330" id="330" data-flag="@E" onclick="openSidebar(330)"></div>
+          <div class="container"><img src="img\SANTA\Devoted Peacekeeper.png" alt="331" id="331" data-flag="@X" onclick="openSidebar(331)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="332" id="332" data-flag="@E" onclick="openSidebar(332)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="333" id="333" data-flag="@E" onclick="openSidebar(333)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="334" id="334" data-flag="@E" onclick="openSidebar(334)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="335" id="335" data-flag="@E" onclick="openSidebar(335)"></div>
+          <div class="container"><img src="img\SANTA\Falling Anvil.png" alt="336" id="336" data-flag="@X" onclick="openSidebar(336)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="337" id="337" data-flag="@E" onclick="openSidebar(337)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="338" id="338" data-flag="@E" onclick="openSidebar(338)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="339" id="339" data-flag="@E" onclick="openSidebar(339)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="340" id="340" data-flag="@E" onclick="openSidebar(340)"></div>
+          <div class="container"><img src="img\SANTA\Gathering Power.png" alt="341" id="341" data-flag="@X" onclick="openSidebar(341)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="342" id="342" data-flag="@E" onclick="openSidebar(342)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="343" id="343" data-flag="@E" onclick="openSidebar(343)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="344" id="344" data-flag="@E" onclick="openSidebar(344)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="345" id="345" data-flag="@E" onclick="openSidebar(345)"></div>
+          <div class="container"><img src="img\SANTA\Grandfather's Faith.png" alt="346" id="346" data-flag="@X" onclick="openSidebar(346)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="347" id="347" data-flag="@E" onclick="openSidebar(347)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="348" id="348" data-flag="@E" onclick="openSidebar(348)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="349" id="349" data-flag="@E" onclick="openSidebar(349)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="350" id="350" data-flag="@E" onclick="openSidebar(350)"></div>
+          <div class="container"><img src="img\SANTA\Laidback Cat.png" alt="351" id="351" data-flag="@X" onclick="openSidebar(351)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="352" id="352" data-flag="@E" onclick="openSidebar(352)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="353" id="353" data-flag="@E" onclick="openSidebar(353)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="354" id="354" data-flag="@E" onclick="openSidebar(354)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="355" id="355" data-flag="@E" onclick="openSidebar(355)"></div>
+          <div class="container"><img src="img\SANTA\Long-Story Prophet.png" alt="356" id="356" data-flag="@X" onclick="openSidebar(356)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="357" id="357" data-flag="@E" onclick="openSidebar(357)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="358" id="358" data-flag="@E" onclick="openSidebar(358)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="359" id="359" data-flag="@E" onclick="openSidebar(359)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="360" id="360" data-flag="@E" onclick="openSidebar(360)"></div>
+          <div class="container"><img src="img\SANTA\Magical Companionship.png" alt="361" id="361" data-flag="@X" onclick="openSidebar(361)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="362" id="362" data-flag="@E" onclick="openSidebar(362)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="363" id="363" data-flag="@E" onclick="openSidebar(363)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="364" id="364" data-flag="@E" onclick="openSidebar(364)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="365" id="365" data-flag="@E" onclick="openSidebar(365)"></div>
+          <div class="container"><img src="img\SANTA\Maushold.png" alt="366" id="366" data-flag="@X" onclick="openSidebar(366)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="367" id="367" data-flag="@E" onclick="openSidebar(367)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="368" id="368" data-flag="@E" onclick="openSidebar(368)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="369" id="369" data-flag="@E" onclick="openSidebar(369)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="370" id="370" data-flag="@E" onclick="openSidebar(370)"></div>
+          <div class="container"><img src="img\SANTA\Pauper's Revenge.png" alt="371" id="371" data-flag="@X" onclick="openSidebar(371)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="372" id="372" data-flag="@E" onclick="openSidebar(372)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="373" id="373" data-flag="@E" onclick="openSidebar(373)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="374" id="374" data-flag="@E" onclick="openSidebar(374)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="375" id="375" data-flag="@E" onclick="openSidebar(375)"></div>
+          <div class="container"><img src="img\SANTA\Potato Duty.png" alt="376" id="376" data-flag="@X" onclick="openSidebar(376)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="377" id="377" data-flag="@E" onclick="openSidebar(377)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="378" id="378" data-flag="@E" onclick="openSidebar(378)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="379" id="379" data-flag="@E" onclick="openSidebar(379)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="380" id="380" data-flag="@E" onclick="openSidebar(380)"></div>
+          <div class="container"><img src="img\SANTA\Rally For the Fallen King.png" alt="381" id="381" data-flag="@X" onclick="openSidebar(381)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="382" id="382" data-flag="@E" onclick="openSidebar(382)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="383" id="383" data-flag="@E" onclick="openSidebar(383)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="384" id="384" data-flag="@E" onclick="openSidebar(384)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="385" id="385" data-flag="@E" onclick="openSidebar(385)"></div>
+          <div class="container"><img src="img\SANTA\Tandemaus.png" alt="386" id="386" data-flag="@X" onclick="openSidebar(386)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="387" id="387" data-flag="@E" onclick="openSidebar(387)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="388" id="388" data-flag="@E" onclick="openSidebar(388)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="389" id="389" data-flag="@E" onclick="openSidebar(389)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="390" id="390" data-flag="@E" onclick="openSidebar(390)"></div>
+          <div class="container"><img src="img\SANTA\Traveler's Bird.png" alt="391" id="391" data-flag="@X" onclick="openSidebar(391)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="392" id="392" data-flag="@E" onclick="openSidebar(392)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="393" id="393" data-flag="@E" onclick="openSidebar(393)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="394" id="394" data-flag="@E" onclick="openSidebar(394)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="395" id="395" data-flag="@E" onclick="openSidebar(395)"></div>
+          <div class="container"><img src="img\SANTA\Uncontested Cornucopia.png" alt="396" id="396" data-flag="@X" onclick="openSidebar(396)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="397" id="397" data-flag="@E" onclick="openSidebar(397)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="398" id="398" data-flag="@E" onclick="openSidebar(398)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="399" id="399" data-flag="@E" onclick="openSidebar(399)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="400" id="400" data-flag="@E" onclick="openSidebar(400)"></div>
+          <div class="container"><img src="img\SANTA\Winterfall.png" alt="401" id="401" data-flag="@X" onclick="openSidebar(401)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="402" id="402" data-flag="@E" onclick="openSidebar(402)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="403" id="403" data-flag="@E" onclick="openSidebar(403)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="404" id="404" data-flag="@E" onclick="openSidebar(404)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="405" id="405" data-flag="@E" onclick="openSidebar(405)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="406" id="406" data-flag="@ER" onclick="openSidebar(406)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="407" id="407" data-flag="@ER" onclick="openSidebar(407)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="408" id="408" data-flag="@ER" onclick="openSidebar(408)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="409" id="409" data-flag="@ER" onclick="openSidebar(409)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="410" id="410" data-flag="@ER" onclick="openSidebar(410)"></div>
+          <div class="container"><img src="img\SANTA\Kal-El, the Man of Steel.png" alt="411" id="411" data-flag="@X" onclick="openSidebar(411)"></div>
+          <div class="container"><img src="img\SANTA\Flitterghast.png" alt="412" id="412" data-flag="@X" onclick="openSidebar(412)"></div>
+          <div class="container"><img src="img\SANTA\F'Dor, Born from Black Fire.png" alt="413" id="413" data-flag="@X" onclick="openSidebar(413)"></div>
+          <div class="container"><img src="img\SANTA\Anomaly Glitch.png" alt="414" id="414" data-flag="@X" onclick="openSidebar(414)"></div>
+          <div class="container"><img src="img\SANTA\Ochre, Caretaker of the Wilds.png" alt="415" id="415" data-flag="@X" onclick="openSidebar(415)"></div>
+          <div class="container"><img src="img\SANTA\Melody, Queen of Tides.png" alt="416" id="416" data-flag="@X" onclick="openSidebar(416)"></div>
+          <div class="container"><img src="img\SANTA\Robin, Unveiler of Truths.png" alt="417" id="417" data-flag="@X" onclick="openSidebar(417)"></div>
+          <div class="container"><img src="img\SANTA\Lucina, Hellish Defier.png" alt="418" id="418" data-flag="@X" onclick="openSidebar(418)"></div>
+          <div class="container"><img src="img\SANTA\Aino of the Everwilds.png" alt="419" id="419" data-flag="@X" onclick="openSidebar(419)"></div>
+          <div class="container"><img src="img\SANTA\Baba is You.png" alt="420" id="420" data-flag="@X" onclick="openSidebar(420)"></div>
+          <div class="container"><img src="img\SANTA\Victoria, Rift Genius.png" alt="421" id="421" data-flag="@X" onclick="openSidebar(421)"></div>
+          <div class="container"><img src="img\SANTA\Tendrils of Memory.png" alt="422" id="422" data-flag="@X" onclick="openSidebar(422)"></div>
+          <div class="container"><img src="img\SANTA\Orc Elemental.png" alt="423" id="423" data-flag="@X" onclick="openSidebar(423)"></div>
+          <div class="container"><img src="img\SANTA\Okami Amaterasu.png" alt="424" id="424" data-flag="@X" onclick="openSidebar(424)"></div>
+          <div class="container"><img src="img\SANTA\Bound in Heresy.png" alt="425" id="425" data-flag="@X" onclick="openSidebar(425)"></div>
+          <div class="container"><img src="img\SANTA\Byakuren, Superhuman.png" alt="426" id="426" data-flag="@X" onclick="openSidebar(426)"></div>
+          <div class="container"><img src="img\SANTA\Vin, Ascendant Mistborn.png" alt="427" id="427" data-flag="@X" onclick="openSidebar(427)"></div>
+          <div class="container"><img src="img\SANTA\Sylvia, Insurgent Inferno.png" alt="428" id="428" data-flag="@X" onclick="openSidebar(428)"></div>
+          <div class="container"><img src="img\SANTA\Scrapper's Awakening.png" alt="429" id="429" data-flag="@X" onclick="openSidebar(429)"></div>
+          <div class="container"><img src="img\SANTA\Greg's Sacrifice.png" alt="430" id="430" data-flag="@X" onclick="openSidebar(430)"></div>
+          <div class="container"><img src="img\SANTA\Clouded Factory.png" alt="431" id="431" data-flag="@X" onclick="openSidebar(431)"></div>
+          <div class="container"><img src="img\SANTA\Wirt, Stubborn Worrywort.png" alt="432" id="432" data-flag="@X" onclick="openSidebar(432)"></div>
+          <div class="container"><img src="img\SANTA\Annihilation.png" alt="433" id="433" data-flag="@X" onclick="openSidebar(433)"></div>
+          <div class="container"><img src="img\SANTA\Sihari, Desolate Wanderer.png" alt="434" id="434" data-flag="@X" onclick="openSidebar(434)"></div>
+          <div class="container"><img src="img\SANTA\Harvest Festival.png" alt="435" id="435" data-flag="@X" onclick="openSidebar(435)"></div>
+          <div class="container"><img src="img\SANTA\Confident Mountie.png" alt="436" id="436" data-flag="@X" onclick="openSidebar(436)"></div>
+          <div class="container"><img src="img\SANTA\Academy Sewers.png" alt="437" id="437" data-flag="@X" onclick="openSidebar(437)"></div>
+          <div class="container"><img src="img\SANTA\The First Titan Awakens.png" alt="438" id="438" data-flag="@X" onclick="openSidebar(438)"></div>
+          <div class="container"><img src="img\SANTA\Kenjiki, the Cresting Wave.png" alt="439" id="439" data-flag="@X" onclick="openSidebar(439)"></div>
+          <div class="container"><img src="img\SANTA\Kaprja, Nature-Heart.png" alt="440" id="440" data-flag="@X" onclick="openSidebar(440)"></div>
+          <div class="container"><img src="img\SANTA\Grave Quellings.png" alt="441" id="441" data-flag="@X" onclick="openSidebar(441)"></div>
+          <div class="container"><img src="img\SANTA\Baneful Portent.png" alt="442" id="442" data-flag="@X" onclick="openSidebar(442)"></div>
+          <div class="container"><img src="img\SANTA\Grandfather's Foe.png" alt="443" id="443" data-flag="@X" onclick="openSidebar(443)"></div>
+          <div class="container"><img src="img\SANTA\Lantern Woodsman.png" alt="444" id="444" data-flag="@X" onclick="openSidebar(444)"></div>
+          <div class="container"><img src="img\SANTA\Manaweave Snake.png" alt="445" id="445" data-flag="@X" onclick="openSidebar(445)"></div>
+          <div class="container"><img src="img\SANTA\Inne the Storied Sea.png" alt="446" id="446" data-flag="@X" onclick="openSidebar(446)"></div>
+          <div class="container"><img src="img\SANTA\Beatrice's Curse.png" alt="447" id="447" data-flag="@X" onclick="openSidebar(447)"></div>
+          <div class="container"><img src="img\SANTA\Iron Hands.png" alt="448" id="448" data-flag="@X" onclick="openSidebar(448)"></div>
+          <div class="container"><img src="img\SANTA\Machine Rights Activist.png" alt="449" id="449" data-flag="@X" onclick="openSidebar(449)"></div>
+          <div class="container"><img src="img\SANTA\The Pack.png" alt="450" id="450" data-flag="@X" onclick="openSidebar(450)"></div>
+          <div class="container"><img src="img\SANTA\Inspector Wong An-Qing.png" alt="451" id="451" data-flag="@X" onclick="openSidebar(451)"></div>
+          <div class="container"><img src="img\SANTA\Davriel Cane, Spell Thief.png" alt="452" id="452" data-flag="@X" onclick="openSidebar(452)"></div>
+          <div class="container"><img src="img\SANTA\Marsh, Reaper of Flesh.png" alt="453" id="453" data-flag="@X" onclick="openSidebar(453)"></div>
+          <div class="container"><img src="img\SANTA\Scrap Crawler.png" alt="454" id="454" data-flag="@X" onclick="openSidebar(454)"></div>
+          <div class="container"><img src="img\SANTA\Fallen Majesty.png" alt="455" id="455" data-flag="@X" onclick="openSidebar(455)"></div>
+          <div class="container"><img src="img\SANTA\Law of Cycles.png" alt="456" id="456" data-flag="@X" onclick="openSidebar(456)"></div>
+          <div class="container"><img src="img\SANTA\Oilslick Defiler.png" alt="457" id="457" data-flag="@X" onclick="openSidebar(457)"></div>
+          <div class="container"><img src="img\SANTA\Morathi, Shadow Queen.png" alt="458" id="458" data-flag="@X" onclick="openSidebar(458)"></div>
+          <div class="container"><img src="img\SANTA\Envy.png" alt="459" id="459" data-flag="@X" onclick="openSidebar(459)"></div>
+          <div class="container"><img src="img\SANTA\Gladeheart Sentinel.png" alt="460" id="460" data-flag="@X" onclick="openSidebar(460)"></div>
+          <div class="container"><img src="img\SANTA\Meat Magic.png" alt="461" id="461" data-flag="@X" onclick="openSidebar(461)"></div>
+          <div class="container"><img src="img\SANTA\Simon Jarret, Deathspeaker.png" alt="462" id="462" data-flag="@X" onclick="openSidebar(462)"></div>
+          <div class="container"><img src="img\SANTA\Out from Nowhere.png" alt="463" id="463" data-flag="@X" onclick="openSidebar(463)"></div>
+          <div class="container"><img src="img\SANTA\Monster Scout Championship.png" alt="464" id="464" data-flag="@X" onclick="openSidebar(464)"></div>
+          <div class="container"><img src="img\SANTA\Horned Lezhji.png" alt="465" id="465" data-flag="@X" onclick="openSidebar(465)"></div>
+          <div class="container"><img src="img\SANTA\Overseers of the Library.png" alt="466" id="466" data-flag="@X" onclick="openSidebar(466)"></div>
+          <div class="container"><img src="img\SANTA\Terry Akers, Blind Prophet.png" alt="467" id="467" data-flag="@X" onclick="openSidebar(467)"></div>
+          <div class="container"><img src="img\SANTA\Ryuko Matoi, Friend of Senkutsu.png" alt="468" id="468" data-flag="@X" onclick="openSidebar(468)"></div>
+          <div class="container"><img src="img\SANTA\Unstoppable Hacksaurus.png" alt="469" id="469" data-flag="@X" onclick="openSidebar(469)"></div>
+          <div class="container"><img src="img\SANTA\Hospitality.png" alt="470" id="470" data-flag="@X" onclick="openSidebar(470)"></div>
+          <div class="container"><img src="img\SANTA\Render Unto Whispers.png" alt="471" id="471" data-flag="@X" onclick="openSidebar(471)"></div>
+          <div class="container"><img src="img\SANTA\Thought Slurp.png" alt="472" id="472" data-flag="@X" onclick="openSidebar(472)"></div>
+          <div class="container"><img src="img\SANTA\Starmetal Fearkiller.png" alt="473" id="473" data-flag="@X" onclick="openSidebar(473)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="474" id="474" data-flag="@E" onclick="openSidebar(474)"></div>
+          <div class="container"><img src="img\SANTA\Naturate.png" alt="475" id="475" data-flag="@X" onclick="openSidebar(475)"></div>
+          <div class="container"><img src="img\SANTA\Shoreskipper Dragon.png" alt="476" id="476" data-flag="@X" onclick="openSidebar(476)"></div>
+          <div class="container"><img src="img\SANTA\Imp.png" alt="477" id="477" data-flag="@X" onclick="openSidebar(477)"></div>
+          <div class="container"><img src="img\SANTA\Torment.png" alt="478" id="478" data-flag="@X" onclick="openSidebar(478)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="479" id="479" data-flag="@E" onclick="openSidebar(479)"></div>
+          <div class="container"><img src="img\SANTA\Sungrace Familiar.png" alt="480" id="480" data-flag="@X" onclick="openSidebar(480)"></div>
+          <div class="container"><img src="img\SANTA\Banjo, Beary Polite.png" alt="481" id="481" data-flag="@X" onclick="openSidebar(481)"></div>
+          <div class="container"><img src="img\SANTA\Amnesia.png" alt="482" id="482" data-flag="@X" onclick="openSidebar(482)"></div>
+          <div class="container"><img src="img\SANTA\Clownspicuous Prankfiltraitor.png" alt="483" id="483" data-flag="@X" onclick="openSidebar(483)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="484" id="484" data-flag="@E" onclick="openSidebar(484)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="485" id="485" data-flag="@E" onclick="openSidebar(485)"></div>
+          <div class="container"><img src="img\SANTA\Close Down.png" alt="486" id="486" data-flag="@X" onclick="openSidebar(486)"></div>
+          <div class="container"><img src="img\SANTA\March of the Damned.png" alt="487" id="487" data-flag="@X" onclick="openSidebar(487)"></div>
+          <div class="container"><img src="img\SANTA\Stalking Imp.png" alt="488" id="488" data-flag="@X" onclick="openSidebar(488)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="489" id="489" data-flag="@E" onclick="openSidebar(489)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="490" id="490" data-flag="@E" onclick="openSidebar(490)"></div>
+          <div class="container"><img src="img\SANTA\Ephemeral Savior.png" alt="491" id="491" data-flag="@X" onclick="openSidebar(491)"></div>
+          <div class="container"><img src="img\SANTA\Nuisance of the Deep.png" alt="492" id="492" data-flag="@X" onclick="openSidebar(492)"></div>
+          <div class="container"><img src="img\SANTA\Pyrejack.png" alt="493" id="493" data-flag="@X" onclick="openSidebar(493)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="494" id="494" data-flag="@E" onclick="openSidebar(494)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="495" id="495" data-flag="@E" onclick="openSidebar(495)"></div>
+          <div class="container"><img src="img\SANTA\Heal Slime.png" alt="496" id="496" data-flag="@X" onclick="openSidebar(496)"></div>
+          <div class="container"><img src="img\SANTA\Unknown Intruder.png" alt="497" id="497" data-flag="@X" onclick="openSidebar(497)"></div>
+          <div class="container"><img src="img\SANTA\Pernicious Specter.png" alt="498" id="498" data-flag="@X" onclick="openSidebar(498)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="499" id="499" data-flag="@E" onclick="openSidebar(499)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="500" id="500" data-flag="@E" onclick="openSidebar(500)"></div>
+          <div class="container"><img src="img\SANTA\Loyalty.png" alt="501" id="501" data-flag="@X" onclick="openSidebar(501)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="502" id="502" data-flag="@E" onclick="openSidebar(502)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="503" id="503" data-flag="@E" onclick="openSidebar(503)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="504" id="504" data-flag="@E" onclick="openSidebar(504)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="505" id="505" data-flag="@E" onclick="openSidebar(505)"></div>
+          <div class="container"><img src="img\SANTA\Starbright Familiar.png" alt="506" id="506" data-flag="@X" onclick="openSidebar(506)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="507" id="507" data-flag="@E" onclick="openSidebar(507)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="508" id="508" data-flag="@E" onclick="openSidebar(508)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="509" id="509" data-flag="@E" onclick="openSidebar(509)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="510" id="510" data-flag="@E" onclick="openSidebar(510)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="511" id="511" data-flag="@ER" onclick="openSidebar(511)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="512" id="512" data-flag="@ER" onclick="openSidebar(512)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="513" id="513" data-flag="@ER" onclick="openSidebar(513)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="514" id="514" data-flag="@ER" onclick="openSidebar(514)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="515" id="515" data-flag="@ER" onclick="openSidebar(515)"></div>
+          <div class="container"><img src="img\SANTA\Nix and Twain, Conglomerate.png" alt="516" id="516" data-flag="@X" onclick="openSidebar(516)"></div>
+          <div class="container"><img src="img\SANTA\Meras, Worldrot.png" alt="517" id="517" data-flag="@X" onclick="openSidebar(517)"></div>
+          <div class="container"><img src="img\SANTA\Arlea of Mellow Winds.png" alt="518" id="518" data-flag="@X" onclick="openSidebar(518)"></div>
+          <div class="container"><img src="img\SANTA\Entrapta, Inventor Princess.png" alt="519" id="519" data-flag="@X" onclick="openSidebar(519)"></div>
+          <div class="container"><img src="img\SANTA\Jack Cooper, Surprise Militia Ace.png" alt="520" id="520" data-flag="@X" onclick="openSidebar(520)"></div>
+          <div class="container"><img src="img\SANTA\Persephone, Repentant Assassin.png" alt="521" id="521" data-flag="@X" onclick="openSidebar(521)"></div>
+          <div class="container"><img src="img\SANTA\The Black Marauder.png" alt="522" id="522" data-flag="@X" onclick="openSidebar(522)"></div>
+          <div class="container"><img src="img\SANTA\Jörmungandr, World Serpent.png" alt="523" id="523" data-flag="@N" onclick="openSidebar(523)"></div>
+          <div class="container"><img src="img\SANTA\Interplanar Dragonstorm.png" alt="524" id="524" data-flag="@X" onclick="openSidebar(524)"></div>
+          <div class="container"><img src="img\SANTA\Ameline, the Devourer.png" alt="525" id="525" data-flag="@X" onclick="openSidebar(525)"></div>
+          <div class="container"><img src="img\SANTA\Shora, the Bound Undeath.png" alt="526" id="526" data-flag="@X" onclick="openSidebar(526)"></div>
+          <div class="container"><img src="img\SANTA\Butterphi.png" alt="527" id="527" data-flag="@X" onclick="openSidebar(527)"></div>
+          <div class="container"><img src="img\SANTA\Simul, Prodigal Biomage.png" alt="528" id="528" data-flag="@X" onclick="openSidebar(528)"></div>
+          <div class="container"><img src="img\SANTA\Liactru, Artisan of Storms.png" alt="529" id="529" data-flag="@X" onclick="openSidebar(529)"></div>
+          <div class="container"><img src="img\SANTA\Anakrios, Spear of Akros.png" alt="530" id="530" data-flag="@X" onclick="openSidebar(530)"></div>
+          <div class="container"><img src="img\SANTA\Orzhov Syndicate Contract.png" alt="531" id="531" data-flag="@X" onclick="openSidebar(531)"></div>
+          <div class="container"><img src="img\SANTA\Wicked Treeface.png" alt="532" id="532" data-flag="@X" onclick="openSidebar(532)"></div>
+          <div class="container"><img src="img\SANTA\Titania, Silver Guardian.png" alt="533" id="533" data-flag="@X" onclick="openSidebar(533)"></div>
+          <div class="container"><img src="img\SANTA\Blaithi Armsmaster.png" alt="534" id="534" data-flag="@X" onclick="openSidebar(534)"></div>
+          <div class="container"><img src="img\SANTA\Deus ex Infinitum.png" alt="535" id="535" data-flag="@X" onclick="openSidebar(535)"></div>
+          <div class="container"><img src="img\SANTA\Ambling Aumbry.png" alt="536" id="536" data-flag="@X" onclick="openSidebar(536)"></div>
+          <div class="container"><img src="img\SANTA\Hunting Expedition.png" alt="537" id="537" data-flag="@X" onclick="openSidebar(537)"></div>
+          <div class="container"><img src="img\SANTA\Bufous III, King of Toads.png" alt="538" id="538" data-flag="@X" onclick="openSidebar(538)"></div>
+          <div class="container"><img src="img\SANTA\Duck Season, Rabbit Season.png" alt="539" id="539" data-flag="@X" onclick="openSidebar(539)"></div>
+          <div class="container"><img src="img\SANTA\The Horde.png" alt="540" id="540" data-flag="@X" onclick="openSidebar(540)"></div>
+          <div class="container"><img src="img\SANTA\Antithetical Alliance.png" alt="541" id="541" data-flag="@X" onclick="openSidebar(541)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="542" id="542" data-flag="@E" onclick="openSidebar(542)"></div>
+          <div class="container"><img src="img\SANTA\Calcifying Infestation.png" alt="543" id="543" data-flag="@X" onclick="openSidebar(543)"></div>
+          <div class="container"><img src="img\SANTA\The Nucleus.png" alt="544" id="544" data-flag="@X" onclick="openSidebar(544)"></div>
+          <div class="container"><img src="img\SANTA\Ray, Union Spark.png" alt="545" id="545" data-flag="@X" onclick="openSidebar(545)"></div>
+          <div class="container"><img src="img\SANTA\The Ark.png" alt="546" id="546" data-flag="@X" onclick="openSidebar(546)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="547" id="547" data-flag="@E" onclick="openSidebar(547)"></div>
+          <div class="container"><img src="img\SANTA\Emai of the Fated Thread.png" alt="548" id="548" data-flag="@X" onclick="openSidebar(548)"></div>
+          <div class="container"><img src="img\SANTA\Orissa's Talent.png" alt="549" id="549" data-flag="@X" onclick="openSidebar(549)"></div>
+          <div class="container"><img src="img\SANTA\Saraquiel, Fiery Salvation.png" alt="550" id="550" data-flag="@X" onclick="openSidebar(550)"></div>
+          <div class="container"><img src="img\SANTA\Inescapable Capture.png" alt="551" id="551" data-flag="@X" onclick="openSidebar(551)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="552" id="552" data-flag="@E" onclick="openSidebar(552)"></div>
+          <div class="container"><img src="img\SANTA\Flights of Whimsy.png" alt="553" id="553" data-flag="@X" onclick="openSidebar(553)"></div>
+          <div class="container"><img src="img\SANTA\Pranks Aplenty.png" alt="554" id="554" data-flag="@X" onclick="openSidebar(554)"></div>
+          <div class="container"><img src="img\SANTA\Zagrea, At the Helm.png" alt="555" id="555" data-flag="@X" onclick="openSidebar(555)"></div>
+          <div class="container"><img src="img\SANTA\Returner Apostle.png" alt="556" id="556" data-flag="@X" onclick="openSidebar(556)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="557" id="557" data-flag="@E" onclick="openSidebar(557)"></div>
+          <div class="container"><img src="img\SANTA\Nadu, Seer of the Beyond.png" alt="558" id="558" data-flag="@X" onclick="openSidebar(558)"></div>
+          <div class="container"><img src="img\SANTA\Refuel.png" alt="559" id="559" data-flag="@X" onclick="openSidebar(559)"></div>
+          <div class="container"><img src="img\SANTA\Inescapable Bonds of Love.png" alt="560" id="560" data-flag="@X" onclick="openSidebar(560)"></div>
+          <div class="container"><img src="img\SANTA\Rise to the Fight.png" alt="561" id="561" data-flag="@X" onclick="openSidebar(561)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="562" id="562" data-flag="@E" onclick="openSidebar(562)"></div>
+          <div class="container"><img src="img\SANTA\Bunny Dealer.png" alt="563" id="563" data-flag="@X" onclick="openSidebar(563)"></div>
+          <div class="container"><img src="img\SANTA\Wile E. Coyote, Gourmet.png" alt="564" id="564" data-flag="@X" onclick="openSidebar(564)"></div>
+          <div class="container"><img src="img\SANTA\Astrid, Comet's Co-Pilot.png" alt="565" id="565" data-flag="@X" onclick="openSidebar(565)"></div>
+          <div class="container"><img src="img\SANTA\Sara, Ghost-Story Gatherer.png" alt="566" id="566" data-flag="@X" onclick="openSidebar(566)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="567" id="567" data-flag="@E" onclick="openSidebar(567)"></div>
+          <div class="container"><img src="img\SANTA\The Dinosaur's Trampoline.png" alt="568" id="568" data-flag="@X" onclick="openSidebar(568)"></div>
+          <div class="container"><img src="img\SANTA\Witching Hour Hunter.png" alt="569" id="569" data-flag="@X" onclick="openSidebar(569)"></div>
+          <div class="container"><img src="img\SANTA\Brushlicker Bimmy, the Art-ish.png" alt="570" id="570" data-flag="@X" onclick="openSidebar(570)"></div>
+          <div class="container"><img src="img\SANTA\Second Chance.png" alt="571" id="571" data-flag="@X" onclick="openSidebar(571)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="572" id="572" data-flag="@E" onclick="openSidebar(572)"></div>
+          <div class="container"><img src="img\SANTA\Earthflow.png" alt="573" id="573" data-flag="@X" onclick="openSidebar(573)"></div>
+          <div class="container"><img src="img\SANTA\Izzet League Stipend.png" alt="574" id="574" data-flag="@X" onclick="openSidebar(574)"></div>
+          <div class="container"><img src="img\SANTA\Comissar Gaunt, the People's Hero.png" alt="575" id="575" data-flag="@X" onclick="openSidebar(575)"></div>
+          <div class="container"><img src="img\SANTA\Ghoul Tender.png" alt="576" id="576" data-flag="@X" onclick="openSidebar(576)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="577" id="577" data-flag="@E" onclick="openSidebar(577)"></div>
+          <div class="container"><img src="img\SANTA\Mystic Fall.png" alt="578" id="578" data-flag="@X" onclick="openSidebar(578)"></div>
+          <div class="container"><img src="img\SANTA\Clown-About-Town.png" alt="579" id="579" data-flag="@X" onclick="openSidebar(579)"></div>
+          <div class="container"><img src="img\SANTA\Diancie.png" alt="580" id="580" data-flag="@X" onclick="openSidebar(580)"></div>
+          <div class="container"><img src="img\SANTA\Mirares Steelrunner.png" alt="581" id="581" data-flag="@X" onclick="openSidebar(581)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="582" id="582" data-flag="@E" onclick="openSidebar(582)"></div>
+          <div class="container"><img src="img\SANTA\Skyreach Familiar.png" alt="583" id="583" data-flag="@X" onclick="openSidebar(583)"></div>
+          <div class="container"><img src="img\SANTA\Experimental Tinkerer.png" alt="584" id="584" data-flag="@X" onclick="openSidebar(584)"></div>
+          <div class="container"><img src="img\SANTA\Enduring Expertise.png" alt="585" id="585" data-flag="@X" onclick="openSidebar(585)"></div>
+          <div class="container"><img src="img\SANTA\Nightmare Collector.png" alt="586" id="586" data-flag="@X" onclick="openSidebar(586)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="587" id="587" data-flag="@E" onclick="openSidebar(587)"></div>
+          <div class="container"><img src="img\SANTA\Territorial Hipposlip.png" alt="588" id="588" data-flag="@X" onclick="openSidebar(588)"></div>
+          <div class="container"><img src="img\SANTA\Stabilized Spellkeeper.png" alt="589" id="589" data-flag="@X" onclick="openSidebar(589)"></div>
+          <div class="container"><img src="img\SANTA\Fall of the Orokin.png" alt="590" id="590" data-flag="@X" onclick="openSidebar(590)"></div>
+          <div class="container"><img src="img\SANTA\Desperate Fangs.png" alt="591" id="591" data-flag="@X" onclick="openSidebar(591)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="592" id="592" data-flag="@E" onclick="openSidebar(592)"></div>
+          <div class="container"><img src="img\SANTA\Trickster Drake.png" alt="593" id="593" data-flag="@X" onclick="openSidebar(593)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="594" id="594" data-flag="@E" onclick="openSidebar(594)"></div>
+          <div class="container"><img src="img\SANTA\Good News, Everyone!.png" alt="595" id="595" data-flag="@X" onclick="openSidebar(595)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="596" id="596" data-flag="@E" onclick="openSidebar(596)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="597" id="597" data-flag="@E" onclick="openSidebar(597)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="598" id="598" data-flag="@E" onclick="openSidebar(598)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="599" id="599" data-flag="@E" onclick="openSidebar(599)"></div>
+          <div class="container"><img src="img\SANTA\The Gravel Pit.png" alt="600" id="600" data-flag="@X" onclick="openSidebar(600)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="601" id="601" data-flag="@E" onclick="openSidebar(601)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="602" id="602" data-flag="@E" onclick="openSidebar(602)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="603" id="603" data-flag="@E" onclick="openSidebar(603)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="604" id="604" data-flag="@E" onclick="openSidebar(604)"></div>
+          <div class="container"><img src="img\SANTA\Pawmot.png" alt="605" id="605" data-flag="@X" onclick="openSidebar(605)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="606" id="606" data-flag="@E" onclick="openSidebar(606)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="607" id="607" data-flag="@E" onclick="openSidebar(607)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="608" id="608" data-flag="@E" onclick="openSidebar(608)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="609" id="609" data-flag="@E" onclick="openSidebar(609)"></div>
+          <div class="container"><img src="img\SANTA\Angel of New Hope.png" alt="610" id="610" data-flag="@X" onclick="openSidebar(610)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="611" id="611" data-flag="@E" onclick="openSidebar(611)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="612" id="612" data-flag="@E" onclick="openSidebar(612)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="613" id="613" data-flag="@E" onclick="openSidebar(613)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="614" id="614" data-flag="@E" onclick="openSidebar(614)"></div>
+          <div class="container"><img src="img\SANTA\Golden Feather.png" alt="615" id="615" data-flag="@X" onclick="openSidebar(615)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="616" id="616" data-flag="@E" onclick="openSidebar(616)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="617" id="617" data-flag="@E" onclick="openSidebar(617)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="618" id="618" data-flag="@E" onclick="openSidebar(618)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="619" id="619" data-flag="@E" onclick="openSidebar(619)"></div>
+          <div class="container"><img src="img\SANTA\Kin & Kiln.png" alt="620" id="620" data-flag="@X" onclick="openSidebar(620)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="621" id="621" data-flag="@E" onclick="openSidebar(621)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="622" id="622" data-flag="@E" onclick="openSidebar(622)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="623" id="623" data-flag="@E" onclick="openSidebar(623)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="624" id="624" data-flag="@E" onclick="openSidebar(624)"></div>
+          <div class="container"><img src="img\SANTA\Pawmo.png" alt="625" id="625" data-flag="@X" onclick="openSidebar(625)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="626" id="626" data-flag="@E" onclick="openSidebar(626)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="627" id="627" data-flag="@E" onclick="openSidebar(627)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="628" id="628" data-flag="@E" onclick="openSidebar(628)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="629" id="629" data-flag="@E" onclick="openSidebar(629)"></div>
+          <div class="container"><img src="img\SANTA\Roughblade Apprentice.png" alt="630" id="630" data-flag="@X" onclick="openSidebar(630)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="631" id="631" data-flag="@E" onclick="openSidebar(631)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="632" id="632" data-flag="@E" onclick="openSidebar(632)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="633" id="633" data-flag="@E" onclick="openSidebar(633)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="634" id="634" data-flag="@E" onclick="openSidebar(634)"></div>
+          <div class="container"><img src="img\SANTA\Truesilver Champion.png" alt="635" id="635" data-flag="@X" onclick="openSidebar(635)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="636" id="636" data-flag="@E" onclick="openSidebar(636)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="637" id="637" data-flag="@E" onclick="openSidebar(637)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="638" id="638" data-flag="@E" onclick="openSidebar(638)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="639" id="639" data-flag="@E" onclick="openSidebar(639)"></div>
+          <div class="container"><img src="img\SANTA\Deadly Danseuse.png" alt="640" id="640" data-flag="@X" onclick="openSidebar(640)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="641" id="641" data-flag="@E" onclick="openSidebar(641)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="642" id="642" data-flag="@E" onclick="openSidebar(642)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="643" id="643" data-flag="@E" onclick="openSidebar(643)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="644" id="644" data-flag="@E" onclick="openSidebar(644)"></div>
+          <div class="container"><img src="img\SANTA\Rip Apart.png" alt="645" id="645" data-flag="@X" onclick="openSidebar(645)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="646" id="646" data-flag="@ER" onclick="openSidebar(646)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="647" id="647" data-flag="@ER" onclick="openSidebar(647)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="648" id="648" data-flag="@ER" onclick="openSidebar(648)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="649" id="649" data-flag="@ER" onclick="openSidebar(649)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="650" id="650" data-flag="@ER" onclick="openSidebar(650)"></div>
+          <div class="container"><img src="img\SANTA\Hizona, Steel-Soul Ronin.png" alt="651" id="651" data-flag="@X" onclick="openSidebar(651)"></div>
+          <div class="container"><img src="img\SANTA\Abathur, Evolution Master.png" alt="652" id="652" data-flag="@X" onclick="openSidebar(652)"></div>
+          <div class="container"><img src="img\SANTA\Achilles, Hero and Mentor.png" alt="653" id="653" data-flag="@X" onclick="openSidebar(653)"></div>
+          <div class="container"><img src="img\SANTA\Admiral Brickell.png" alt="654" id="654" data-flag="@X" onclick="openSidebar(654)"></div>
+          <div class="container"><img src="img\SANTA\Akira, Acidic Fool.png" alt="655" id="655" data-flag="@X" onclick="openSidebar(655)"></div>
+          <div class="container"><img src="img\SANTA\Astar, Mirror's Edge.png" alt="656" id="656" data-flag="@X" onclick="openSidebar(656)"></div>
+          <div class="container"><img src="img\SANTA\Benjamin, Pro Hacker.png" alt="657" id="657" data-flag="@X" onclick="openSidebar(657)"></div>
+          <div class="container"><img src="img\SANTA\Bolas, Planar Mastermind.png" alt="658" id="658" data-flag="@X" onclick="openSidebar(658)"></div>
+          <div class="container"><img src="img\SANTA\Hauer, Timekeeper.png" alt="659" id="659" data-flag="@X" onclick="openSidebar(659)"></div>
+          <div class="container"><img src="img\SANTA\Jaquille the Jester.png" alt="660" id="660" data-flag="@X" onclick="openSidebar(660)"></div>
+          <div class="container"><img src="img\SANTA\Jay, Nuclear Chef.png" alt="661" id="661" data-flag="@X" onclick="openSidebar(661)"></div>
+          <div class="container"><img src="img\SANTA\Katsumi, Silent Shinobi.png" alt="662" id="662" data-flag="@X" onclick="openSidebar(662)"></div>
+          <div class="container"><img src="img\SANTA\Kelsier, Survivor of Hathsin.png" alt="663" id="663" data-flag="@X" onclick="openSidebar(663)"></div>
+          <div class="container"><img src="img\SANTA\Kerrigan, Queen of Blades.png" alt="664" id="664" data-flag="@X" onclick="openSidebar(664)"></div>
+          <div class="container"><img src="img\SANTA\Link, Hero of the Wild.png" alt="665" id="665" data-flag="@X" onclick="openSidebar(665)"></div>
+          <div class="container"><img src="img\SANTA\Meaning.png" alt="666" id="666" data-flag="@X" onclick="openSidebar(666)"></div>
+          <div class="container"><img src="img\SANTA\Odysseus of Ithaca.png" alt="667" id="667" data-flag="@X" onclick="openSidebar(667)"></div>
+          <div class="container"><img src="img\SANTA\Olruggio, Watchful Eye.png" alt="668" id="668" data-flag="@X" onclick="openSidebar(668)"></div>
+          <div class="container"><img src="img\SANTA\Opa, Resolute Observer.png" alt="669" id="669" data-flag="@X" onclick="openSidebar(669)"></div>
+          <div class="container"><img src="img\SANTA\Orissa, the Prodigy.png" alt="670" id="670" data-flag="@X" onclick="openSidebar(670)"></div>
+          <div class="container"><img src="img\SANTA\The Overmind.png" alt="671" id="671" data-flag="@X" onclick="openSidebar(671)"></div>
+          <div class="container"><img src="img\SANTA\Psaro, Dark Prince.png" alt="672" id="672" data-flag="@X" onclick="openSidebar(672)"></div>
+          <div class="container"><img src="img\SANTA\Terry, Eager Monster Tamer.png" alt="673" id="673" data-flag="@X" onclick="openSidebar(673)"></div>
+          <div class="container"><img src="img\SANTA\Ultimate Modoka.png" alt="674" id="674" data-flag="@X" onclick="openSidebar(674)"></div>
+          <div class="container"><img src="img\SANTA\Usagi Tsukino, Sailor Moon.png" alt="675" id="675" data-flag="@X" onclick="openSidebar(675)"></div>
+          <div class="container"><img src="img\SANTA\Vertin, the Timekeeper.png" alt="676" id="676" data-flag="@X" onclick="openSidebar(676)"></div>
+          <div class="container"><img src="img\SANTA\WAU, the Warden.png" alt="677" id="677" data-flag="@X" onclick="openSidebar(677)"></div>
+          <div class="container"><img src="img\SANTA\Xerx, the Inventive.png" alt="678" id="678" data-flag="@X" onclick="openSidebar(678)"></div>
+          <div class="container"><img src="img\SANTA\Dawn, Dusk, and Dark.png" alt="679" id="679" data-flag="@X" onclick="openSidebar(679)"></div>
+          <div class="container"><img src="img\SANTA\Draft — Form a Party.png" alt="680" id="680" data-flag="@N" onclick="openSidebar(680)"></div>
+          <div class="container"><img src="img\SANTA\Heroic Reserve Tactics.png" alt="681" id="681" data-flag="@X" onclick="openSidebar(681)"></div>
+          <div class="container"><img src="img\SANTA\Kiss Goodbye.png" alt="682" id="682" data-flag="@X" onclick="openSidebar(682)"></div>
+          <div class="container"><img src="img\SANTA\Legacy Initiate.png" alt="683" id="683" data-flag="@X" onclick="openSidebar(683)"></div>
+          <div class="container"><img src="img\SANTA\Progression of Affliction.png" alt="684" id="684" data-flag="@X" onclick="openSidebar(684)"></div>
+          <div class="container"><img src="img\SANTA\Punie, Magical Witch.png" alt="685" id="685" data-flag="@X" onclick="openSidebar(685)"></div>
+          <div class="container"><img src="img\SANTA\Sazed, Keeper of Secrets.png" alt="686" id="686" data-flag="@X" onclick="openSidebar(686)"></div>
+          <div class="container"><img src="img\SANTA\Successful Experiment.png" alt="687" id="687" data-flag="@X" onclick="openSidebar(687)"></div>
+          <div class="container"><img src="img\SANTA\Test Drive.png" alt="688" id="688" data-flag="@X" onclick="openSidebar(688)"></div>
+          <div class="container"><img src="img\SANTA\Zagara, Broodmother.png" alt="689" id="689" data-flag="@X" onclick="openSidebar(689)"></div>
+          <div class="container"><img src="img\SANTA\Zaldrek, Master of Eternal Rot.png" alt="690" id="690" data-flag="@X" onclick="openSidebar(690)"></div>
+          <div class="container"><img src="img\SANTA\Zerg Ascendancy.png" alt="691" id="691" data-flag="@X" onclick="openSidebar(691)"></div>
+          <div class="container"><img src="img\SANTA\Skali, Curious Envoy.png" alt="692" id="692" data-flag="@X" onclick="openSidebar(692)"></div>
+          <div class="container"><img src="img\SANTA\Luzjebok, Glade-Warden.png" alt="693" id="693" data-flag="@X" onclick="openSidebar(693)"></div>
+          <div class="container"><img src="img\SANTA\The Conklave Arrives.png" alt="694" id="694" data-flag="@X" onclick="openSidebar(694)"></div>
+          <div class="container"><img src="img\SANTA\Fugu Wokmeister.png" alt="695" id="695" data-flag="@X" onclick="openSidebar(695)"></div>
+          <div class="container"><img src="img\SANTA\The Secret Santa.png" alt="696" id="696" data-flag="@X" onclick="openSidebar(696)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="697" id="697" data-flag="@E" onclick="openSidebar(697)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="698" id="698" data-flag="@E" onclick="openSidebar(698)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="699" id="699" data-flag="@E" onclick="openSidebar(699)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="700" id="700" data-flag="@E" onclick="openSidebar(700)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="701" id="701" data-flag="@ER" onclick="openSidebar(701)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="702" id="702" data-flag="@ER" onclick="openSidebar(702)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="703" id="703" data-flag="@ER" onclick="openSidebar(703)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="704" id="704" data-flag="@ER" onclick="openSidebar(704)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="705" id="705" data-flag="@ER" onclick="openSidebar(705)"></div>
+          <div class="container"><img src="img\SANTA\BT.7274, Dutiful Vanguard.png" alt="706" id="706" data-flag="@X" onclick="openSidebar(706)"></div>
+          <div class="container"><img src="img\SANTA\Trent, Cynical Mimic.png" alt="707" id="707" data-flag="@X" onclick="openSidebar(707)"></div>
+          <div class="container"><img src="img\SANTA\The Chronoscepter.png" alt="708" id="708" data-flag="@X" onclick="openSidebar(708)"></div>
+          <div class="container"><img src="img\SANTA\Effigy of Naught.png" alt="709" id="709" data-flag="@X" onclick="openSidebar(709)"></div>
+          <div class="container"><img src="img\SANTA\Eini, Metallic Protector.png" alt="710" id="710" data-flag="@X" onclick="openSidebar(710)"></div>
+          <div class="container"><img src="img\SANTA\Imperator Titan.png" alt="711" id="711" data-flag="@X" onclick="openSidebar(711)"></div>
+          <div class="container"><img src="img\SANTA\Sorcerer's Sutra Scroll.png" alt="712" id="712" data-flag="@X" onclick="openSidebar(712)"></div>
+          <div class="container"><img src="img\SANTA\Hextech Crystal.png" alt="713" id="713" data-flag="@X" onclick="openSidebar(713)"></div>
+          <div class="container"><img src="img\SANTA\Gengar.png" alt="714" id="714" data-flag="@X" onclick="openSidebar(714)"></div>
+          <div class="container"><img src="img\SANTA\Adventurer's Kit.png" alt="715" id="715" data-flag="@X" onclick="openSidebar(715)"></div>
+          <div class="container"><img src="img\SANTA\Cloak of the Mists.png" alt="716" id="716" data-flag="@X" onclick="openSidebar(716)"></div>
+          <div class="container"><img src="img\SANTA\Core Drill.png" alt="717" id="717" data-flag="@X" onclick="openSidebar(717)"></div>
+          <div class="container"><img src="img\SANTA\The Dark Portal.png" alt="718" id="718" data-flag="@X" onclick="openSidebar(718)"></div>
+          <div class="container"><img src="img\SANTA\Gurren, Gunzar Reborn.png" alt="719" id="719" data-flag="@X" onclick="openSidebar(719)"></div>
+          <div class="container"><img src="img\SANTA\Lagann, Control Gunman.png" alt="720" id="720" data-flag="@X" onclick="openSidebar(720)"></div>
+          <div class="container"><img src="img\SANTA\Mani Katti, Sword of Spirits.png" alt="721" id="721" data-flag="@X" onclick="openSidebar(721)"></div>
+          <div class="container"><img src="img\SANTA\The Mystery Machine.png" alt="722" id="722" data-flag="@X" onclick="openSidebar(722)"></div>
+          <div class="container"><img src="img\SANTA\Production Building.png" alt="723" id="723" data-flag="@X" onclick="openSidebar(723)"></div>
+          <div class="container"><img src="img\SANTA\Unending Wanderlust.png" alt="724" id="724" data-flag="@X" onclick="openSidebar(724)"></div>
+          <div class="container"><img src="img\SANTA\Ancient Miner Robot.png" alt="725" id="725" data-flag="@X" onclick="openSidebar(725)"></div>
+          <div class="container"><img src="img\SANTA\Arcadian Airship.png" alt="726" id="726" data-flag="@X" onclick="openSidebar(726)"></div>
+          <div class="container"><img src="img\SANTA\Archwing System.png" alt="727" id="727" data-flag="@X" onclick="openSidebar(727)"></div>
+          <div class="container"><img src="img\SANTA\Assault Vest.png" alt="728" id="728" data-flag="@X" onclick="openSidebar(728)"></div>
+          <div class="container"><img src="img\SANTA\Bus of the Merry Pranksters.png" alt="729" id="729" data-flag="@X" onclick="openSidebar(729)"></div>
+          <div class="container"><img src="img\SANTA\Claimed Obelisk.png" alt="730" id="730" data-flag="@X" onclick="openSidebar(730)"></div>
+          <div class="container"><img src="img\SANTA\Full Plate.png" alt="731" id="731" data-flag="@X" onclick="openSidebar(731)"></div>
+          <div class="container"><img src="img\SANTA\Moon Stone Fragment.png" alt="732" id="732" data-flag="@X" onclick="openSidebar(732)"></div>
+          <div class="container"><img src="img\SANTA\Right Eye Of Light.png" alt="733" id="733" data-flag="@X" onclick="openSidebar(733)"></div>
+          <div class="container"><img src="img\SANTA\Roadster Rager MV.png" alt="734" id="734" data-flag="@X" onclick="openSidebar(734)"></div>
+          <div class="container"><img src="img\SANTA\Structure Gel.png" alt="735" id="735" data-flag="@X" onclick="openSidebar(735)"></div>
+          <div class="container"><img src="img\SANTA\The Underground.png" alt="736" id="736" data-flag="@X" onclick="openSidebar(736)"></div>
+          <div class="container"><img src="img\SANTA\Haunted Mask.png" alt="737" id="737" data-flag="@X" onclick="openSidebar(737)"></div>
+          <div class="container"><img src="img\SANTA\Mockingbird.png" alt="738" id="738" data-flag="@X" onclick="openSidebar(738)"></div>
+          <div class="container"><img src="img\SANTA\Omnitool.png" alt="739" id="739" data-flag="@X" onclick="openSidebar(739)"></div>
+          <div class="container"><img src="img\SANTA\UH3 Bull.png" alt="740" id="740" data-flag="@X" onclick="openSidebar(740)"></div>
+          <div class="container"><img src="img\SANTA\Zeppelin.png" alt="741" id="741" data-flag="@X" onclick="openSidebar(741)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="742" id="742" data-flag="@E" onclick="openSidebar(742)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="743" id="743" data-flag="@E" onclick="openSidebar(743)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="744" id="744" data-flag="@E" onclick="openSidebar(744)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="745" id="745" data-flag="@E" onclick="openSidebar(745)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="746" id="746" data-flag="@ER" onclick="openSidebar(746)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="747" id="747" data-flag="@ER" onclick="openSidebar(747)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="748" id="748" data-flag="@ER" onclick="openSidebar(748)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="749" id="749" data-flag="@ER" onclick="openSidebar(749)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="750" id="750" data-flag="@ER" onclick="openSidebar(750)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="751" id="751" data-flag="@E" onclick="openSidebar(751)"></div>
+          <div class="container"><img src="img\SANTA\Tower of Tomes.png" alt="752" id="752" data-flag="@X" onclick="openSidebar(752)"></div>
+          <div class="container"><img src="img\SANTA\Gates of Blashyrkh.png" alt="753" id="753" data-flag="@X" onclick="openSidebar(753)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="754" id="754" data-flag="@E" onclick="openSidebar(754)"></div>
+          <div class="container"><img src="img\SANTA\The Old Grist Mill.png" alt="755" id="755" data-flag="@X" onclick="openSidebar(755)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="756" id="756" data-flag="@E" onclick="openSidebar(756)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="757" id="757" data-flag="@E" onclick="openSidebar(757)"></div>
+          <div class="container"><img src="img\SANTA\Kamurocho.png" alt="758" id="758" data-flag="@X" onclick="openSidebar(758)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="759" id="759" data-flag="@E" onclick="openSidebar(759)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="760" id="760" data-flag="@E" onclick="openSidebar(760)"></div>
+          <div class="container"><img src="img\SANTA\Floral Springs.png" alt="761" id="761" data-flag="@X" onclick="openSidebar(761)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="762" id="762" data-flag="@E" onclick="openSidebar(762)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="763" id="763" data-flag="@E" onclick="openSidebar(763)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="764" id="764" data-flag="@E" onclick="openSidebar(764)"></div>
+          <div class="container"><img src="img\SANTA\Gentle Headwaters.png" alt="765" id="765" data-flag="@X" onclick="openSidebar(765)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="766" id="766" data-flag="@E" onclick="openSidebar(766)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="767" id="767" data-flag="@E" onclick="openSidebar(767)"></div>
+          <div class="container"><img src="img\SANTA\Hidden Falls.png" alt="768" id="768" data-flag="@X" onclick="openSidebar(768)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="769" id="769" data-flag="@E" onclick="openSidebar(769)"></div>
+          <div class="container"><img src="img\SANTA\The Hero's Hometown.png" alt="770" id="770" data-flag="@X" onclick="openSidebar(770)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="771" id="771" data-flag="@E" onclick="openSidebar(771)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="772" id="772" data-flag="@E" onclick="openSidebar(772)"></div>
+          <div class="container"><img src="img\SANTA\Lotus Pond.png" alt="773" id="773" data-flag="@X" onclick="openSidebar(773)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="774" id="774" data-flag="@E" onclick="openSidebar(774)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="775" id="775" data-flag="@E" onclick="openSidebar(775)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="776" id="776" data-flag="@ER" onclick="openSidebar(776)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="777" id="777" data-flag="@ER" onclick="openSidebar(777)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="778" id="778" data-flag="@ER" onclick="openSidebar(778)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="779" id="779" data-flag="@ER" onclick="openSidebar(779)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="780" id="780" data-flag="@ER" onclick="openSidebar(780)"></div>
+          <div class="container"><img src="img\SANTA\Quantum Prime Circuit.png" alt="781" id="781" data-flag="@X" onclick="openSidebar(781)"></div>
+          <div class="container"><img src="img\SANTA\Trial Peaks Circuit.png" alt="782" id="782" data-flag="@X" onclick="openSidebar(782)"></div>
+          <div class="container"><img src="img\SANTA\XVX Headquarters.png" alt="783" id="783" data-flag="@X" onclick="openSidebar(783)"></div>
+          <div class="container"><img src="img\SANTA\Airy Pillar.png" alt="784" id="784" data-flag="@X" onclick="openSidebar(784)"></div>
+          <div class="container"><img src="img\SANTA\Burial Site.png" alt="785" id="785" data-flag="@X" onclick="openSidebar(785)"></div>
+          <div class="container"><img src="img\SANTA\Busy Slums.png" alt="786" id="786" data-flag="@X" onclick="openSidebar(786)"></div>
+          <div class="container"><img src="img\SANTA\Check Point.png" alt="787" id="787" data-flag="@X" onclick="openSidebar(787)"></div>
+          <div class="container"><img src="img\SANTA\City Circuit.png" alt="788" id="788" data-flag="@X" onclick="openSidebar(788)"></div>
+          <div class="container"><img src="img\SANTA\Clown Town.png" alt="789" id="789" data-flag="@X" onclick="openSidebar(789)"></div>
+          <div class="container"><img src="img\SANTA\Natural Isle.png" alt="790" id="790" data-flag="@X" onclick="openSidebar(790)"></div>
+          <div class="container"><img src="img\SANTA\Osiris Headquarters.png" alt="791" id="791" data-flag="@X" onclick="openSidebar(791)"></div>
+          <div class="container"><img src="img\SANTA\Outer Ducts.png" alt="792" id="792" data-flag="@X" onclick="openSidebar(792)"></div>
+          <div class="container"><img src="img\SANTA\Polluted Stream.png" alt="793" id="793" data-flag="@X" onclick="openSidebar(793)"></div>
+          <div class="container"><img src="img\SANTA\Rundown Town.png" alt="794" id="794" data-flag="@X" onclick="openSidebar(794)"></div>
+          <div class="container"><img src="img\SANTA\Rural Grid.png" alt="795" id="795" data-flag="@X" onclick="openSidebar(795)"></div>
+          <div class="container"><img src="img\SANTA\Tangled Streets.png" alt="796" id="796" data-flag="@X" onclick="openSidebar(796)"></div>
+          <div class="container"><img src="img\SANTA\Touring Track.png" alt="797" id="797" data-flag="@X" onclick="openSidebar(797)"></div>
+          <div class="container"><img src="img\SANTA\Tranquil Outpost.png" alt="798" id="798" data-flag="@X" onclick="openSidebar(798)"></div>
+          <div class="container"><img src="img\SANTA\The Dreaming Glade.png" alt="799" id="799" data-flag="@X" onclick="openSidebar(799)"></div>
+          <div class="container"><img src="img\SANTA\Barren Highway.png" alt="800" id="800" data-flag="@X" onclick="openSidebar(800)"></div>
+          <div class="container"><img src="img\SANTA\Dealer's Temple.png" alt="801" id="801" data-flag="@X" onclick="openSidebar(801)"></div>
+          <div class="container"><img src="img\SANTA\Underground.png" alt="802" id="802" data-flag="@X" onclick="openSidebar(802)"></div>
+          <div class="container"><img src="img\SANTA\Hawkord Academy.png" alt="803" id="803" data-flag="@X" onclick="openSidebar(803)"></div>
+          <div class="container"><img src="img\SANTA\Old Farmhouse.png" alt="804" id="804" data-flag="@X" onclick="openSidebar(804)"></div>
+          <div class="container"><img src="img\SANTA\e.png" alt="805" id="805" data-flag="@E" onclick="openSidebar(805)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="806" id="806" data-flag="@ER" onclick="openSidebar(806)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="807" id="807" data-flag="@ER" onclick="openSidebar(807)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="808" id="808" data-flag="@ER" onclick="openSidebar(808)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="809" id="809" data-flag="@ER" onclick="openSidebar(809)"></div>
+          <div class="container"><img src="img\SANTA\er.png" alt="810" id="810" data-flag="@ER" onclick="openSidebar(810)"></div>
+          <div class="container"><img src="img\SANTA\Angel.png" alt="811" id="811" data-flag="@X" onclick="openSidebar(811)"></div>
+          <div class="container"><img src="img\SANTA\Combee_b.png" alt="812" id="812" data-flag="@N" onclick="openSidebar(812)"></div>
+          <div class="container"><img src="img\SANTA\Dragon.png" alt="813" id="813" data-flag="@X" onclick="openSidebar(813)"></div>
+          <div class="container"><img src="img\SANTA\Human.png" alt="814" id="814" data-flag="@X" onclick="openSidebar(814)"></div>
+          <div class="container"><img src="img\SANTA\Remembrance_a.png" alt="815" id="815" data-flag="@N" onclick="openSidebar(815)"></div>
+          <div class="container"><img src="img\SANTA\Remembrance_b.png" alt="816" id="816" data-flag="@N" onclick="openSidebar(816)"></div>
+          <div class="container"><img src="img\SANTA\Remembrance_c.png" alt="817" id="817" data-flag="@N" onclick="openSidebar(817)"></div>
+          <div class="container"><img src="img\SANTA\Unicorn.png" alt="818" id="818" data-flag="@X" onclick="openSidebar(818)"></div>
+          <div class="container"><img src="img\SANTA\Sorceress Sellen_b.png" alt="819" id="819" data-flag="@N" onclick="openSidebar(819)"></div>
+          <div class="container"><img src="img\SANTA\Rat Wizard.png" alt="820" id="820" data-flag="@X" onclick="openSidebar(820)"></div>
+          <div class="container"><img src="img\SANTA\Samurai.png" alt="821" id="821" data-flag="@X" onclick="openSidebar(821)"></div>
+          <div class="container"><img src="img\SANTA\Devil.png" alt="822" id="822" data-flag="@X" onclick="openSidebar(822)"></div>
+          <div class="container"><img src="img\SANTA\Pilot.png" alt="823" id="823" data-flag="@X" onclick="openSidebar(823)"></div>
+          <div class="container"><img src="img\SANTA\XVX MV.png" alt="824" id="824" data-flag="@X" onclick="openSidebar(824)"></div>
+          <div class="container"><img src="img\SANTA\Cat Clown.png" alt="825" id="825" data-flag="@X" onclick="openSidebar(825)"></div>
+          <div class="container"><img src="img\SANTA\Elemental.png" alt="826" id="826" data-flag="@X" onclick="openSidebar(826)"></div>
+          <div class="container"><img src="img\SANTA\Rabbit.png" alt="827" id="827" data-flag="@X" onclick="openSidebar(827)"></div>
+          <div class="container"><img src="img\SANTA\Warrior.png" alt="828" id="828" data-flag="@X" onclick="openSidebar(828)"></div>
+          <div class="container"><img src="img\SANTA\Spirit.png" alt="829" id="829" data-flag="@X" onclick="openSidebar(829)"></div>
+          <div class="container"><img src="img\SANTA\Zerg.png" alt="830" id="830" data-flag="@X" onclick="openSidebar(830)"></div>
+          <div class="container"><img src="img\SANTA\Blackmail.png" alt="831" id="831" data-flag="@X" onclick="openSidebar(831)"></div>
+          <div class="container"><img src="img\SANTA\Blessing.png" alt="832" id="832" data-flag="@X" onclick="openSidebar(832)"></div>
+          <div class="container"><img src="img\SANTA\Disease.png" alt="833" id="833" data-flag="@X" onclick="openSidebar(833)"></div>
+          <div class="container"><img src="img\SANTA\Duplicator.png" alt="834" id="834" data-flag="@X" onclick="openSidebar(834)"></div>
+          <div class="container"><img src="img\SANTA\Horror.png" alt="835" id="835" data-flag="@X" onclick="openSidebar(835)"></div>
+          <div class="container"><img src="img\SANTA\Osiris MV.png" alt="836" id="836" data-flag="@X" onclick="openSidebar(836)"></div>
+          <div class="container"><img src="img\SANTA\Present.png" alt="837" id="837" data-flag="@X" onclick="openSidebar(837)"></div>
+          <div class="container"><img src="img\SANTA\Senkutsu.png" alt="838" id="838" data-flag="@X" onclick="openSidebar(838)"></div>
+          <div class="container"><img src="img\SANTA\Treasure.png" alt="839" id="839" data-flag="@X" onclick="openSidebar(839)"></div>
+          <div class="container"><img src="img\SANTA\Weapon.png" alt="840" id="840" data-flag="@X" onclick="openSidebar(840)"></div>
+    </div>
+</div>
+    <div class="sidebar" id="sidebar">
+        <img id="sidebar_img" src="img/er.png"></img>
+        <button class="btn" onclick="closeSidebar()"></button>
+    </div>
+    <div class="footer"></div>
+
+    <script>
+        // Function to apply logic based on the data-flag
+        document.addEventListener("DOMContentLoaded", function () {
+            const images = document.querySelectorAll('.grid-container img');
+
+            images.forEach(img => {
+                const flag = img.getAttribute('data-flag');
+
+                if (flag === '@N') {
+                    img.src = 'img/card_back.png';
+                    img.removeAttribute("onclick");
+                    img.style.cursor = 'default';
+                }
+
+                if (flag === '@E') {
+                    img.src = 'img/e.png';
+                    img.removeAttribute("onclick");
+                    img.style.cursor = 'default';
+                }
+
+                if (flag === '@ER') {
+                    img.src = 'img/er.png';
+                    img.removeAttribute("onclick");
+                    img.style.cursor = 'default';
+                }
+
+                img.style.visibility = 'visible';
+            });
+
+        });
+
+    window.addEventListener('resize', function(event) {
+        setSidebarTop();
+    }, true);
+
+    function setSidebarTop() {
+        let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+        let sh = document.getElementById('sidebar').offsetHeight;
+        let height = 100 * ((vh - sh) / 2) / vh;
+        document.getElementById('sidebar').style.top = height + '%';
+    }
+
+    function imgFlip(num) {
+        tmp = document.getElementById(num).src;
+        document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+        document.getElementById(num).dataset.alt_src = tmp;
+    }
+
+    function openSidebar(id) {
+        scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+        
+        document.getElementById('sidebar').style.display = 'block';
+        document.getElementById('sidebar_img').src = document.getElementById(id).src;
+        document.getElementById('main-content').style.width = '60%';
+        
+        scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+        console.log(scroll_pct + ' ' + scroll_pos + ' ' + document.documentElement.scrollHeight);
+        window.scrollTo(window.scrollX, scroll_pos);
+        setSidebarTop();
+    }
+
+    function closeSidebar() {
+        scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+        document.getElementById('sidebar').style.display = 'none';
+        document.getElementById('main-content').style.width = '100%';
+        
+
+        scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+        window.scrollTo(window.scrollX, scroll_pos);
+    }
+    </script>
+</body>
+</html>

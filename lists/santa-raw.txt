@@ -1,0 +1,1044 @@
+Gengar		rare	Pokémon — Ghost	325	C	6PP	Delve (Each card you exile from your
+graveyard while casting this spell pays for 1.)
+When this Pokémon enters, each card
+exiled with it becomes forgotten. (If you
+would draw a card, you may exile the top
+card of your library and put a forgotten
+card on top instead.)	4/2		normal	SANTAREPLACEMENadu, Seer of the Beyond	UG	rare	Legendary Creature — Bird Wizard 	436	UG	PGU	Flying
+Whenever Nadu becomes the target of a spell or ability, exile the top card of your library. You may play that card until your next end step. This ability triggers only twice each turn.
+Whenever you play a land from exile, draw a card. You may play an additional land this turn.	3/4		normal	SANTAREPLACEMEDavriel Cane, Spell Thief	UB	rare	Legendary Planeswalker — Davriel 	365	UB	2UB			[+1]: Conjure a duplicate of a random nonland card from target opponent’s library into your hand. It perpetually gains “You may spend mana of any color to cast this spell.”
+[-6]: Copy each nonland card in target player’s graveyard. You may cast any number of the copies without paying their mana costs.	planeswalker	SANTAREPLACEMEDealer's Temple		uncommon	Land	565	C		T: Add C.
+As this land enters, you may exile a land card from your graveyard. If you do, this land becomes a copy of that card.			normal	SANTAREPLACEMEArmed Farmer	W	uncommon	Creature — Human Samurai 	5	W	1W	When this creature enters, put a +1/+1 counter on another target creature you control.
+Revered (This creature shares its following abilities with other creatures you control with counters on them.)
+Whenever this creature attacks, you may pay 1. When you do, create a Food token.	1/1		normal	SANTAREPLACEMEGiyama, the Ending Soul	B	mythic	Legendary Planeswalker — Giyama 	174	B	2BB			[+2]: You may sacrifice a creature. If you do, each opponent loses 3 life and you gain
+3 life.
+[0]: Create a 2/2 black Samurai creature token.
+[-6]: Each player sacrifices all creatures they control. You gain life equal to the number of creatures sacrificed this way.	planeswalker	SANTAREPLACEMEHemorrhage	B	uncommon	Enchantment — Aura 	176	B	2B	Enchant nonartifact creature
+When this Aura enters and at the beginning of your upkeep, put a -1/-1 counter on enchanted creature and create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this token: Draw a card.”)			normal	SANTAREPLACEMELion Clan Bandit	R	uncommon	Creature — Human Pirate 	243	R	2R	Menace, haste
+Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)
+When this creature becomes renowned, you may discard a card. If you do, draw a card.	2/3		normal	SANTAREPLACEMEEphemeral Savior	WU	uncommon	Creature — Human Noble 	377	WU	WU	Flash
+Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that’s another creature, it gains the following abilities until end of turn.)
+1W/U: Exile this creature, then return it to
+its owner’s hand at the beginning of the next end step.	1/1		normal	SANTAREPLACEMEUnknown Intruder	UB	uncommon	Creature — Human Ninja 	501	UB	UB	Deathtouch
+Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)
+When this creature becomes renowned, each opponent mills three cards and you draw a card.	1/2		normal	SANTAREPLACEMESamurai	B	common	Token Creature — Samurai 	12	B			2/2		token	SANTAREPLACEMETraveler's Bird	W	common	Creature — Bird 	76	W	2W	Flying
+T: Another target creature gets +1/+1 and gains flying until end of turn. Activate only as a sorcery.	2/2		normal	SANTAREPLACEMETraveler's Dolphin	U	common	Creature — Whale 	142	U	2U	Whenever Traveler’s Dolphin deals combat damage to a player, draw a card.
+T: Until end of turn, another target creature gets +1/+1 and gains “Whenever this creature deals combat damage to a player, draw a card.” Activate only as a sorcery.	3/2		normal	SANTAREPLACEMETraveler's Lizard	R	common	Creature — Lizard 	264	R	3R	Menace
+T: Another target creature gets +1/+1 and gains menace until end
+of turn. Activate only as a sorcery.	4/2		normal	SANTAREPLACEMEAbathur, Evolution Master	UBG	mythic	Legendary Creature — Zerg  	326	UBG	2BGU	Companion — Each creature card in your starting deck has a unique creature type. (If this card is your chosen companion, you may put it into your hand from outside the game for 3 as a sorcery.)
+Creatures you control have evolve. (They see this creature enter.)
+B/GU/BG/U: Populate, then proliferate.	5/5		normal	SANTAREPLACEMEKerrigan, Queen of Blades	UBRG	mythic	Legendary Planeswalker — Kerrigan 	414	UBRG	UBRG	Partner (You can have two commanders if both have partner.)		Whenever a creature you control deals combat damage to an opponent for the first time each turn, put a loyalty counter on Kerrigan, Queen of Blades.
+[0]: Psonic Manipulation — Scry 1, then fateseal 1. (To fateseal 1, look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)
+[0]: Swarm Growth — Create two 1/1 black and green Zerg creature tokens with haste.
+[-X]: Psionic Storm — Each opponent exiles the top
+X cards of their libraries.	planeswalker	SANTAREPLACEMEThe Overmind	WUBRG	mythic	Legendary Creature — Zerg 	452	WUBRG	WUBRG	Defender, hexproof
+Other creatures you control are Zerg in addition to their other types.
+WUBRG, T, Exert The Overmind: Choose one ability from target creature you control. Each other creature you
+control gains that ability until end of turn. (You may choose a keyword, activated, triggered or static ability.)	0/8		normal	SANTAREPLACEMEZagara, Broodmother	URG	rare	Legendary Creature — Zerg 	513	URG	2GUR	Creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)
+Zagara, Broodmother has all triggered abilities of all other creatures you control with +1/+1 counters on them.
+G/UR/GU/R: Exile Zagara, then return it to the battlefield
+under your control.	3/5		normal	SANTAREPLACEMEZerg Ascendancy	WUBRG	rare	Legendary Enchantment	516	WUBRG	WUBRG	Eminence — At the beginning of combat on your turn, if Zerg Ascendancy is in the command zone or on the battlefield, put a +1/+1 counter on each creature you control.
+At the beginning of your upkeep, if creatures you control have total power 100 or greater, you win the game.
+Zerg Ascendancy can be your commander.			normal	SANTAREPLACEMEZerg	BG	common	Token Creature — Zerg 	21	BG		Haste	1/1		token	SANTAREPLACEMEThey Who Knick the Knacks	U	rare	Creature — Faerie Artificer 	141	U	2U	Flash
+Flying
+When They Who Knick the Knacks enters, gain control of target artifact with mana value less than or equal to the number of Faeries you control until They Who Knick the Knacks leaves the battlefield.	2/1		normal	SANTAREPLACEMEElvish Merrymakers	G	common	Creature — Elf Citizen 	282	G	1G	When this creature enters, each player creates a Present token. (It’s an artifact with “T, Sacrifice this token: Target opponent gains 3 life and draws a card.”)	1/2		normal	SANTAREPLACEMEOilslick Defiler	UB	rare	Creature — Phyrexian Faerie 	444	UB	UB	Flying
+As an additional cost to cast Faerie spells, you may pay 2 life. Those spells cost U or B less to cast if you paid life this way. This effect reduces only the amount of colored mana you pay.	1/2		normal	SANTAREPLACEMEShora, the Bound Undeath	WB	mythic	Legendary Enchantment Creature — God 	478	WB	1WB	Vigilance, lifelink, indestructible
+Shora, the Bound Undeath isn’t a creature unless it has three or more verse counters on it.
+At the beginning of each player’s upkeep, if Shora has fewer than three verse counters on
+it, that player sacrifices a nontoken, nonland permanent. If that player can’t, put a verse counter on Shora.	6/6		normal	SANTAREPLACEMEPresent		common	Token Artifact — Present 	28	C		T, Sacrifice this token: 
+Target opponent gains 3 life
+and draws a card.			token	SANTAREPLACEMEMarch of the Damned	UB	uncommon	Instant	426	UB	UUBB	You can’t cast this spell during combat.
+Until end of turn, all creatures gain decayed. (A creature with decayed can’t block. When it attacks, sacrifice
+it at end of combat.)			normal	SANTAREPLACEMEProgression of Affliction	UBR	rare	Enchantment — Class 	459	UBR	UBR			(Gain the next level as a sorcery to add its ability.)
+When this enchantment enters and at the beginning of your upkeep, target creature gains afflict 1 until end of turn. (Whenever that creature becomes blocked, defending player loses 1 life.)
+2BR: Level 2
+At the beginning of your upkeep, target creature you control gains afflict X until end of turn, where X is the number of creatures you control.
+4U: Level 3
+Whenever an afflict ability you control triggers, that ability triggers an additional time.	saga	SANTAREPLACEMEZaldrek, Master of Eternal Rot	UBR	rare	Legendary Creature — Zombie Wizard 	515	UBR	3UBR	Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)
+Whenever a creature you control with afflict dies, create a 2/2 black Zombie creature token with decayed. (It can’t block. When
+it attacks, sacrifice it at end of combat.)
+XUB,T: Creatures you control gain afflict X until end of turn.	3/5		normal	SANTAREPLACEMEAngeldown Wings	W	rare	Kindred Artifact — Angel Equipment 	3	W	2W	Equipped creature is a 4/4 white Angel and has flying, lifelink, and vigilance.
+Whenever equipped creature attacks, create three 1/1 white Soldier tokens, tapped and attacking.
+Whenever equipped creature deals combat damage
+to a player, return target creature card from your graveyard to your hand.
+Equip non-Angel—Sacrifice an Angel.
+Equip 6			normal	SANTAREPLACEMEAzestru, the Radiant Lich	W	mythic	Legendary Creature — Zombie Cleric 	6	W	5WW	Creatures your opponents control have lifelink.
+Whenever another player gains life, you gain that much life.
+You may cast spells from graveyards. If you cast a  spell this way, pay life equal to twice its mana value rather than pay its mana cost. If a card cast this way would be put into a graveyard or a permanent cast this way would leave the battlefield, exile it instead.	0/7		normal	SANTAREPLACEMEGrandfather's Faith	W	common	Instant	31	W	3WW	If you’ve sacrificed a nontoken creature this
+turn, you may pay 1W rather than pay this spell’s mana cost.
+Target blocking creature gets +10/+0 and gains protection from everything until end of turn. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything until end of turn.)			normal	SANTAREPLACEMEPotato Duty	W	common	Enchantment — Aura 	57	W	2WW	If you control a Plains, you may sacrifice two Foods rather than pay this spell’s mana cost.
+Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t
+be activated.			normal	SANTAREPLACEMEAt Horizon's Edge	U	rare	Instant	88	U	4UU	If it’s not your turn and you control
+at least six nonland permanents, you may return all nonland permanents you control to their owners’ hands rather than pay this spell’s mana cost.
+Return all nonland permanents target player controls to their owners’ hands.			normal	SANTAREPLACEMEGifted Thief	U	common	Creature — Cat Rogue 	107	U	2U	If you’ve given a gift this turn, you may pay 0 rather than pay this spell’s mana cost.
+Whenever Gifted Thief deals combat damage to a player, draw a card.	2/2		normal	SANTAREPLACEMEKraken o' Nine Tails	U	rare	Kindred Artifact — Kraken Equipment 	112	U	2U	Equipped creature is a 4/7 blue Kraken.
+Whenever equipped creature attacks, tap up to two target creatures defending player controls. Put a stun counter on each of those creatures.
+Whenever equipped creature deals combat damage to a player, scry 2, then draw two cards.
+Equip non-Kraken—Sacrifice a Kraken.
+Equip 6			normal	SANTAREPLACEMEPurple Tiger	U	uncommon	Creature — Cat Illusion 	132	U		Flash 
+As long as an opponent said any of the words, “Purple,” “Tiger,” “Cat,” or “Illusion,” this turn before you did, you may pay 1UU to cast Purple Tiger from anywhere other than your library. 
+Whenever Purple Tiger deals combat damage to a player, draw a card.	3/3		normal	SANTAREPLACEMERavenous Piranha	U	common	Creature — Fish 	133	U	1U	As an additional cost to cast this spell, you may sacrifice a non-Fish creature. When you do, copy this spell. (The copy becomes a token.)
+Ravenous Piranha gets +1/+0 for each other creature on the battlefield named Ravenous Piranha.
+A deck can have any number of cards named Ravenous Piranha.	0/2		normal	SANTAREPLACEMESlumber Deeply	U	common	Sorcery	136	U	X2U	You may pay 3UU, tap X untapped nontoken creatures you control, and put a stun counter on each of them rather than
+pay this spell’s mana cost.
+Tap X target creatures. Put three stun counters on each of those creatures.			normal	SANTAREPLACEMEBlindsight Initiate	B	common	Creature — Human Warlock 	158	B	2B	You may discard a nonland card rather than pay this spell’s mana cost.
+Whenever you discard a card, each opponent loses 1 life and you gain 1 life.	1/3		normal	SANTAREPLACEMEDemonhide Jacket	B	rare	Kindred Artifact — Demon Equipment 	166	B	2B	Equipped creature is a 5/5 black Demon and has deathtouch.
+Whenever equipped creature attacks, you draw a card and you lose 2 life.
+Whenever equipped creature deals combat damage to a player, that player discards a card.
+Equip non-Demon—Sacrifice a Demon.
+Equip 6			normal	SANTAREPLACEMEDesperate Bargain	B	mythic	Sorcery	167	B	2BBBB	Fateful hour — If you have 5 or less life, you may pay 1BB rather than this spell’s mana cost.
+You lose half your life, rounded down.
+Take an extra turn after this one. During that turn, if you would gain life, gain twice as much life instead. At the beginning of that turn’s end step,
+if your life total is less than your starting life total, you lose the game.
+Exile Desperate Bargain.			normal	SANTAREPLACEMEFinished Business	B	common	Kindred Sorcery — Rogue Assassin 	169	B	4BB	Prowl 1BB (You may cast this for its prowl cost if you dealt combat damage
+to a player this turn with a Rogue or Assassin.)
+Destroy target creature. 
+Draw two cards.			normal	SANTAREPLACEMENemesistode	B	uncommon	Enchantment Creature — Germ 	184	B	B	Bestow 2B (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached.)
+Nemesistode can’t attack or block unless you discard a card. (This cost is paid as attackers or blockers are declared.)
+Enchanted creature gets -2/-2 and has “This creature can’t attack or block unless you discard a card.”	2/2		normal	SANTAREPLACEMEBring to Ruin	R	common	Sorcery	215	R	4RR	You may pay 2R and sacrifice a land
+rather than pay this spell’s mana cost.
+Destroy two target lands.			normal	SANTAREPLACEMEDragonscale Mask	R	rare	Kindred Artifact — Dragon Equipment 	223	R	2R	Equipped creature is a 3/5 red Dragon with “R: This creature gets +1/+0 until end of turn.”
+Whenever equipped creature attacks, it deals 1 damage to each creature defending player controls.
+Whenever equipped creature deals combat damage to a player, create that many Treasure tokens, but not more than five.
+Equip non-Dragon—Sacrifice a Dragon.
+Equip 6			normal	SANTAREPLACEMEGoblin Fireworks	R	rare	Kindred Instant — Goblin 	235	R	XXRR	You may pay XRR and sacrifice X Goblins rather
+than pay this spell’s mana cost.
+Goblin Fireworks deals X damage to each of up to X targets.
+Until end of turn, whenever a Goblin dies, if it was dealt damage this turn, it deals that much damage plus 1 to any target of its controller’s choice.			normal	SANTAREPLACEMEHe Can Handle It	R	rare	Sorcery	237	R	7RRR	As an additional cost to cast this spell, you may eat some spicy food. This spell costs X less to cast, where X is that food’s Scoville Heat Index. (To find a food’s Scoville Heat Index, take the log of that food’s Scoville Heat Units in base 5, round down, then subtract 3. Food is spicy if its Scoville Heat Index is greater than zero.)
+Draw four cards. At the end of your next turn, if this spell’s additional cost was paid and you failed to handle the heat, this spell deals X plus 5 damage to you.			normal	SANTAREPLACEMESmoldering Inside	R	common	Sorcery	262	R	1R	Madness—1RR, Pay 3 life. (If you discard this card, discard it into exile. When
+you do, cast it for its madness cost or put it into your graveyard.)
+Smoldering Inside deals 3 damage to any target. Then if its madness cost was
+paid, return it to your hand.			normal	SANTAREPLACEMEWildfire Phoenix	R	uncommon	Creature — Phoenix  	268	R	2RRR	Flying
+When Wildfire Phoenix dies, it deals 3 damage to any target.
+Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)	4/3		normal	SANTAREPLACEMEBon Vivoracious	G	mythic	Legendary Creature — Plant Horror 	274	G	GGGGGGG	You may sacrifice two Forests rather than pay this spell’s mana cost. 
+This spell can’t be countered.
+Menace, trample, devour land 2	4/4		normal	SANTAREPLACEMEFecundate	G	common	Sorcery	285	BG	2G	Flashback—B, Sacrifice a creature.
+Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.			normal	SANTAREPLACEMEHydra-Eye Necklace	G	rare	Kindred Artifact — Hydra Equipment 	289	G	XG	Hydra-Eye Necklace enters with X eyeball counters.
+Equipped creature is 0/0 green Hydra, gets +1/+1 for each eyeball counters on Hydra-Eye Necklace, and has trample.
+Whenever equipped creature attacks, put an eyeball counter on Hydra-Eye Necklace.
+Whenever equipped creature deals combat damage to a player, you may put a creature card of mana value less than or equal to the number of eyeball counters on Hydra-Eye Necklace from your hand onto the battlefield.
+Equip non-Hydra—Sacrifice a Hydra.
+Equip 6			normal	SANTAREPLACEMEVerdure Hart	G	common	Creature — Elemental 	318	G	4GG	Trample
+When Verdure Hart enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. 
+Evoke GG (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)	5/4		normal	SANTAREPLACEMEGrandfather's Foe	BR	rare	Legendary Creature — Demon 	389	BR	3BBRR	This spell costs X less to cast, where X is the number of nontoken creatures that died
+this turn. If X is 5 or greater, Grandfather’s Foe gains haste until end of turn. 
+Whenever Grandfather’s Foe attacks, defending player sacrifices a creature. If they can’t, they lose 3 life.	7/10		normal	SANTAREPLACEMEHunting Expedition	BG	common	Instant	400	BG	2BG	If you control three or more Humans, you may pay 0 rather than pay this spell’s mana cost.
+Destroy target non-Human creature. It can’t be regenerated.			normal	SANTAREPLACEMENightmare Collector	WB	uncommon	Creature — Human Shaman 	438	WB	2WB	Multikicker W/BW/B (You may pay an additional W/BW/B any number of times as you cast this spell.)
+When Nightmare Collector enters, choose target creature you don’t control, then choose another target creature you don’t control for each time this spell was kicked. Exile creature chosen this way until Nightmare Collector leaves the battlefield.
+Nightmare Collector gets +1/+1 for each creature card exiled with it.	1/1		normal	SANTAREPLACEMESaraquiel, Fiery Salvation	WR	mythic	Legendary Creature — Phoenix Angel 	473	WR	X1RW	When you cast this spell, you may return target creature card with mana value X or less from a graveyard to the battlefield under your control.
+Flying, lifelink
+You may cast Saraquiel, Fiery Salvation from your graveyard by paying 1RW and having each opponent gain twice X life rather than pay its mana cost.	3/3		normal	SANTAREPLACEMEStalking Imp	BR	uncommon	Creature — Devil  Horror 	485	BR	1BR	Whenever Stalking Imp attacks, each player discards a card.
+Hellbent — As long as you have no cards in hand, you may cast Stalking Imp from your graveyard by paying 3BR rather than pay its mana cost. If you do, it gains
+haste until end of turn.         	3/2		normal	SANTAREPLACEMEThought Slurp	UB	rare	Sorcery	495	UB	X1UB	You may pay UUUBBB and exile cards from the top of your library until you exile a nonland card rather than pay this spell’s mana cost. If you do, X is 3 times that card’s mana value.
+For each opponent, look at the top X cards of their library and exile one of them face down. Put the rest in their owner’s graveyard. You may cast those cards for as long as they remains exiled, and mana of any type may be spent to cast those spells.			normal	SANTAREPLACEMEDeadly Danseuse	WR	uncommon	Creature — Human Dancer 	517	WR	2R/WR/W	You may perform a dance of a person outside the game’s choice for at least thirty seconds rather than pay this spell’s mana cost.
+Lifelink
+Florid strike (This creature deals both first-strike and last-strike combat damage.)
+Whenever Deadly Danseuse deals combat damage to a creature, draw a card. When Deadly Danseuse dies this turn, discard a card.	3/2		normal	SANTAREPLACEMEFugu Wokmeister	UBR	uncommon	Creature — Fish Citizen 	520	UBR	2U/RB	You may pay 4UBR rather than pay this
+spell’s mana cost.
+Cascade
+Deathtouch
+If the 4UBR cost was paid, as you cascade, ignore exiled nonland cards with mana value 3 or less.	2/3		normal	SANTAREPLACEMEPernicious Specter	BR	common	Creature — Specter 	523	BR	2B/RB/R	Flying
+Whenever Pernicious Specter deals combat damage to a player, that player discards a card.
+As long as an opponent has no cards in hand, you may cast Pernicious Specter from your graveyard by discarding a card rather than paying its mana cost.  	2/2		normal	SANTAREPLACEMEPyrejack	BR	uncommon	Creature — Zombie Elemental 	524	BR	B/RB/RB/R	Menace, haste
+At the beginning of your end step, sacrifice Pyrejack.
+You may cast Pyrejack from your graveyard by paying BBRR and sacrificing a creature rather than pay
+its mana cost.	6/1		normal	SANTAREPLACEMELink, Hero of the Wild	WRG	mythic	Legendary Creature — Hylian Knight 	421	WRG	RGW	Valiant — Whenever Link, Hero of the Wild becomes the target of a spell or ability you control for the first time each turn, he explores.
+1, Remove a +1/+1 counter from Link: Put your choice of a flying, first strike, trample, or vigilance counter on him. If he already has all four, you may instead destroy target artifact, enchantment, or legendary creature.               	3/3		normal	SANTAREPLACEMEGrave Quellings	WU	rare	Instant	390	WU	2WU	Exile target noncreature spell with mana value 3 or less.
+Return target creature card with mana
+value 3 or less from your graveyard to the battlefield with a quell counter on it. That creature gains “When this creature leaves the battlefield, the exiled card’s owner may cast that card without paying its mana cost.”			normal	SANTAREPLACEMEMonastery Grounds	W	mythic	Legendary — Artifact	50	W	6WW	Indestructible
+Spirited (When this enters, you may activate one
+of its activated abilities without paying its cost)
+2W: Create a Monastery Mentor token. Activate only if you’ve cast a noncreature spell this turn. (It’s a 2W 2/2 Human Monk creature with prowess and “Whenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess.”)			normal	SANTAREPLACEMEThe Pack	WG	rare	Sorcery	454	WG	GW	Create a 2/2 green Wolf creature token and a 1/1 White human creature token with “This creature can’t attack or block alone.”			normal	SANTAREPLACEMEArlea of Mellow Winds	UG	mythic	Legendary Creature — Moonfolk Bard 	340	UG	2GU	Meditate — Whenever a card is put into your hand without being drawn, create a tapped Treasure token.
+XG, Return a land you control to its owner’s hand: Create a tapped X/X green Elemental creature token.	2/5		normal	SANTAREPLACEMEAspect of Fluidity	U	common	Creature — Serpent Elemental 	87	U	4U	Flying
+When this creature enters, you may return
+a land card you control to its owner’s hand. When you do, return another target creature
+to its owner’s hand.	3/3		normal	SANTAREPLACEMEBunny Dealer	UG	uncommon	Creature — Moonfolk Merchant 	354	UG	1GU	Vigilance, ward 2
+Meditate — Whenever a card is put into your hand without being drawn, create a tapped 1/1 green Rabbit creature token.	2/3		normal	SANTAREPLACEMECoronal Astromancer	U	uncommon	Creature — Moonfolk Wizard 	97	U	3U	Whenever this creature deals combat damage to a player, draw a card.
+2, Return a land you control to its owner’s hand: This creature can’t be blocked this turn.	3/3		normal	SANTAREPLACEMECultivate	G	common	Sorcery	275	G	2G	Search your library for up to two basic land
+cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.			normal	SANTAREPLACEMEEarthflow	UG	uncommon	Enchantment	372	UG	GU	Whenever you attack, you may put a land card from your hand onto the battlefield tapped.
+2, Return a land you control to its owner’s hand: Put a +1/+1 counter on target creature. You can’t activate this ability during combat.			normal	SANTAREPLACEMEElemental	G	common	Token Creature — Elemental 	17	G			*/*		token	SANTAREPLACEMEFlights of Whimsy	UG	rare	Enchantment	383	UG	3GU	At the beginning of your end step, create
+an X/X green Elemental creature token, where X is the number of cards in your hand.
+1, Return a land you control to its owner’s hand: Target creature gains flying until end of turn.			normal	SANTAREPLACEMEGrotto Musings	U	uncommon	Enchantment	109	U	2U	Meditate — Once each turn, when a card is put into your hand without being drawn, you may draw a card.			normal	SANTAREPLACEMEHidden Falls		uncommon	Land	571	UG		This land enters tapped.
+When this land enters, return a land you control to its owner’s hand.
+T: Add GU.			normal	SANTAREPLACEMELepari Alchemist	G	common	Creature — Moonfolk Druid 	292	G	1G	Meditate — Whenever a card is put into your hand without being drawn, you gain 2 life.	2/2		normal	SANTAREPLACEMELepari Protector	G	uncommon	Creature — Moonfolk Scout 	293	G	G	Meditate — Once each turn, when a card is put into your hand without being drawn, you may put a +1/+1 counter on this creature.	1/1		normal	SANTAREPLACEMELepari Spiritspeaker	U	common	Creature — Moonfolk Wizard 	114	U	2U	Meditate — Whenever a card is put into your hand without being drawn, this creature gets +1/+0 and gains flying until end of turn.	1/4		normal	SANTAREPLACEMEMaintain Tranquility	U	common	Instant	116	U	1U	As an additional cost to cast this spell, you may return a land you control to its owner’s hand.
+Counter target spell unless its controller pays 2. If this spell’s additional cost was paid, counter that spell unless its controller pays 4 instead.			normal	SANTAREPLACEMEPalm Weasel	G	uncommon	Creature — Weasel Plant 	301	G	1GG	Reach
+When this creature enters, return a land you control to its owner’s hand.	4/5		normal	SANTAREPLACEMERabbit	G	common	Token Creature — Rabbit 	18	G			1/1		token	SANTAREPLACEMESacred Tortoise	G	common	Creature — Turtle 	307	G	2G	Vigilance
+You may play an additional land on each
+of your turns.	2/4		normal	SANTAREPLACEMEThe Springwinder	G	rare	Legendary Creature — Plant Unicorn 	309	G	1G	Vigilance
+Once each turn, when another nontoken permanent you control is returned to hand, you may create a tapped token that’s a copy of it.	2/3		normal	SANTAREPLACEMEWhere Earth Meets Sky	U	rare	Instant	146	U	2UU	As an additional cost to cast this spell, you may return up to two lands you control to their owners’ hands. When you do, copy this spell for each land returned this way.
+Draw two cards, then discard a card.			normal	SANTAREPLACEMEAdmiral Brickell	WBR	mythic	Legendary Creature — Monkey Pirate 	329	WBR	RWB	At the beginning of combat on your turn, another target creature you control gets +1/+0 and gains first strike and haste until end of turn.
+Mega Mine — 8: Admiral Brickell deals 10 damage to target creature and 1 damage to each other creature with the same controller. Activate only as a sorcery and only once.	3/3		normal	SANTAREPLACEMEBenjamin, Pro Hacker	WBR	mythic	Legendary Creature — Monkey Advisor 	347	WBR	RWB	Creature tokens your opponents control get -1/-1.
+Bank Hack — At the beginning of your end step, if a creature died this turn, create a Treasure token. Then if four or more creatures died this turn, double the number of Treasure tokens you control.	1/4		normal	SANTAREPLACEMEEtienne, Drone Operator	W	rare	Legendary Creature — Monkey Artificer 	23	WR	W	When Etienne enters, create a 1/1 colorless Thopter artifact creature token with flying.
+Drone Swarm — 3RW: Create four 1/1 colorless Thopter artifact creature tokens with flying. They gain haste until end of turn. Activate only as a sorcery and only if you control no Thopters.	1/1		normal	SANTAREPLACEMERip Apart	WR	common	Sorcery	467	WR	RW	Choose one — 
+• Rip Apart deals 3 damage to target creature or planeswalker.
+• Destroy target artifact or enchantment.			normal	SANTAREPLACEMEWizard Lord Phoenix	R	uncommon	Creature — Monkey Wizard 	269	R	3R	Haste
+Summon Phoenix — Whenever this creature attacks, you may exert it. If you do, until end of turn, it becomes a Phoenix with base power and toughness 4/4, flying, and “When this creature dies,
+return it to its owner’s hand.”	2/2		normal	SANTAREPLACEMEBlossoming Descent	G	uncommon	Instant	273	G	G	Choose one —
+• Target creature gets +1/+1 and gains hexproof until end of turn.
+• Spells can’t be countered this turn.			normal	SANTAREPLACEMEExperimental Tinkerer	UR	uncommon	Creature — Human Artificer 	378	UR	UR	Instant spells and spells with flash you cast cost 1 less to cast.
+Whenever Experimental Tinkerer deals combat damage to a player, exile the top card of your library. Until your next turn, you may play that card.	2/1		normal	SANTAREPLACEMEKeystone Adapter	G	rare	Artifact Creature — Robot 	291	G	2GG	Vigilance, trample
+Keystone Adapter has hexproof as long as no opponent has cast a spell this turn.
+Whenever Keystone Adapter deals combat damage to an opponent, you may sacrifice it. If you do, destroy target noncreature permanent that player controls.	4/3		normal	SANTAREPLACEMESlobbermander	R	common	Creature — Salamander 	261	R	1R	Slobbermander gets +1/+1 as long as an opponent has been dealt damage this turn.	2/2		normal	SANTAREPLACEMEHawkord Academy		common	Land	569	C		Tap to add 1 colorless mana to your mana pool or look at the top card of a library of your choice.			normal	SANTAREPLACEMEMind Flayer	U	common	Summon Mind Flayer	121	U	2UU	When Mind Flayer is summoned, force opponent to reveal each card from their hand. For each card, they may pay 2 life instead of having to reveal it. You may take one of the revealed cards into your hand. If that card is put into a graveyard or at the end of game, put it into its owner’s graveyard.	2/2		normal	SANTAREPLACEMENecromancer of Thay	B	common	Summon Wizard	183	B	1BB	BBB: If the top card of your graveyard is a creature, return it to play. It can attack on the same turn returned to play. Remove it from the game at the end of the turn or if it would die.	1/1		normal	SANTAREPLACEMECore Drill		rare	Artifact	535	C	3	When Core Drill enters, you may search your library for a Vehicle card, reveal it, put it into your hand, then shuffle
+3, T: Target Vehicle you control becomes an artifact creature until
+end of turn.			normal	SANTAREPLACEMEGurren, Gunzar Reborn		rare	Legendary Artifact — Vehicle 	541	WR	5	First strike, haste
+3RW, T: If you both own and control Gurren, Gunzar Reborn and a creature named Lagann, Control Gunman, exile them, then meld them into Gurren Lagann, Fusionist.
+Crew 3	6/5		transform double faced	SANTA	Gurren Lagann, Fusionist	WR	Legendary Artifact — Vehicle 	WR		First strike, vigilance, lifelink, haste
+2W: Exile Gurren Lagann, then return
+it to the battlefield under its owner’s control. You may have it return melded.
+Crew 5	9/8		REPLACEMEImperator Titan		mythic	Artifact — Vehicle 	543	C	13	God-Engine — Protection from mana value 4 or less
+Cathedral Chassis — During your turn, this Vehicle is also an artifact creature.
+Hellstorm Cannon — Whenever one or more creatures you control become blocked, this Vehicle deals 5 damage to each blocking creature.
+Crew 5	13/13		normal	SANTAREPLACEMEKamina, Who Believes in You	R	rare	Legendary Creature — Human Pilot 	241	R	3R	Partner with Simon, Who Pierces the Heavens
+Whenever Kamina, Who Believes in You pilots a Vehicle, that Vehicle gains
+double strike until end of turn if it has first strike. Otherwise, it gains first strike until end of turn.	3/2		normal	SANTAREPLACEMELagann, Control Gunman		rare	Legendary Artifact — Vehicle 	544	WR	4	Vigilance, lifelink
+Other artifact creatures you control
+get +1/+1 as long as Lagann, Control Gunman is a creature.
+Crew 2
+(Melds with Gurren, Gunzar Reborn.)	3/3		transform double faced	SANTA	Gurren Lagann, Fusionist	WR	Legendary Artifact — Vehicle 	WR		Vigilance, first strike, lifelink, haste
+2W: Exile Gurren Lagann, then return it to the battlefield under its owner’s control. You may have it return melded.
+Crew 5	9/8		REPLACEMELaw of Cycles	WU	rare	Kindred Enchantment — Wizard 	418	WU	2WU	Whenever a Wizard you control enters or dies, you gain 1 life.
+Wizards you control get +1/+2 and have lifelink.
+Activated abilities of Wizards you control cost 1 less to activate.			normal	SANTAREPLACEMEPunie, Magical Witch	WRG	rare	Legendary Creature — Human Wizard Warrior 	461	WRG	1RGW	Haste
+Whenever Punie attacks, choose one —
+• Tap target creature defending player controls and put a stun counter on it.
+• Punie fights target tapped creature defending player controls. 	4/4		normal	SANTAREPLACEMERyuko Matoi, Friend of Senkutsu	BR	rare	Legendary Creature — Human Warrior 	471	BR	3BR	Haste
+When Ryuko Matoi, Friend of Senkutsu enters, create a colorless legendary Equipment artifact token named Senkutsu. It has indestructible, “Equipped creature gets +4/+2 and has lifelink and menace,” and equip 6. Attach that token to Ryuko Matoi.	2/2		normal	SANTAREPLACEMESenkutsu		common	Token Artifact — Equipment 	29	C		Indestructible
+Equipped creature gets +4/+2 and has lifelink and menace.
+Equip 5			token	SANTAREPLACEMESimon, Who Pierces the Heavens	W	rare	Legendary Creature — Human Pilot 	67	W	3W	Partner with Kamina, Who Believes in You
+Vehicle spells and Mech spells you cast cost 1 less to cast.
+Whenever Simon, Who Pierces the Heavens
+crews a Vehicle, that Vehicle gets +0/+2 until end of turn.	2/3		normal	SANTAREPLACEMESystem-∀99 ∀ Gundam	W	mythic	Legendary Artifact Creature — Mech 	71	W	9WW	Flying
+When System-∀99 ∀ Gundam enters,
+destroy all other creatures.
+When System-∀99 ∀ Gundam leaves the battlefield, put it into its owner’s library third from the top.	10/10		normal	SANTAREPLACEMEThe Black Marauder	BG	rare	Legendary Artifact Creature — Mech Horror 	348	BG	3BBG	Vigilance, menace, trample
+Ward—Sacrifice a creature.
+Whenever The Black Marauder becomes
+blocked, destroy target creature blocking it.	6/6		normal	SANTAREPLACEMEUltimate Modoka	WUB	mythic	Legendary Creature — Human God Wizard 	500	WUB	4WUB	As Ultimate Modoka enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+Creatures your opponents control of the chosen type get -1/-1.
+You may cast the first spell of the chosen type you cast each turn without paying its mana cost.	5/7		normal	SANTAREPLACEMEUsagi Tsukino, Sailor Moon	WUR	mythic	Legendary Creature — Human Wizard 	503	WUR	3URW	Vigilance, lifelink, indestructible, haste
+Clairvoyance — Whenever Usagi Tsukino,
+Sailor Moon enters or attacks, scry 3.
+Moon Frisbee — 3R: Usagi Tsukino gets +4/+0 and gains first strike until end of turn. Activate only once each turn.	4/5		normal	SANTAREPLACEMEAdventurer's Kit		rare	Artifact	526	C	2	Adventurer’s Kit enters with two pack counters.
+T, Remove a pack counter from Adventurer’s Kit: Choose one —
+• Rations — Create a Food token.
+• Potion — Put a +1/+1 counter on target creature.
+• Gear change — Attach target Equipment you control to target creature you control.
+T, Sacrifice a Treasure: Put two pack counters on Adventurer’s Kit.			normal	SANTAREPLACEMEBurgeoning Necromancer	B	rare	Creature — Human Wizard 	161	B	1B	When Burgeoning Necromancer enters, you may cast a creature card from your graveyard this turn. If you do, it enters with a finality counter on it and is a Skeleton in addition to its other types.	2/1		normal	SANTAREPLACEMEDire Bulette	G	rare	Creature — Beast 	278	G	2GG	During combat, you may cast Dire Bulette as though it had flash. If you cast it this way, return it to your hand at end of turn.
+When Dire Bulette enters, you may have it fight target attacking or blocking creature you don’t control.      	5/4		normal	SANTAREPLACEMEFull Plate		uncommon	Artifact — Equipment 	540	C	2	Equipped creature has armored 2. (If
+a source would deal damage to equipped creature, prevent 2 of that damage. This can’t prevent all damage.)
+Equipped creature’s activated abilities cost 2 more to activate.
+Equip 1			normal	SANTAREPLACEMEStirge Swarm	B	uncommon	Creature — Insect Bat 	195	B	2B	Flying
+Whenever Stirge Swarm enters or deals combat damage to a player, choose one —
+• Target player discards a card.
+• Remove up to two counters from target creature or player.
+• Exile target creature card from a graveyard.	2/2		normal	SANTAREPLACEMEAmbitious Biofowl	G	common	Creature — Bird 	271	UG	2G	3U: Ambitious Biofowl gains flying until end of turn.	4/2		normal	SANTAREPLACEMEBrushlicker Bimmy, the Art-ish	WR	rare	Legendary Creature — Human Artist 	352	WR	2RW	At the beginning of your upkeep, create a creature token. You have 15 seconds to draw it, then a player from outside the game has to guess what creature type it is. If they guess correctly, it’s a 2/2 creature token of that type and the colors you used. Otherwise, it’s a 1/1 colorless Weird.	3/3		normal	SANTAREPLACEMEButterphi	BG	uncommon	Creature — Phyrexian Insect 	355	BG	1BG	Flying, deathtouch
+Whenever Butterphi deals combat damage to a player, destroy up to one target artifact or enchantment that player controls.	2/1		normal	SANTAREPLACEMECollision Elemental	R	rare	Creature — Elemental 	221	R	RRR	Trample, haste
+At the beginning of your end step, Collision Elemental becomes a colorless Equipment artifact named Rock with “Equipped creature has ‘1, T, Sacrifice Rock: This creature deals 2 damage to any target’” and equip 1. (It loses its other abilities and types.)	6/1		normal	SANTAREPLACEMEEtali's Skeleton	R	rare	Legendary Artifact	225	R	3RR	When Etali’s Skeleton enters and at the beginning of your upkeep, exile the top card of each player’s library.
+T: You may play a card exiled with Etali’s Skeleton without paying its mana cost. Activate only as a sorcery.			normal	SANTAREPLACEMEGlitzy Rhinestone Jean Jacket	R	uncommon	Artifact — Equipment 	233	R	R	Equipped creature gets +1/+1.
+Whenever equipped creature is dealt damage, create a colorless Equipment artifact token named Rock with “Equipped creature has ‘1, T, Sacrifice Rock: This creature deals 2 damage to any target’” and equip 1.
+Equip 2			normal	SANTAREPLACEMEThe Dinosaur's Trampoline	UG	uncommon	Enchantment — Saga 	369	UG	GU			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after II.)
+Create a 3/3 green Dinosaur creature token.
+Target creature gains flying until end of turn.
+“the first piece of fiction i ever wrote was about how a dinosaur jumped on a trampoline so hard the trampoline broke . . . I cried when i realized that my effort of nearly an hour took less than  a minute to read.”
+—MsMaeve	saga	SANTAREPLACEMEUnearth (the Shards of Alara one)	B	common	Sorcery	200	B	B	Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield.
+Cycling 1B
+Flashback 1B			normal	SANTAREPLACEMEAngel of New Hope	WR	uncommon	Creature — Angel 	336	WR	2RW	Flying
+Whenever a creature token enters under your control, Angel of New Hope deals 1 damage to each opponent. You gain 1 life and scry 1.	3/3		normal	SANTAREPLACEMEBack-Alley Bouncer	R	common	Creature — Minotaur Warrior 	211	R	3R	When this creature enters, you may discard a card. If you do, create a 3/2 red Minotaur Warrior creature token.	3/2		normal	SANTAREPLACEMEBufous III, King of Toads	UG	rare	Legendary Creature — Frog 	353	UG	3GU	Vigilance, ward 2
+Landfall — Whenever a land you control enters, create a 1/1 green Frog creature token. If it’s an Island, create two of those tokens instead. Then if it’s a Forest, put a +1/+1 counter on each Frog you control.	5/5		normal	SANTAREPLACEMEChains of Command	W	rare	Enchantment — Aura 	14	W	1W	Enchant creature you control
+Enchanted creature has indestructible and can’t attack or block.
+Creatures you control other than enchanted creature get +1/+1.			normal	SANTAREPLACEMEDevoted Peacekeeper	W	common	Creature — Human Soldier 	20	W	2W	During your turn, this creature has first strike.
+Boast — 2W: Put a +1/+1 counter on another target attacking creature. That creature gains first strike until end of turn. (Activate only if this creature attacked this turn and only once each turn.)	2/1		normal	SANTAREPLACEMEHighborn Wretch	B	common	Creature — Vampire 	177	B	B	1B, Pay 2 life: Return Highborn Wretch from your graveyard to your hand.	1/1		normal	SANTAREPLACEMELearned Lioness	U	uncommon	Creature — Cat Citizen 	113	U	3U	Restructure (You restructure at the beginning of your end step if three or more permanents entered under your control this turn.)
+At the beginning of your end step, draw a card. Then discard a card unless you’ve restructured this turn.	2/5		normal	SANTAREPLACEMENouveau Liche	B	uncommon	Creature — Skeleton Warlock Noble 	186	B	1BB	When this creature enters, each player sacrifices a creature.
+Whenever you sacrifice one or more permanents, put that many +1/+1 counters on this creature.	1/1		normal	SANTAREPLACEMEOld Farmhouse		common	Land — Forest Plains 	575	C		(T: Add G or W.)
+This land enters tapped with a +1/+1
+counter on it.
+1, T: Move a counter from this
+land onto target creature you control. Activate only as a sorcery.			normal	SANTAREPLACEMEPauper's Revenge	W	common	Sorcery	54	W	W	As an additional cost to cast this spell, return a permanent you control to its owner’s hand.
+Create two 1/1 white Peasant creature tokens.			normal	SANTAREPLACEMEProtective Grotesque	U	common	Artifact Creature — Gargoyle 	131	U	1U	This creature enters with a defender counter on it.
+4U, Remove a defender counter from this creature: Put a +1/+1 counter and a flying counter on it. Activate only during your turn.	2/3		normal	SANTAREPLACEMEPublic Gardens	G	uncommon	Enchantment	303	G	G	Restructure (You restructure at the beginning of your end step if three or more permanents entered under your control this turn.)
+Whenever you restructure, mill three cards, then you may return a land card from your graveyard to your hand.			normal	SANTAREPLACEMERooftop Duel	G	common	Sorcery	306	G	2G	Put a +1/+1 counter and a reach counter on target creature you control. Then it fights up to one target creature you don’t control.			normal	SANTAREPLACEMESpirit	WB	common	Token Creature — Spirit 	20	WB		Flying			token	SANTAREPLACEMEDruidic Heirloom	G	common	Artifact — Treasure 	281	G	2G	This artifact enters tapped. When it enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+T, Sacrifice this artifact: Add one mana of any color.			normal	SANTAREPLACEMEFor the Elder	B	rare	Sorcery	171	B	2BB	Destroy all creatures with no counters on them.
+Memento 2B (You may cast this from your graveyard for 2B. If you do, put
+it onto the battlefield transformed after it resolves. Exile it if it would leave the battlefield or not resolve.)			transform double faced	SANTA	Heart of the Elder	B	Legendary Enchantment — Aura 	B		Enchant creature
+When Heart of the Elder enters, remove all counters from enchanted creature.
+Counters can’t be put on enchanted creature.			REPLACEMESilent Study	U	rare	Enchantment	135	U	UU	You can’t cast spells.
+Whenever an opponent casts a spell, you may sacrifice this enchantment. If you don’t, draw a card.			normal	SANTAREPLACEMEAstar, Mirror's Edge	WUG	mythic	Legendary Creature — Cat Warrior 	341	WUG	1GWU	Protection from tokens (This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by tokens.)
+Whenever Astar, Mirror’s Edge attacks, you may have each player create a token that’s a copy of another target nonland permanent.
+Whenever Astar deals combat damage to a player, gain control of all tokens that player controls.	4/4		normal	SANTAREPLACEMEEmai of the Fated Thread	UG	rare	Legendary Creature — Human Druid 	373	UG	2GU	As Emai enters, choose two players.
+Each of the chosen players untaps all permanents they control during the other player’s untap step.
+Each of the chosen players may cast spells as though they had flash during the other player’s turn.	2/4		normal	SANTAREPLACEMEInne the Storied Sea	WU	rare	Legendary Creature — Seal Monk 	402	WU	1WU	You have no maximum hand size.
+Whenever another player draws a card during their turn, each of that player’s opponents draws a card.	0/5		normal	SANTAREPLACEMEMorathi, Shadow Queen	BR	rare	Legendary Creature — Demigod 	434	BR	3BR	Creatures can’t block.
+Whenever a player attacks you, choose one —
+• Morathi deals damage to that player equal  to the number of creatures attacking you.
+• Morathi deals damage to that player equal  to the greatest power among creatures attacking you.	5/4		normal	SANTAREPLACEMETerritorial Hipposlip	UG	uncommon	Creature — Seal Bird Hippo 	491	UG	GU	Flying, trample, ward 2	2/2		normal	SANTAREPLACEMEAnomaly Glitch	RG	mythic	Instant — Arcane 	0	RG	1CRG	Choose one —
+• All artifacts phase out. (They phase in before their controller untaps during that player’s next untap step.)
+• All enchantments phase out.
+• Tap all creatures that are enchanted or equipped. Each creature tapped this way deals damage to itself equal to its power.			normal	SANTAREPLACEMEBT.7274, Dutiful Vanguard		mythic	Legendary Artifact — Vehicle 	0	C	4	Partner with Jack Cooper, Surprise Militia Ace
+At the beginning of your combat phase, choose one. If you control a creature named Jack Cooper, Surprise Militia Ace, you may instead choose both.
+• This artifact becomes a copy of another Vehicle and gains crew 2 until end of turn.
+• This artifact becomes an artifact creature and gains haste until end of turn.	4/5		normal	SANTAREPLACEMEHextech Crystal		rare	Artifact Enchantment — Aura  	0	C	4	Enchant Equipment or Aura
+When this permanent enters, create two tapped Treasure tokens.
+When this permanent is put into a graveyard from the battlefield, exile target nonland permanent with mana value 3 or less.
+Enchanted permanent has “The creature this permanent is attached to gets +3/+1 and has trample and reach.”			normal	SANTAREPLACEMEInescapable Bonds of Love	WR	rare	Instant — Arcane 	0	WR	RRW	Prevent all damage target creature you control and target creature an opponents controls would deal this turn. When one of those creatures dies this turn, the other deals damage equal to its power to all creatures, planeswalkers, battles, and players. The damage can’t be prevented.
+Flashback—RW, Sacrifice a creature you control.			normal	SANTAREPLACEMEIzzet League Stipend	UR	rare	Enchantment — Allegiance 	522	UR	UU/RR	The first instant or sorcery spell you cast each turn cost 1 less.
+Whenever you cast an instant or sorcery spell, if its mana value is 6 or greater or if it’s the fourth instant or sorcery spell you’ve cast this turn,
+you may sacrifice this enchantment. If you do, discover 5. When you cast that spell, if its mana value is 3 or less, copy it and you may choose new targets for the copy.			normal	SANTAREPLACEMEJack Cooper, Surprise Militia Ace	WR	mythic	Legendary Creature — Human Pilot Soldier 	0	WR	RW	Partner with BT.7274, Dutiful Vanguard (When this creature enters, target player may put BT.7274 into their hand from their library, then shuffle.)
+Whenever Jack Cooper or a creature you control  named BT.7274, Dutiful Vanguard attacks, you get E.
+Pay EE: Target artifact creature gains your choice of first strike, vigilance, or reach until end of turn.	2/2		normal	SANTAREPLACEMEOrzhov Syndicate Contract	WB	rare	Enchantment — Allegiance 	0	WB	WB	Whenever you cast a white or black creature spell, you may pay W/B. If you do, if that spell is black, target opponent loses 1 life. If it’s white, you gain 1 life.
+WB, Sacrifice this enchantment: You gain life equal to the number of creatures that died this turn, then each opponent loses life equal to the number of creatures that entered under your control this turn.			normal	SANTAREPLACEMEThe Ark	WB	rare	Legendary Artifact	339	WB	WB	When The Ark enters, exile all creature cards from all graveyards.
+4, Sacrifice The Ark and a nontoken creature: For each card exiled with The Ark, create a token that’s a copy of it, except it’s an artifact. (It loses all other card types.)			normal	SANTAREPLACEMECalcifying Infestation	UG	rare	Enchantment	357	UG	GU	When Calcifying Infestation enters and at the beginning of your upkeep, put a spore counter on target creature.
+Creatures with spore counters on them have “T: Add C” and “This creature can’t attack unless you pay 2.” (This cost is paid as attackers are declared.)			normal	SANTAREPLACEMELegacy Initiate	WBR	rare	Creature — Human Shaman 	419	WBR	RWB	Whenever a legendary creature you control enters, attacks, or dies, choose one that hasn’t been chosen for that creature —
+• That creature deals 1 damage to each opponent.
+• Put a +1/+1 counter on that creature.
+• Draw a card.	3/2		normal	SANTAREPLACEMEImp	UB	rare	Legendary Creature — Human Rogue 	521	UB	3U/BU/B	Imp can’t be named by spells or abilities your opponents control.
+As long as Imp is tapped, it has shroud and
+can’t be blocked. (A creature with shroud can’t be the target of spells or abilities.)
+Whenever Imp deals combat damage to a player, you draw a card and you lose 1 life.	3/2		normal	SANTAREPLACEMEAcademy Sewers	UB	rare	Enchantment	327	UB	1UB	Whenever an enchantment is put into your graveyard from anywhere, you may pay 1. If you do, create a 1/1 black Rat Wizard creature token with “When this creature dies, return target enchantment card from your graveyard to your hand.”			normal	SANTAREPLACEMEBaneful Portent	UB	rare	Enchantment	344	UB	3UB	Whenever a player casts a spell, they may put two divination counters on Baneful Portent. If they do, that player exiles that spell, draws cards equal to its mana value, then discards two cards. (That spell won’t resolve.)
+At the beginning of your upkeep, each player loses 1 life for each divination counter on Baneful Portent.			normal	SANTAREPLACEMEStabilized Spellkeeper	UR	common	Legendary Creature — Weird 	484	UR	2UR	Prowess
+Whenever you cast an instant or sorcery spell, shuffle target instant or sorcery card in your graveyard into your library. If that card’s mana value is less than Stabilized Spellkeeper’s power, put it into your hand instead.	1/2		normal	SANTAREPLACEMERat Wizard	B	common	Token Creature — Rat Wizard 	11	B		When this creature dies, return target enchantment card from your graveyard to your hand.	1/1		token	SANTAREPLACEMEGreg, Naive Troublemaker	W	mythic	Legendary Creature — Human Citizen 	32	W	2W	Partner with Wirt, Stubborn Worrywort (When this creature enters, target player may put Wirt into their hand from their library, then shuffle.)
+When Greg, Naive Troublemaker enters, create a 2/2 green Frog creature token with “This creature has all names of legendary creature cards.” (It isn’t legendary.)
+At the beginning of your end step, create a Food token.	2/2		normal	SANTAREPLACEMEPotatoes and Molasses	W	rare	Instant	58	W	5WWW	Convoke (Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)
+You gain X life and scry X, where X is the number of tapped creatures you control. Tapped creatures you control get +1/+1 and gain hexproof until end of turn.			normal	SANTAREPLACEMEBeatrice, Cursed Bluebird	U	mythic	Legendary Creature — Bird 	89	U	1U	Companion — Your commanders are Greg, Naive Troublemaker and Wirt, Stubborn Worrywort.
+Flying
+Whenever Beatrice, Cursed Bluebird enters or attacks, she connives X, where X is the number of commanders you control.
+If Beatrice would leave the battlefield, put her into your hand instead.	1/1		normal	SANTAREPLACEMEFresh Air of Night	B	rare	Instant	172	B	2BB	This spell costs X less to cast, where X is the number of creatures you controlled that left the battlefield this turn.
+Exile target creature or planeswalker.			normal	SANTAREPLACEMEAuntie Whisper's Bell	R	rare	Artifact	210	R	2R	When Auntie Whisper’s Bell enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+T: Add R.			normal	SANTAREPLACEMETurn to Edelwood	G	rare	Enchantment — Aura 	316	G	1G	Enchant commander
+Enchanted permanent is a colorless Forest land and loses all other card types and abilities. (It has “T: Add G.”) 			normal	SANTAREPLACEMEBeatrice's Curse	UB	rare	Sorcery	346	UB	UB	Turn target creature face down. It’s a 2/2 Bird creature. Create a Cursed Role token attached to that creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)			normal	SANTAREPLACEMEGreg's Sacrifice	WG	rare	Instant	392	WG	GW	As an additional cost to cast this spell,
+sacrifice a creature.
+Exile target creature you control, then return it to the battlefield. It gains hexproof and indestructible until
+end of turn.			normal	SANTAREPLACEMEHarvest Festival	WG	rare	Enchantment — Saga 	393	WG	1GW			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+Create a Food token.
+Sacrifice any number of Food tokens. Create that many 3/3 white and black Food Citizen artifact creature tokens with “2, T, Sacrifice this token: You gain 3 life.”	saga	SANTAREPLACEMELantern Woodsman	RG	rare	Creature — Human Artificer 	417	RG	2RG	Whenever Lantern Woodsman enters or attacks, create an Oil-Flask token.
+1, Sacrifice an artifact: Look at the top two cards of your library. Exile one of them and put the other on the bottom of your library. You may play cards exiled this way until the end of your next turn. Activate only as a sorcery.	4/4		normal	SANTAREPLACEMESara, Ghost-Story Gatherer	WB	rare	Legendary Creature — Human Citizen 	472	WB	3WB	Ward 2
+Each creature card in your graveyard has unearth. The unearth cost is equal to its mana cost reduced by 2.
+Whenever a creature you control enters, if it entered from a graveyard or was cast from a graveyard, you gain 2 life and surveil 2.	4/5		normal	SANTAREPLACEMEWirt, Stubborn Worrywort	UB	mythic	Legendary Creature — Human Citizen 	510	UB	1UB	Partner with Greg, Naive Troublemaker
+At the beginning of your upkeep, target legendary creature you control explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or into your graveyard.)
+Whenever you gain life, scry 1.	3/3		normal	SANTAREPLACEMEThe Old Grist Mill		rare	Land — Forest 	576	G		(T: Add G.)
+The Old Grist Mill enters tapped unless you control a non-Citizen creature.
+1G, Tap an untapped non-Citizen creature you control: Create an Oil-Flask token. (It’s an artifact with “1, T, Sacrifice this token: Look at the top two cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.”)			normal	SANTAREPLACEMEUncontested Cornucopia	W	common	Sorcery	78	W	2W	Draft Uncontested Cornucopia face up.
+As you draft a card, you may remove it from the draft face up. For each card removed from the draft this way, add a copy of Uncontested Cornucopia to your draft pool.
+Create a 2/2 white Unicorn creature token with “This creature has first strike as long it’s attacking.”			normal	SANTAREPLACEMEChthonic Formthief	U	rare	Creature — Shapeshifter 	96	U	3UU	As Chthonic Formthief enters, you may exile a creature card from your graveyard or from outside the game or choose a creature card you own in exile. If you do, Chthonic Formthief enters as a copy of that card.
+When Chthonic Formthief dies, put the exiled card into its owner’s hand.	0/0		normal	SANTAREPLACEMETriumvirate's Dictate	U	common	Instant	143	U	1U	Reveal Triumvirate’s Dictate as you draft it. The player to your right chooses a number between 0 and 6, you choose another number, then the player to your left chooses a third number.
+Counter target spell unless its controller pays 2. If its mana value is equal to a number chosen as you drafted cards named Triumvirate’s Dictate, counter that spell instead.			normal	SANTAREPLACEMEFeverish Fervor	R	uncommon	Sorcery	228	R	2R	Choose target creature an opponent controls. Gain control of each creature that player controls that shares a creature type with the chosen creature until end of turn. Untap them. They gain haste until end of turn.			normal	SANTAREPLACEMEUnicorn	W	common	Token Creature — Unicorn 	9	W		This creature has first strike as long as it’s attacking.	2/2		token	SANTAREPLACEMEComedic Vandalism!	W	common	Sorcery — Prank 	18	W	0	Sacrifice an artifact or enchantment. If you can’t, sacrifice a land.
+Draw a card.			normal	SANTAREPLACEMEWell-Placed Bananas!	U	common	Sorcery — Prank 	145	U	0	Put a stun counter on each of three creatures and/or artifacts you control. Tap them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Draw a card.			normal	SANTAREPLACEMEPunji Pit!	B	common	Sorcery — Prank 	189	B	0	Sacrifice a creature.
+Draw a card.			normal	SANTAREPLACEMEPie in the Face!	R	common	Sorcery — Prank 	254	R	0	This spell deals 4 damage to you.
+Draw a card.			normal	SANTAREPLACEMEWhat's New Pussycat!	G	common	Sorcery — Prank 	320	G	0	Each opponent creates a 2/2 green Cat Clown creature token.
+Draw a card.			normal	SANTAREPLACEMEClown-About-Town	UR	uncommon	Creature — Clown Citizen 	360	UR	UR	Players play with the top card of their libraries
+revealed.
+3, T: Any number of target players each mill a card. If a Prank card is milled this way, its owner casts it if able. Until end of turn, if a player who cast a spell this way would draw
+a card, instead that player skips that draw.	0/3		normal	SANTAREPLACEMEClownspicuous Prankfiltraitor	BR	uncommon	Creature — Clown Rogue 	361	BR	BR	This creature enters under the control of an opponent of your choice.
+At the beginning of your end step, if you haven’t cast a Prank spell this turn, conjure three random Prank cards into your library, then shuffle.
+When this creature dies, if it was dealt combat damage this turn or it was sacrificed, conjure five random Prank cards with different names into your library, then shuffle.	0/4		normal	SANTAREPLACEMEJaquille the Jester	UBR	mythic	Legendary Creature — Clown Performer 	406	UBR	UBR	At the beginning of your end step, each opponent conjures two random Prank cards into their library, then shuffles.
+T: Each opponent reveals their hand. For each opponent, you may choose a Prank card they revealed this way. They cast it
+if able. Activate only as a sorcery.
+(Melds with Pranks Aplenty.)	0/4		normal	SANTAREPLACEMENuisance of the Deep	UB	uncommon	Creature — Fish Beast Clown 	441	UB	1UB	Ward—Conjure three random Prank cards into your library, then shuffle.
+Whenever an opponent casts a noncreature spell for the first time each turn, that player conjures three random Prank cards into their
+library, then shuffles.	2/2		normal	SANTAREPLACEMEPranks Aplenty	UR	rare	Kindred Sorcery — Clown 	458	UBR	UR	Each opponent conjures four random Prank cards into their library, then shuffles.
+If you both own and control this spell and a creature named Jaquille the Jester, exile them, then meld them into Jaquille, Playful Tormentor. Otherwise, this spell’s owner shuffles it into their library, then you draw a card.			transform double faced	SANTA	Jaquille, Playful Tormentor	UBR	Legendary Planeswalker — Jaquille 	UBR				Whenever an opponent casts a Prank spell, draw a card and put a loyalty counter on Jaquille.
+[+2]: Each opponent conjures four random Prank cards into their library, then shuffles. You scry 2.
+[0]: Each opponent reveals their hand. For each opponent, you may choose a Prank card they revealed this way. They cast it if able.
+[-7]: Each opponent mills ten cards. For each Prank card milled this way, its owner casts it if able. Until end of turn, opponents can’t draw cards.
+[-7]: Each opponent mills ten cards. For each Prank card milled this way, its owner casts it if able. Until end of turn, opponents can’t draw cards.	REPLACEMEBus of the Merry Pranksters		uncommon	Artifact — Vehicle 	531	C	4	Each Clown you control crews this Vehicle as though its power were 2 greater.
+Crew X (Tap any number of creatures you control with total power X or more: This Vehicle becomes an artifact creature until end of turn.)
+Whenever this Vehicle attacks, each opponent conjures X random Prank cards into their library, then shuffles. (Yes, this counts the bonus power from the other ability.)	4/6		normal	SANTAREPLACEMEClown Town		rare	Kindred Land — Clown 	564	C		Whenever an opponent casts a Prank spell, note its colors.
+T: Add C or one mana of any color noted for this land.
+6, T: Draw a card. This ability costs 1 less to activate for each color noted for this land.			normal	SANTAREPLACEMECat Clown	G	common	Token Creature — Cat Clown 	16	G					token	SANTAREPLACEMETruesilver Champion	WR	uncommon	Artifact — Weapon 	499	WR	2RW	Haste
+This Weapon can attack as though it were a creature.
+Whenever this Weapon attacks, you gain 2 life and put a durability counter on it. At the beginning of your end step, if this Weapon has two or more durability counters on it, sacrifice it.
+Whenever this Weapon is dealt combat damage, you lose that much life.	4/2		normal	SANTAREPLACEMETendrils of Memory	UB	mythic	Enchantment	490	UB	2UB	While you’re choosing cards you own from outside the game, you may exile each card you find. For each card exiled this way, you may buy the win condition you’re looking for from the nearest shop and put it into your hand instead.			normal	SANTAREPLACEMEIndustrialized Recycling	U	rare	Instant	110	U	XU	Return up to X target permanents you control to their owner’s hand, then you may discard up to X cards. Draw a card for each card you discarded this way.			normal	SANTAREPLACEMEJörmungandr, World Serpent	UG	mythic	Legendary Snow Creature — Elder Serpent 	408	UG	6GU	Trample, indestructible
+Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
+Jörmungandr can’t be sacrificed.
+Ouroboros — When Jörmungandr dies, exile
+all other non-God permanents and all graveyards, then restart the game, leaving those cards in exile.	8/8		normal	SANTAREPLACEMEGates of Blashyrkh		rare	Legendary Snow Land	567	B		This land enters tapped unless you control one or more other snow lands.
+T: Add one mana of any color.
+SSBB, T: Search your library for
+a Demon card, reveal it, then shuffle and put that card on top.	2/2		normal	SANTAREPLACEMETandem Sanctity	W	uncommon	Sorcery	73	W	3W	Choose target creature you control and target creature card in your graveyard, exile them, then return them to the battlefield tapped.			normal	SANTAREPLACEMEReturner Apostle	WB	rare	Creature — Demon 	466	WB	5WB	As an additional cost to cast this spell, you may remove any number of finality counters from among permanents you control. This spell costs 1 less to cast for each counter removed this way.
+Flying, menace
+When Returner Apostle enters, return any number
+of nonland permanent cards with total mana value 5 or less from your graveyard to the battlefield. Put a finality counter on each of them.	5/5		normal	SANTAREPLACEMEGhoul Tender	WB	uncommon	Creature — Human Cleric 	385	WB	WB	Whenever a creature you control with mana
+value 1 dies, return it to the battlefield under your control with a finality counter on it.
+Whenever a creature you control is put into exile from the battlefield, each opponent loses life equal to its power and you gain that much life.	2/1		normal	SANTAREPLACEMELong-Story Prophet	W	common	Creature — Human Cleric 	43	W	W	When Long-Story Prophet enters, move up to one finality counter from another permanent you control onto target permanent.	1/2		normal	SANTAREPLACEMEBlood Supper	B	common	Creature — Leech 	159	B	B	When Blood Supper enters, each opponent loses 1 life and you gain 1 life.
+When Blood Supper dies, return it to the battlefield with a finality counter.	1/1		normal	SANTAREPLACEMEDeter	U	uncommon	Instant	99	U	UU	Counter target noncreature spell unless its controller pays 3.
+Coalesce—1UU, Exile a blue instant card from your hand. (As this spell resolves, exile it with a wisp counter. As long as it has a wisp counter, you may cast it for its coalesce cost.)			normal	SANTAREPLACEMEFlesh Shatter	B	common	Instant	170	B	4BB	Destroy target creature.
+Coalesce 1B (As this spell resolves, exile it with a wisp counter. As long as it has a wisp counter, you may cast it for its coalesce cost.)			normal	SANTAREPLACEMEAir Alight	R	common	Sorcery	208	R	R	Air Alight deals 2 damage to target player.
+Coalesce 2R (As this spell resolves, exile it with a wisp counter. As long as it has a wisp counter, you may cast it for its coalesce cost.)			normal	SANTAREPLACEMEGathering Power	W	common	Sorcery	28	W	1WW	Creatures you control get +1/+2 and gain vigilance until end of turn.
+Coalesce 1WW (As this spell resolves, exile it with a wisp counter. As long as it has a wisp counter, you may cast it for its coalesce cost.)			normal	SANTAREPLACEMEIdeal Endured	W	rare	Sorcery	37	W	5WWW	Search your library for an enchantment
+card, put it onto the battlefield, then shuffle.
+Coalesce 2WW (As this spell resolves, exile it with a wisp counter. As long as it has a wisp counter, you may cast it for its coalesce cost.)			normal	SANTAREPLACEMEThe Silence	B	rare	Creature — Alien Horror 	192	B	1BB	When this creature enters, each opponent loses 1 life and you gain 1 life.
+Whenever one or more other creatures attack, exile this creature. Return it to the battlefield tapped at the beginning of the next end step.	4/3		normal	SANTAREPLACEMEWildkin Summoner	G	common	Creature — Elf Druid 	321	G	X1G	Draft this card face up.
+As you draft a creature card, you may remove
+it from the draft face up.
+When this creature enters, you may put a creature card with mana value X or less you removed from the draft with cards named Wildkin Summoner onto the battlefield.	2/1		normal	SANTAREPLACEMEEnduring Expertise	WR	rare	Enchantment Creature — Dinosaur Glimmer 	374	WR	1RW	At the beginning of combat on your turn, you may have target creature you control gain double strike until end of turn.
+When this creature dies, if it was a creature, return it to the battlefield under its owner’s control. It’s an enchantment. (It’s not a creature.)	2/3		normal	SANTAREPLACEMEExodite Warbeast	G	rare	Kindred Artifact — Dinosaur Vehicle 	284	G	2G	Trample
+Whenever an Elf you control enters, put a +1/+1 counter on this Vehicle. You may have it become an artifact creature until end of turn.
+Crew 3	5/4		normal	SANTAREPLACEMEBolas, Planar Mastermind	UBR	mythic	Legendary Creature — Elder Dragon 	350	UBR	1UBR	Flying, deathtouch, menace
+2, Discard a card: Bolas, Planar Mastermind gains hexproof and indestructible until end of turn. Tap it.
+Once each turn, if a player would roll the planar die, you may pay 5 life. If you do, instead of that player rolling that die, you select the result. (This still counts as that player rolling that die.)	5/4		normal	SANTAREPLACEMESihari, Desolate Wanderer	RG	mythic	Legendary Creature — Human Nomad 	480	RG	1RG	When Sihari, Desolate Wanderer enters, you may search your library for a basic land or Desert card, reveal it, put it into your hand, then shuffle.
+Whenever a land you control enters, Sihari deals 1 damage to any target. If you control six or more Deserts, it deals 3 damage to any target instead.	3/2		normal	SANTAREPLACEMEKal-El, the Man of Steel	WU	mythic	Legendary Creature — Kryptonian Hero 	409	WU	1WU	Vigilance, indestructible
+If a creature or planeswalker dealt damage by Kal-El, the Man of Steel this turn would
+die, instead return that permanent to its owner’s hand.
+1W/U: Kal-El gains flying until end of turn.	4/5		normal	SANTAREPLACEMEMystique, the Perfect Mimic	U	rare	Legendary Creature — Mutant Shapeshifter Hero 	123	U	2U	You may have Mystique, the Perfect Mimic enter as a copy of any creature on the battlefield, except its name is Mystique, the Perfect Mimic, it’s legendary in addition to
+its other types, and it has “Whenever this creature attacks, you may exile it. If you
+do, return it to the battlefield tapped and attacking.”	0/0		normal	SANTAREPLACEMEKamurocho		rare	Legendary Land	572	B		T: Add C.
+T, Pay 1 life: Add B.
+1B, T: Whenever target Rogue you control deals combat damage to a player this turn, draw a card and you lose 1 life. Activate only as a sorcery.			normal	SANTAREPLACEMEMariah Carey, Defrosted	R	rare	Legendary Snow Creature — Human Bard 	246	R	1R	Menace, haste
+R, T: Goad target creature.
+2R, T, Sing at least ten seconds of ‘All I Want for Christmas is You’: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Activate only as a sorcery.	1/3		normal	SANTAREPLACEMEGood News, Everyone!	WR	rare	Sorcery	388	WR	2RW	Exile each creature. For each creature exiled this way, flip a coin. For each card whose coin comes up heads, return that card to the battlefield tapped.			normal	SANTAREPLACEMEFollower Phoenix	R	rare	Creature — Phoenix 	231	R	1R	Flying
+At the beginning of your end step, if a Phoenix entered from your graveyard this turn, return this creature from your graveyard to the battlefield tapped.
+Cycling 1R	2/1		normal	SANTAREPLACEMEDawn, Dusk, and Dark	WUB	rare	Legendary Creature — Avatar 	366	WUB	WUB	At the beginning of your upkeep, scry 1.
+At the beginning of combat on your turn, up to one target creature can’t be blocked this turn.
+At the beginning of your end step, up to one target permanent phases out.	3/3		normal	SANTAREPLACEMEOpa, Resolute Observer	WUBRG	mythic	Legendary Creature — Eldrazi 	447	WUBRG	WUBRG	Eminence — If you would learn while Opa is in the command zone or on the battlefield, you may instead reveal cards from the top of your library until you reveal two Lesson cards. Put one of them into your hand, then shuffle.
+Whenever you cast a Lesson spell, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)	5/5		normal	SANTAREPLACEMEHauer, Timekeeper	WUG	mythic	Legendary Creature — Faerie Wizard 	394	WUG	1GWU	Flying, ward 2
+Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on it and venture into the dungeon. (Enter the first room or advance to the next room.)
+Room abilities of dungeons you own trigger an additional time for each dungeon you’ve completed.	2/4		normal	SANTAREPLACEMEAssault Vest		uncommon	Artifact — Equipment 	530	C	3	Equipped creature gets +0/+3, has ward 4, can’t be sacrificed, and can’t be tapped except to attack.
+Equip Pokémon 1
+Equip 3			normal	SANTAREPLACEMEAmnesia	UB	uncommon	Creature — Elemental Incarnation 	334	UB	UB	Shadow (This creature can block or be blocked by only creatures with shadow.)
+When Amnesia enters, target player mills eight cards.
+Evoke—Exile a blue or black card from your hand.	1/1		normal	SANTAREPLACEMEEnvy	RG	uncommon	Creature — Elemental Incarnation 	376	RG	2RG	Trample
+When Envy enters, destroy up to one target nonbasic land. Its controller may search their library for a basic land card and put
+it onto the battlefield tapped, then shuffle.
+Evoke—Exile a red or green card from your hand.	5/3		normal	SANTAREPLACEMEHospitality	WG	uncommon	Creature — Elemental Incarnation 	399	WG	1GW	Vigilance
+When Hospitality enters, create two 1/1 white Rabbit creature tokens.
+Evoke—Exile a green or white card from your hand. (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)	1/1		normal	SANTAREPLACEMELoyalty	WU	uncommon	Creature — Elemental Incarnation 	422	WU	1WU	Flying
+When Loyalty enters, exile target creature until Loyalty leaves the battlefield. (It returns under its owner’s control.)
+Evoke—Exile a white or blue card from your hand. (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)	2/2		normal	SANTAREPLACEMETorment	BR	rare	Creature — Elemental Incarnation 	497	BR	BBRR	Haste
+When Torment enters, each opponent loses 3 life.
+At the beginning of your end step, exile Torment.
+At the beginning of your upkeep, you may exile a permanent you control. If you do, return Torment
+from exile or your graveyard to your hand.
+Evoke—Exile a black or red card from your hand.	6/6		normal	SANTAREPLACEMEAnnihilape	B	uncommon	Creature — Monkey Pokémon 	150	B	3BB	Rage Fist — Whenever Annihilape is dealt
+damage, put a +1/+1 counter on it.
+Final Gambit — T, Sacrifice Annihilape: Put a number of -1/-1 counters on target creature equal to Annihilape’s toughness.	6/4		normal	SANTAREPLACEMEMankey	R	common	Creature — Monkey Pokémon 	245	R	R	Vital Spirit — Mankey can’t be tapped by spells or abilities.	2/1		normal	SANTAREPLACEMEPrimeape	R	common	Creature — Monkey Pokémon 	255	R	1R	Thrash — Primeape attacks each combat if able.
+At the beginning of your upkeep, flip a coin. If you lose the flip, tap Primeape.
+Whenever Primeape attacks, put a rage counter on it. Then if it has three or more rage counters, search your library for a card named
+Annihilape, mutate it onto Primeape, then shuffle.	4/3	Mutate onto Mankey 1R (If you cast this spell for its mutate cost, put it over target creature you own named Mankey. They mutate into the creature on top plus all abilities from under it.)
+Thrash — Primeape attacks each combat if able.
+At the beginning of your upkeep, flip a coin. If you lose the flip, tap Primeape.
+Whenever Primeape attacks, put a rage counter on it. Then if it has three or more rage counters, search your library for a card named
+Annihilape, mutate it onto Primeape, then shuffle.	normal	SANTAREPLACEMEMaushold	W	common	Creature — Mouse Pokémon 	48	W	1W	Population Bomb — Whenever this creature enters the battlefield or mutates, it deals 1 damage to target creature for each creature you control named Maushold.	2/2	Mutate onto Tandemaus 1W (If you cast this spell for its mutate cost, put it over target creature you own named Tandemaus. They mutate into the creature on top plus all abilities from under it.)
+Population Bomb — Whenever this creature enters the battlefield or mutates, it deals 1 damage to target creature for each creature you control named Maushold.	normal	SANTAREPLACEMETandemaus	W	common	Creature — Mouse Pokémon 	74	W	W	Multioffspring 2 (You may pay an additional 2 any number of times as you cast this spell. If you do, when this creature enters, create that many 1/1 tokens that are copies of it.)
+Whenever this creature becomes the target of a creature spell with mutate, copy that spell for each creature you control named Tandemaus.
+Each copy targets a different one of those creatures.	2/1		normal	SANTAREPLACEMEFashionable Orc	R	rare	Creature — Orc 	227	R	1R	Whenever a creature you control deals combat damage to a player, you may attach target Equipment you control with mana value less than or equal to that damage to Fashionable Orc.
+Fashionable Orc gets +1/+1 for each Equipment attached to it.	1/1		normal	SANTAREPLACEMEOrc Matron	B	common	Creature — Orc 	187	B	2B	When Orc Matron leaves the battlefield, search your library for
+up to two Orc cards each with mana value 3 or less, reveal them, put them into your hand, then shuffle.	1/1		normal	SANTAREPLACEMEIron Hands	BR	rare	Creature — Pokémon 	405	BR	3BR	Trample
+Swords Dance — R, T: Put a +2/+0 counter on Iron Hands.
+Drain Punch — B: Until end of turn, whenever Iron Hands deals combat damage to another creature, you gain that much life.	6/5		normal	SANTAREPLACEMEPawmi	R	common	Creature — Pokémon 	252	R	R	Static — Whenever a creature deals damage to Pawmi, tap that creature.
+Wild Charge — Whenever Pawmi attacks, it deals 1 damage to itself and becomes red in addition to its other colors.	2/2		normal	SANTAREPLACEMEPawmo	WR	uncommon	Creature — Pokémon 	455	WR	RW	Volt Absorb number— If a red source would deal damage to Pawmo, prevent that damage and put a +1/+1 counter on Pawmo.	3/2	Mutate onto Pawmi R/W (If you cast this spell for its mutate cost, put it over target creature you own named Pawmi. They mutate into the creature on top plus all abilities from under it.)
+Volt Absorb number— If a red source would deal damage to Pawmo, prevent that damage and put a +1/+1 counter on Pawmo.	normal	SANTAREPLACEMEPawmot	WR	rare	Creature — Pokémon 	456	WR	2RW	Revival Blessing — W, T: Return target creature with mana value 2 or less from your graveyard to the battlefield tapped.
+Activate only once.
+Double Shock — Whenever Pawmot attacks, you may double its power until end of turn if it’s red. If you do, Pawmot is no longer red.	4/3	Mutate onto Pawmo RW (If you cast this spell for its mutate cost, put it over target creature you own named Pawmo. They mutate into the creature on top plus all abilities from under it.)
+Revival Blessing — W, T: Return target creature with mana value 2 or less from your graveyard to the battlefield tapped.
+Activate only once.
+Double Shock — Whenever Pawmot attacks, you may double its power until end of turn if it’s red. If you do, Pawmot is no longer red.	normal	SANTAREPLACEMEMeaning	WUBRG	mythic	Legendary Creature — Elemental Incarnation 	428	WUBRG	WUBRG	Eminence — As long as Meaning is in the command zone or on the battlefield, if another Incarnation or Incarnation card you own would change zones, you may exile it instead of putting it anywhere else.
+Meaning has all abilities of all Incarnation
+cards you own in exile.	5/5		normal	SANTAREPLACEMEOrc Elemental	BR	mythic	Legendary Creature — Orc Elemental 	448	BR	4BR	Orcs you control have haste and get +2/+0.
+Whenever another Orc enters under your control, create a token that’s a copy of it. Sacrifice both of them at the beginning of your end step.
+2, Sacrifice a creature: Exile the top two cards of your library. You may cast Orc spells exiled this way for as long as they remain exiled.	5/5		normal	SANTAREPLACEMEF'Dor, Born from Black Fire	BR	mythic	Legendary Planeswalker — F’Dor 	381	BR	4BR			[+1]: If you don’t control a creature named Growing Egg, create a 0/1 legendary colorless creature named Growing Egg.
+[-1]: Gain control of target creature with total power and toughness less than F’Dor’s loyalty.
+[-10]: If you control a creature named Growing Egg, exile F’Dor, then return it to the battlefield transformed under its owner’s control.	transform double faced	SANTA	The Sleeping Child	BR	Legendary Creature — Elder Dragon 	BR		When The Sleeping Child enters, destroy all other permanents.	9/9		REPLACEMEAggressive Learning	R	common	Instant — Lesson 	207	R	1R	Target creature gets +2/+0 until end of turn. Goad it. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)
+Whenever that creature deals combat damage  to one of your opponents this turn, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)			normal	SANTAREPLACEMEFrizz	R	uncommon	Sorcery — Skill 	232	R	RR	Skill mastery — As an additional cost to cast this spell, if you have five or more experience counters, you may pay RR.
+Frizz deals X damage to any target, where X
+is the number of experience counters you have.
+If this spell’s additional cost was paid, instead Frizz deals twice X damage divided as you choose among any number of targets.			normal	SANTAREPLACEMEHeal Slime	WU	uncommon	Creature — Ooze Cleric 	395	WU	1WU	Flying
+Whenever you draw one or more cards except the first one you draw in each of your draw steps, you gain 1 life.	1/2		normal	SANTAREPLACEMEMeasure Your Strength	G	common	Sorcery — Lesson 	296	G	G	Target creature you control fights target creature you don’t control.
+If you would learn, you may instead return Measure Your Strength from your graveyard to your hand.			normal	SANTAREPLACEMEMetal Slime	W	uncommon	Artifact Creature — Ooze 	49	W	2W	Ward 3
+Whenever Metal Slime blocks or becomes blocked, you may untap it and remove it from combat.
+When Metal Slime dies, learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)	1/3		normal	SANTAREPLACEMEMonster Scout Championship	RG	uncommon	Enchantment — Saga 	433	RG	1RG			
+Learn. (You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)
+Put a +1/+1 counter on target creature you control. It deals damage equal to
+its power to target creature you don’t control.
+Create two Treasure tokens.	saga	SANTAREPLACEMEOomph	G	uncommon	Instant — Skill 	300	G	GG	Skill mastery — As an additional cost to cast
+this spell, if you have five or more experience counters, you may pay GG.
+Target creatures gets +X/+X until end of turn, where X is the number of experience counters you have. If this spell’s additional cost was paid,
+instead distribute X +1/+1 counters among any number of target creatures.			normal	SANTAREPLACEMEPing	U	uncommon	Sorcery — Skill 	128	U	UU	Skill mastery — As an additional cost to cast this spell, if you have five or more experience counters, you may pay UU.
+Scry X, where X is the number of experience counters you have. Then
+if this spell’s additional cost was paid, draw X minus three cards.			normal	SANTAREPLACEMEPsaro, Dark Prince	BRG	mythic	Legendary Creature — Demon Human Noble  	460	BRG	1BRG	At the beginning of each end step, if you sacrificed one or more creatures this turn, learn.
+At the beginning of your upkeep, you may sacrifice any number of creatures. If you sacrificed at least five creatures this way, whenever a nontoken non-Human creature enters the battlefield under your control this turn, put that many +1/+1 counters on that creature.	3/4		normal	SANTAREPLACEMEReheal	W	uncommon	Instant — Skill 	61	W	WW	Skill mastery — As an additional cost to cast this spell, if you have five or more experience counters, you may pay WW.
+You gain X life, where X is the number of experience counters you have. If this spell’s additional cost was paid, creatures you control gain lifelink until end of turn.			normal	SANTAREPLACEMETerry, Eager Monster Tamer	WRG	mythic	Legendary Creature — Human Citizen 	493	WRG	1RGW	Whenever you learn, you get an experience counter, then you gain X life and Terry deals X damage to any target, where X is the number of experience counters you have.
+The first non-Human creature spell you cast during each of your turns costs X less to cast, where X is the number of experience counters you have.	1/3		normal	SANTAREPLACEMEThe Conklave Arrives	WRG	uncommon	Sorcery	364	WRG	1RGW	Create a 1/2 white Ouphe Soldier creature token with vigilance, a 2/1 red Ouphe Warrior creature token with trample, a 1/2 white Ouphe Cleric creature token with lifelink, and a 1/1 green Ouphe Druid creature token with “T: Add G.”			normal	SANTAREPLACEMEThe Hero's Hometown		mythic	Legendary Land	570	WR		The Hero’s Hometown enters tapped.
+T: Add one mana of any color. You gain 1 life.
+RRW, T, Sacrifice The Hero’s Hometown: Create a Young Hero Role token attached to target Human you control. It gains indestructible until end of turn and becomes a legendary creature. (If you control another Role on it, put that one into the graveyard. Enchanted creature has “Whenever this creature attacks, if its toughness is 3 or less, put a +1/+1 counter on it.”)			normal	SANTAREPLACEMETox	B	uncommon	Sorcery — Skill 	198	B	1BB	Skill mastery — As an additional cost to cast this spell, if you have five or more experience counters, you may pay BB.
+Target creature gets -X/-X until end of turn, where X is the number of experience counters you have. If this spell’s additional cost was paid, instead all creatures your opponents control get -X/-X until end of turn.			normal	SANTAREPLACEMEUnstoppable Hacksaurus	RG	common	Creature — Dinosaur Dragon Warrior 	502	RG	RRGG	Trample, haste
+Enrage — Whenever Hacksaurus is dealt damage, it fights another target creature.	6/5		normal	SANTAREPLACEMEWicked Treeface	BG	uncommon	Creature — Treefolk Horror 	508	BG	3BG	When Wicked Treeface enters, create two 0/1 green Plant creature tokens.
+Sacrifice a Plant: Regenerate Wicked Treeface. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)	4/6		normal	SANTAREPLACEMEAmbling Aumbry	WB	rare	Artifact Creature — Golem 	332	WB	1WB	Trample
+This creature can’t attack or block unless a creature died this turn.
+Whenever another nontoken creature you control dies, draw a card.	6/5		normal	SANTAREPLACEMEAmeline, the Devourer	WR	mythic	Legendary Planeswalker — Ameline 	333	WBR	2RW			Escape—BB, Sacrifice two creatures and/or tokens. (You may cast this card from your graveyard
+for its escape cost.)
+[+1]: Create a 1/1 white Cleric creature token.
+[-2]: Ameline deals 3 damage to any target and you gain 3 life.
+[-2]: Return target creature card with mana value 4 or less from your graveyard to the battlefield. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.	planeswalker	SANTAREPLACEMEAperture Tracker	B	rare	Creature — Vampire Knight 	151	B	1BB	When this creature enters, discard your hand, then create three Blood tokens. (They’re artifacts with “1, T, Discard a card, Sacrifice this token: Draw a card.”)
+If you would draw a card while you have
+no cards in hand, instead you draw two cards and you lose 2 life.	4/4		normal	SANTAREPLACEMEBound in Heresy	WG	rare	Enchantment	351	WG	1GW	When this enchantment enters, exile up
+to one target creature and up to one target card from your graveyard.
+When this enchantment leaves the battlefield, return each card exiled with
+it to its owner’s hand. 			normal	SANTAREPLACEMECharged Shadowbeast	B	mythic	Creature — Elemental Demon Beast 	163	B	4BBB	You may cast spells with mana value less than or equal to your devotion to black by paying life equal to that spell’s mana value rather than paying its mana cost. (Each B in the mana costs of permanents you control counts toward your devotion to black.)	6/6		normal	SANTAREPLACEMEDeus ex Infinitum	WR	mythic	Sorcery	367	WR	1RRWW	Destroy all creatures. Discover X, where X is the number of creatures destroyed this way. (Exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it
+into your hand. Put the rest on the bottom in a random order.)			normal	SANTAREPLACEMESanctifiers-in-Ichor	W	rare	Creature — Demon 	63	W	1WWW	Flying, vigilance
+Your opponents can’t discard cards, pay life, or sacrifice nonland permanents to cast spells or activate abilities.	4/4		normal	SANTAREPLACEMETraversing the Ruins of Time	G	rare	Sorcery	313	G	1G	Choose up to two target land cards in your graveyard. Put up to one onto the battlefield tapped and the rest into your hand.
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)			normal	SANTAREPLACEMEWitching Hour Hunter	UR	rare	Creature — Human Wizard Knight 	511	UR	UR	When this creature enters, create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this token: Draw a card.”)
+Whenever this creature attacks, if you have no cards in hand, target instant or sorcery card in your graveyard gains flashback and storm until end of turn. The flashback cost is equal to its mana cost.	3/1		normal	SANTAREPLACEMEAstrid, Comet's Co-Pilot	WR	rare	Legendary Creature — Dog 	342	WR	RW	Haste
+Whenever you roll one or more dice, put a +1/+1 counter on Astrid, Comet’s
+Co-Pilot.
+1WW: Roll a d6. You gain life equal to the result. Activate only as a sorcery.	2/2		normal	SANTAREPLACEMEConfident Mountie	WU	rare	Creature — Human Knight 	363	WU	1WU	As long as you control three or more differently named creatures, creatures
+you control other than Confident Mountie get +1/+0 and have horsemanship. (They can’t be blocked except by creatures with horsemanship.)	3/3		normal	SANTAREPLACEMESilly	R	mythic	Enchantment	260	R	RRR	Whenever a creature that entered this turn attacks, Silly deals 1 damage to each opponent.
+Whenever you cast a red spell, reveal the top card of your library, if it’s a creature card, put it onto the battlefield. It gains haste. Sacrifice it at the beginning of your end step.			normal	SANTAREPLACEMEUnending Wanderlust		uncommon	Conspiracy	2	C		(Start the game with this conspiracy in the command zone.)
+Whenever you cast an artifact spell, venture into the Underground. (Enter
+the first room or advance to the next room.)			normal	SANTAREPLACEMEThe Underground		common		1	C		Cave
+Roll a d6.
+1-3: Surveil 1.
+4-6: Create a Treasure token. 			token	SANTAREPLACEMEAntithetical Alliance	WB	rare	Sorcery	338	WB	WB	Return target creature card from your graveyard to the battlefield under target opponent’s control, then choose a creature card in that opponent’s graveyard. Return that card to the battlefield under your control.			normal	SANTAREPLACEMEInterplanar Dragonstorm	UR	mythic	Sorcery	404	UR	6UR	Replicate UR (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Search target player’s library for a Dragon creature card and put that card onto the battlefield under your control. Then that player shuffles.			normal	SANTAREPLACEMEShelter in Place	G	common	Instant	308	G	1G	Prevent all combat damage that would be dealt this turn by nontoken creatures.			normal	SANTAREPLACEMEThrall's Wings	B	uncommon	Enchantment — Aura 	197	B	1BB	Enchant creature
+Enchanted creature gets +2/+2 and has flying and “When this creature dies, draw a card.”
+When a Dragon you control enters, you may return Thrall’s Wings from your graveyard to the battlefield attached to target non-Dragon
+creature you control.			normal	SANTAREPLACEMEBezpez, Dream-Weaver	W	rare	Legendary Creature — Wolf Dragon 	7	W	3WWW	Flying
+WWW: Tap target creature.
+Bezpez, Dream-Weaver gets +1/+0 for each other tapped creature.	3/7		normal	SANTAREPLACEMEBlessing of the Hare	W	common	Enchantment — Aura 	9	W	1W	Enchant creature
+Enchanted creature gets +1/+2, has reach, and is a Rabbit in addition to its other types.			normal	SANTAREPLACEMEChained Lezhji	W	common	Creature  — Cat Bird 	13	W	2W	Flying
+Chained Lezhji can block only creatures with flying.	3/2		normal	SANTAREPLACEMEDragon's Scales	W	uncommon	Enchantment	21	W	3W	Creatures you control have protection from creatures with power 2 or less. (They can’t be targeted, blocked, or dealt damage by creatures with power 2 or less.)			normal	SANTAREPLACEMEDreamguide	W	uncommon	Creature — Cat Dog Shaman 	22	W	W	Whenever a creature you control explores, you gain 1 life.
+3W: Dreamguide explores, then it explores again. Activate only as a sorcery and only once each turn. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or into your graveyard. Then repeat this process.)	2/1		normal	SANTAREPLACEMEUnnatural Gust	W	uncommon	Instant	79	W	1W	Tap target creature. If it’s attacking, destroy it instead.			normal	SANTAREPLACEMEBlessing of the Ox	U	common	Enchantment — Aura 	92	U	1U	Enchant creature
+Enchanted creature gets +0/+3, has defender, and is an Ox in addition to its other types.			normal	SANTAREPLACEMEDiffuse	U	common	Instant	100	U	1UU	Choose one —
+• Counter target spell.
+• Return target creature to its owner’s hand.			normal	SANTAREPLACEMEFeather's Fall	U	uncommon	Instant	102	U	U	Counter target spell that targets a creature
+you control unless that spell’s controller pays 2. If that creature has flying, counter
+that spell instead.
+Draw a card.			normal	SANTAREPLACEMEGifts from Mother Crow	U	uncommon	Instant	108	U	1U	Scry 2, then draw a card. Then if you’ve explored this turn, draw an additional card.			normal	SANTAREPLACEMEMelancholic Kelpie	U	common	Creature — Horse Shapeshifter 	119	U	U	Whenever another creature enters the battlefield, you may pay U. If you do, Melancholic Kelpie becomes a copy of that creature until end of turn.	0/2		normal	SANTAREPLACEMEPotapez, River-Blood	U	rare	Legendary Creature — Elk Dragon 	129	U	2UU	Flash
+When Potapez, River-Blood enters the battlefield, choose one —
+• Tap up to two target creatures you control and put a +1/+1 counter on each of them.
+• Tap up to two target creatures you don’t control and put a stun counter on each of them.	3/4		normal	SANTAREPLACEMEStarwatcher Wolf	U	common	Creature — Wolf Raccoon 	139	U	1U	Flash
+When Starwatcher Wolf enters
+the battlefield, tap or untap target nonland permanent.	2/1		normal	SANTAREPLACEMEBlessing of the Snake	G	common	Enchantment — Aura 	272	G	1G	Enchant creature
+Enchanted creature gets +0/+2,
+has deathtouch, and is a Snake in addition to its other types.			normal	SANTAREPLACEMECurious Lezhji	G	common	Creature — Antelope Bird 	276	G	1G	Reach
+Landfall — Whenever a land enters the battlefield under your control, return target card with mana value 1 or less from your graveyard to your hand.	1/3		normal	SANTAREPLACEMEGlade Wanderer	G	common	Creature — Dog Fox Nomad 	286	G	G	When Glade Wanderer enters the battlefield, scry 1, then Glade Wanderer
+explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or into your graveyard.)	0/1		normal	SANTAREPLACEMENourishing Rot	G	common	Sorcery	299	G	2G	As an additional cost to cast this spell, exile any number of creature cards from your graveyard.
+Put X +1/+1 counters on target creature, where X is the number of cards exiled this way.			normal	SANTAREPLACEMERapid Bite	G	common	Sorcery	304	G	1G	Target creature you control deals damage equal to its power to target creature you don’t control. When the creature you don’t control dies this turn, create a Food token.			normal	SANTAREPLACEMETest of Mettle	G	uncommon	Sorcery	311	G	G	Until end of turn, each creature assigns combat damage equal to its toughness rather than its power.
+Target creature you control fights target creature you don’t control
+using their toughnesses instead of
+their powers.			normal	SANTAREPLACEMETreetop Lezhji	G	common	Creature — Fox Ferret 	314	G	1GG	Treetop Lezhji can’t be blocked except by creatures with flying or reach.	3/1		normal	SANTAREPLACEMEWanderlust	G	uncommon	Enchantment	319	G	3G	At the beginning of your end step, target creature you control explores. Then if you control a creature with power 4 or greater, draw a card. (To have that creature explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or into your graveyard.)			normal	SANTAREPLACEMENaturate	WG	uncommon	Sorcery	437	WG	GW	Target creature becomes a colorless Forest land and loses all other types. (It has “T: Add G.”)			normal	SANTAREPLACEMEFallen Majesty	WG	uncommon	Instant	380	WG	GW	Choose one —
+• Destroy target creature with flying.
+• Destroy target creature with toughness 4 or greater.			normal	SANTAREPLACEMEGladeheart Sentinel	WG	uncommon	Creature — Elk Bird 	386	WG	1GW	Flying
+Landfall — Whenever a land enters the battlefield under your control, Gladeheart Sentinel gets +1/+0 until end of turn.	2/3		normal	SANTAREPLACEMEHorned Lezhji	WG	uncommon	Creature — Cat Goat 	398	WG	GW	Trample, lifelink	2/2		normal	SANTAREPLACEMEKaprja, Nature-Heart	WG	rare	Legendary Creature — Elk Dragon 	410	WG	3GW	Flying
+Landfall — Whenever a land enters the battlefield under your control, you gain
+2 life for each basic land type among lands you control. Then if you have at least 10 life more than your starting life total, draw a card.	3/6		normal	SANTAREPLACEMEMystic Fall	UG	uncommon	Enchantment	435	UG	2GU	Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on each of up
+to two target creatures you control.
+Creatures you control with counters on them get +1/+1.			normal	SANTAREPLACEMEShoreskipper Dragon	WU	rare	Creature — Snake Dragon 	479	WU	2WU	Vigilance
+U, Tap an untapped creature you control: Draw a card, then discard
+a card.	5/5		normal	SANTAREPLACEMESkyreach Familiar	UG	uncommon	Creature — Cat Bird 	483	UG	1GU	Flying
+Whenever Skyreach Familiar becomes tapped, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1
+counter on this creature, then put the card back or into your graveyard.)	1/3		normal	SANTAREPLACEMEStarbright Familiar	WU	uncommon	Creature — Wolf Bear 	486	WU	1WU	First strike
+Whenever Starbright Familiar becomes tapped, you gain 3 life.	3/2		normal	SANTAREPLACEMETrickster Drake	UG	uncommon	Creature — Dragon Shapeshifter 	498	UG	2GU	Flying
+Trickster Drake’s power is equal to the number of different creature types among other creatures you control and its toughness is equal to that number plus 1.	*/*+1		normal	SANTAREPLACEMEHaunted Mask		common	Artifact	542	C	2	Haunted Mask enters the battlefield with two spirit counters.
+T: Add C.
+T, Remove a spirit counter from Haunted Mask: Add one mana of any color.			normal	SANTAREPLACEMEFloral Springs		common	Land	566	WU		Floral Springs enters the battlefield tapped.
+T: Add W or U.
+WU, T, Sacrifice Floral Springs: Scry 2, draw a card, then discard a card.			normal	SANTAREPLACEMEGentle Headwaters		common	Land	568	WG		Gentle Headwaters enters the battlefield tapped.
+T: Add G or W.
+GW, T, Sacrifice Gentle Headwaters: Target creature you control explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or into your graveyard. Then repeat this process.)			normal	SANTAREPLACEMELotus Pond		common	Land	573	UG		Lotus Pond enters the battlefield tapped.
+T: Add G or U.
+GU, T, Sacrifice Lotus Pond: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)			normal	SANTAREPLACEMEFortuitous Encounter	G	common	Sorcery	591	G	G	Choose a creature you control. Up to two other target creatures you control each have base power and toughness equal to the chosen creature’s power and toughness until end of turn.			normal	SANTAREPLACEMEShimmering Aurora	G	uncommon	Enchantment	592	G	1G	When Shimmering Aurora enters the battlefield, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+2GG, Sacrifice Shimmering Aurora: Regenerate any number of target creatures. (The next time each of those creatures would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)			normal	SANTAREPLACEMELuzjebok, Glade-Warden	WUG	rare	Legendary Creature — Elk Dragon 	593	WUG	4GWU	Convoke (Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)
+Flying, trample
+Whenever a creature you control attacks, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or into your graveyard.)	5/4		normal	SANTAREPLACEMESungrace Familiar	WG	uncommon	Creature — Mongoose Fox 	594	WG	1GW	Lifelink
+Whenever Sungrace Familiar becomes tapped, another target creature you control gets +1/+1 until end of turn.	2/2		normal	SANTAREPLACEMEThe Dreaming Glade		rare	Land — Forest Plains Island 	595	C		(T: Add G, W, or U.)
+As The Dreaming Glade enters the battlefield,
+you may reveal a white card, a blue card, and a green card from your hand. If you don’t, it enters the battlefield tapped.			normal	SANTAREPLACEMENecrodancer's Torment	B	mythic	Legendary Enchantment	182	B	BBB	When Necrodancer’s Torment enters, draw up to four cards. Put that many beat counters
+on Necrodancer’s Torment.
+At the beginning of your end step, if you cast fewer spells this turn than the number of beat counters on Necrodancer’s Torment, you lose life equal to the difference.			normal	SANTAREPLACEMEOkami Amaterasu	RG	mythic	Legendary Creature — Wolf God 	445	RG	2RG	As the second spell you cast each turn resolves, exile it inscribed on a creature you control. (Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost.)	4/4		normal	SANTAREPLACEMEFace the Molten Core	R	uncommon	Sorcery	226	R	R	Face the Molten Core deals 2 damage
+to any target. 
+Raid — If you attacked this turn, you may discard a card. If you do, draw
+a card and create a tapped Treasure token.			normal	SANTAREPLACEMEGolden Gun	R	uncommon	Sorcery	236	R	RR	Golden Gun deals 3 damage to target creature. If excess damage was dealt to a creature this way, Golden Gun also deals
+3 damage to that creature’s controller.			normal	SANTAREPLACEMEHearth Breach	R	rare	Sorcery	238	R	1R	Until end of turn, creature you control gain “T: This creature deals damage equal to its power to target player.”			normal	SANTAREPLACEMENeedler	R	uncommon	Artifact — Equipment  	248	R	R	When this Equipment enters, it deals 1 damage
+to each of up to two targets.
+Whenever equipped creature attacks, this Equipment deals 1 damage to any target.
+Equip 1			normal	SANTAREPLACEMEOrk Boyz	R	rare	Creature — Orc Warrior 	250	R	R	Trample, haste
+This creature can’t attack or block alone unless you’ve cast a red spell this turn.	2/2		normal	SANTAREPLACEMEFlitterghast	UB	mythic	Creature — Faerie Spirit 	384	UB	UB	Flying
+Whenever this creature attacks, you may exile target instant, sorcery, or Faerie card with mana value less than or equal to the number of Faeries you control from your graveyard and copy it. You may cast the copy by paying life equal to its mana value rather than paying its mana cost.	2/2		normal	SANTAREPLACEMEVertin, the Timekeeper	URG	mythic	Legendary Creature — Arcanist Advisor 	504	URG	1GUR	Whenever a creature you control enters, if you cast it from your hand, you may exile
+it with five time counters on it. If it doesn’t have suspend, it gains suspend. The same
+is true for storm. (Copies become tokens.)
+Paradox — Whenever you cast a spell from anywhere other than your hand, time travel. (Copies won’t trigger this ability.)         	4/4		normal	SANTAREPLACEMEKenjiki, the Cresting Wave	RG	rare	Legendary Creature — Azra Mercenary 	413	RG	3RG	Trample, vigilance, prowess
+Whenever Kenjiki, the Cresting Wave deals combat damage to a player, conjure that many cards named Strength into your hand. (Strength is a 2 sorcery with “Target creature gets +2/+1 until end of turn.”)
+T, Discard three cards: Kenjiki gains indestructible until end of turn.	4/4		normal	SANTAREPLACEMEPhil, Phil Connors	R	rare	Legendary Creature — Human Reporter 	253	R	1R	Phil Connors can’t be sacrificed.
+When Phil dies, restart the turn. (Return all cards to where they were as the turn began. For hidden zones like the hand, reconstruct as best you can. Do the rest at random.)
+Phil gets +1/+1 for each turn you’ve restarted this game. (So keep track.)	2/2		normal	SANTAREPLACEMEAnakrios, Spear of Akros	WR	mythic	Legendary Planeswalker — Anakrios 	335	WR	2RW			Anakrios is a 3/3 Human Soldier creature that’s still a planeswalker. He has first strike, vigilance, indestructible, and “During your turn, prevent all damage that would be dealt to this creature.”
+Anakrios can block only creatures attacking him.
+[+1]: You get an emblem with “Each planeswalker creature you control gets +1/+1 and can block an additional creature each combat.”
+[-8]: Amass Soldiers 300.
+This planeswalker can be your commander.	planeswalker	SANTAREPLACEMEDreams of the Wild	G	rare	Sorcery	280	G	1G	Draw a card for each creature on the battlefield whose power or toughness is exactly 4.			normal	SANTAREPLACEMEInto Infinity	U	uncommon	Instant	111	U	2U	Counter target creature spell. If that spell’s mana value is 4 or greater, you
+may draw a card.			normal	SANTAREPLACEMEGoblin Bombardier	R	uncommon	Creature — Goblin Warrior 	234	R	2RR	Whenever a Goblin you control enters the battlefield, you may pay 1. If you do, Goblin Bombardier deals 1 damage to target creature.	3/2		normal	SANTAREPLACEMEAnnihilation	BR	rare	Sorcery	337	BR	1BBRR	Destroy all creatures. For each creature destroyed this way, you may pay R. If you do, destroy target land.			normal	SANTAREPLACEMEDraft — Form a Party	WUG	rare	Enchantment	370	WUG	1GWU	Elves you control get +1/+1.
+Humans you control get +1/+1.
+Merfolk you control get +1/+1.			normal	SANTAREPLACEMESecond Chance	WB	rare	Enchantment	477	WB	2WWB	Whenever an opponent loses life, put a grave
+counter on Second Chance. (Damage causes loss of life.)
+1B, Remove X grave counters from Second Chance: Return target creature card with mana value X from your graveyard to the battlefield. Activate only as a sorcery and only once each turn.			normal	SANTAREPLACEMEVin, Ascendant Mistborn	UB	mythic	Legendary Creature — Human Rogue 	506	UB	2UB	Flying, first strike
+Sacrifice an artifact: Vin, Ascendant Mistborn gets +1/+1 until end of turn. If this is the third time this ability has resolved this turn, draw a card.
+Metalcraft — As long as you control three or more artifacts, Vin gets +2/+2 and has ward 2.	2/3		normal	SANTAREPLACEMECloak of the Mists		rare	Artifact — Equipment 	534	C	3	Equipped creature gets +1/+1, has hexproof, and can’t be blocked except by creatures with flying.
+Equip 2			normal	SANTAREPLACEMEMarsh, Reaper of Flesh	BR	rare	Legendary Creature — Human Horror Inquisitor 	427	BR	3BR	First strike, menace
+2B, T, Sacrifice an artifact: Exile target creature card from a graveyard. Create a 3/3 black Horror creature token with menace named Steel Inquisitor.
+Metalcraft — As long as you control three or more artifacts, Horrors you control get +2/+0 and have lifelink.	4/5		normal	SANTAREPLACEMESazed, Keeper of Secrets	WUG	rare	Legendary Creature — Human Cleric 	474	WUG	1GWU	Sazed, Keeper of Secrets’s power is equal to the number of Clues you control.
+2, Sacrifice a Clue: Sazed gains your choice
+of first strike, vigilance, or trample until end of turn. Activate only once each turn.
+Metalcraft — At the beginning of your end step, if you control three or more artifacts, investigate.	*/4		normal	SANTAREPLACEMEKelsier, Survivor of Hathsin	UBR	mythic	Legendary Creature — Human Rogue 	412	UBR	2UBR	Flying, first strike
+Whenever Kelsier, Survivor of Hathsin enters the battlefield or attacks, you may sacrifice an artifact. If you do, draw a card. If you sacrificed a nontoken artifact this way, create a Treasure token.
+Metalcraft — As long as you control three or more artifacts, Kelsier gets +1/+1 and can’t be blocked.	5/4		normal	SANTAREPLACEMECarapace Crystallizer	W	rare	Creature — Insect 	12	W	2WW	Whenever you attack, exile up to one target creature card from your graveyard and the top two cards of your library in a face-down pile. If you do, shuffle that pile, put it back on top of your library, then manifest the top card and put a finality counter on it. It enters
+tapped and attacking.	3/4		normal	SANTAREPLACEMEBaba is You	WG	rare	Legendary Creature — Baba 	343	WG	2GW	If you would gain life, put that many +1/+1 counters on Baba instead.
+If you would lose life, put that many -1/-1 counters on Baba instead.	5/5		normal	SANTAREPLACEMEChitinflash Lancer	U	rare	Creature — Insect Soldier 	95	U	2U	Backup 1 (When this creature enters, put a +1/+1 counter on target creature. If that’s another creature, it gains the following abilities until end of turn.)
+Offspring 2 (You may pay an additional 2 as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Wander 1U (You may cast this from the battlefield for its wander cost.)	2/2		normal	SANTAREPLACEMEBurning of the Archive at Alephne	R	rare	Enchantment	219	R	3R	At the beginning of each player’s upkeep, that player may discard a card. Then this enchantment deals damage to that player equal to the number of cards in their hand.			normal	SANTAREPLACEMELost and Found	B	rare	Enchantment	179	B	4B	At the beginning of each player’s end step, if that player has seven or more cards in their graveyard, that player exiles a card from their graveyard. You may play cards exiled this way for as long as they remain exiled, and mana of any type may be spent to cast them.			normal	SANTAREPLACEMEMirares Steelrunner	WB	uncommon	Legendary Creature — Minotaur 	432	WB	1WB	Vigilance
+T: Choose target enchantment card in your graveyard. Until end of turn, you may cast the chosen card by discarding a card in addition to paying its other costs.	3/3		normal	SANTAREPLACEMEInescapable Capture	WB	rare	Enchantment	401	WB	1WB	When this enchantment enters, for each opponent, put a binding counter on target creature they control. Each
+of those creatures are detained until this enchantment leaves the battlefield. (They can’t attack or block and their activated abilities can’t be activated.)			normal	SANTAREPLACEMETunnel to Freedom	B	uncommon	Artifact	199	B	2B	Hideaway 4 (When this artifact enters, look at the top four cards of your library, exile one face down, then put the rest on the bottom in a random order.)
+1, T, Discard a card: Target creature can’t be blocked this turn. You may play the exiled card without paying its mana cost if you have no cards in hand.			normal	SANTAREPLACEMEPrison Break	B	common	Enchantment — Aura 	188	B	1B	Enchant creautre
+Enchanted creature has “When this creature dies, return it to the battlefield tapped under its owner’s control.” 
+Escape—2B, Exile two other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)			normal	SANTAREPLACEMETitania, Silver Guardian	UG	mythic	Legendary Artifact Creature — Dryad 	496	UG	2GU	Whenever Titania, Silver Guardian or
+a Forest you control enters, create a 1/1 blue Insect artifact creature token with flying.
+1GU: Until end of turn, Titania has base power and toughness 1/1 and gains
+flying and hexproof.	4/4		normal	SANTAREPLACEMERoughblade Apprentice	WR	uncommon	Creature — Mouse Knight 	470	WR	RW	Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)
+At the beginning of each combat, if this creature’s power is 3 or greater, it gains first strike until end of turn. The same is true for 4 or greater and vigilance and 5 or greater and menace.	2/2		normal	SANTAREPLACEMEInspector Wong An-Qing	WU	rare	Legendary Creature — Human Detective 	403	WU	WU	Flash
+When Inspector Wong An-Qing enters and whenever another creature you control dies, investigate. (Create a Clue token. It’s an artifact with “2, Sacrifice this token: Draw a card.”)	2/2		normal	SANTAREPLACEMEWooly Meowmoth	G	rare	Creature — Giant Cat Goat 	322	G	3GG	Lifelink
+Creature spells you cast cost 1 less to cast
+for each 3 life you’ve gained this turn.
+Creatures you control have “Whenever this creature becomes the target of a spell or ability you don’t control for the first time each turn, you gain 3 life.”	3/7		normal	SANTAREPLACEMELeyvoid Tear	B	rare	Sorcery	178	B	4BBB	You gain 3 life and draw a card.
+Each opponent sacrifices a creature of their choice. For each opponent who can’t, that player loses 2 life. Then repeat this process for sacrificing an enchantment, sacrificing an artifact, sacrificing a planeswalker, and discarding a card.			normal	SANTAREPLACEMEFiery Fascination	R	rare	Instant — Dream 	229	R	1RR	Lucid (As you cast this spell, exile up to one Dream card from your graveyard. This spell gains its modes.)
+Choose up to X, where X is the number of spells you’ve cast this turn —
+• Fiery Fascination deals 2 damage to any target.
+• Create two 1/1 red Elemental creature tokens.
+• Up to two target creatures can’t block this turn.			normal	SANTAREPLACEMEMurderous Intent	B	uncommon	Sorcery — Dream 	181	B	1B	Lucid (As you cast this spell, exile up to one Dream card from your graveyard. This spell gains its modes.)
+Choose one —
+• Each opponent sacrifices a creature.
+• You draw a card and you lose 1 life.			normal	SANTAREPLACEMEAbjurer's Aspiration	U	rare	Instant — Dream 	85	U	1UU	Lucid (As you cast this spell, exile up to one Dream card from your graveyard. This spell gains its modes.)
+Choose up to two —
+• Return target nonland permanent to its owner’s hand.
+• Tap target creature and put a stun counter on it.
+• Draw two cards, then discard two cards.			normal	SANTAREPLACEMEKin & Kiln	WR	uncommon	Sorcery	415	WR	1RW	Put a +1/+1 counter on each creature you control, then remove any number of counters from among creatures you control. For each counter removed this
+way, add R and you gain 1 life.			normal	SANTAREPLACEMEBlaithi Armsmaster	UR	rare	Creature — Human Warrior Nomad 	349	UR	1UR	Double strike
+This creature can’t block alone.
+Whenever an opponent is dealt damage by a source you control for the first time each turn, this creature pillages. (Put a +1/+1 counter on it. Whenever it deals combat damage to a player this turn, you may remove one to draw a card.)	1/2		normal	SANTAREPLACEMEDay's End Rest	G	uncommon	Instant	277	G	GG	Choose one or both —
+• Counter all abilities.
+• Prevent all combat damage that would be dealt this turn.			normal	SANTAREPLACEMEBlackwings' Blessing	B	common	Enchantment — Aura 	157	B	B	Enchant creature
+Enchanted creature gets -2/-2, can’t block, and can’t be blocked.			normal	SANTAREPLACEMEEternities' Wake	U	mythic	Enchantment	101	U	UUU	Whenever a creature you control attacks and isn’t blocked, you may prevent all damage that creature would deal this turn.
+At the beginning of your postcombat main phase, if damage was prevented this turn, add that much C and draw a card. You can cast only one more spell this turn.			normal	SANTAREPLACEMEGracious Mycologist	W	uncommon	Creature — Human Druid 	29	W	1W	When this creature enters and at the beginning of your upkeep, put a spore counter on it.
+Remove two spore counters from this creature: Choose one —
+• Create a 1/1 white Saproling creature token.
+• Return a creature or artifact card with mana value 1 from your graveyard to the battlefield.	0/2		normal	SANTAREPLACEMECloak in Rime	W	uncommon	Enchantment — Aura 	15	W	W	Enchant creature
+Enchanted creature has protection from mana value 2 or greater. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything
+with mana value 2 or greater.)
+When enchanted creature deals damage, sacrifice this Aura.			normal	SANTAREPLACEMETranquil Outpost		rare	Land	586	C		T: Add C.
+T: Add one mana of any color and turn this land face down. (It’s a 2/2 creature.)			normal	SANTAREPLACEMEStarmetal Fearkiller	BR	rare	Artifact Creature — Soldier 	487	BR	1BR	This creature has first strike during your turn.
+Artifact spells you cast have blitz. The blitz cost is equal to its mana cost. (You may choose to cast that spell for its blitz cost. If you do, it gains haste and “When this creature dies, draw a card.” Sacrifice
+it at the beginning of the next end step.)
+Whenever a Vehicle you control enters, it becomes
+an artifact creature until end of turn.	3/1		normal	SANTAREPLACEMEThe First Titan Awakens	BR	rare	Instant	382	BR	BR	Kicker 3B
+Return target creature card from your graveyard to the battlefield tapped.
+It deals damage equal to its power to target creature or planeswalker you don’t control. Then if this spell wasn’t kicked, sacrifice that creature.			normal	SANTAREPLACEMEDisciple of the Swarm	G	rare	Creature — Giant Insect Shaman 	279	G	3GG	When this creature enters, if you cast it, each land card in your hand and library perpetually becomes a copy of it.
+Other Insects you control get +1/+1 and have trample.	5/5		normal	SANTAREPLACEMETrogdor the Burninator	R	rare	Legendary Planeswalker — Trogdor 	265	R	1RRR			[+1]: Each player may sacrifice a land. Draw a card for each land sacrificed this way.
+[-2]: Put a blaze counter on target land. That land gains “At the beginning of your upkeep, this land deals 1 damage to you.” (The land continues to burninate after Trogdor has left the battlefield.)
+[-3]: Trogdor deals 4 damage to target creature.	planeswalker	SANTAREPLACEMEGet It Twisted	B	rare	Sorcery	173	B	XBB	Target opponent discards X nonland cards at random. If fewer than X cards were discarded this way, you draw a card and you lose 1 life.			normal	SANTAREPLACEMEDio, Evil Incarnate	B	rare	Legendary Creature — Vampire 	168	UB	2BB	Lifelink, menace
+When you cast The World, take an extra turn after this one.	4/4		adventure	SANTA	The World	U	Legendary Creature — Stand 	UB	6UUU	Split second
+Your opponents can’t cast spells during your turn.
+(Cast a copy of this spell once while Dio is on the battlefield.)			REPLACEMEDarkhand's Influence	B	rare	Sorcery	165	B	B	Target player reveals their hand. You choose a nonland card from it and lose 2 life. They add that card to their evil plan. (They exile it face-down. They may pay 7 once as a sorcery to cast any number of cards in their evil plan without paying their mana costs.)			normal	SANTAREPLACEMEBefore the Gates of Hell	B	rare	Legendary Enchantment — Saga 	155	B	1BB			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after VI.)
+Ward—Pay 2 life for each lore counter on Before the Gates of Hell.
+You may sacrifice a creature. If you do, put a lore counter on Before the Gates of Hell.
+Create three 6/6 Demon creature tokens with flying.	saga	SANTAREPLACEMECaptivating Constellation	U	rare	Enchantment	93	U	1U	Cumulative upkeep—Tap an untapped creature you control.
+Creatures don’t untap during their controllers’ untap steps.			normal	SANTAREPLACEMEBender of Wills	U	rare	Creature — Beast Wizard 	90	U	2UU	Whenever this creature enters or attacks, create a colorless artifact token named Spoon with “You may choose not to untap this artifact during your untap step.”
+XUU, Tap an untapped artifact you control: Gain control of target creature with mana value X or less for as long as that artifact remains tapped. Activate only as a sorcery.	4/4		normal	SANTAREPLACEMEHorror		common	Token Artifact Creature — Horror 	26	C			1/1		token	SANTAREPLACEMEDevil	R	common	Token Creature — Devil 	13	R		When this creature dies, it deals 1 damage to any target.	1/1		token	SANTAREPLACEMEAngel	W	common	Token Creature — Angel 	2	W		Flying	4/4		token	SANTAREPLACEMEZeppelin		common	Artifact — Vehicle 	557	C	3	Flying
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)	3/3		normal	SANTAREPLACEMEUH3 Bull		common	Artifact Creature — Construct 	555	C	4		3/3		normal	SANTAREPLACEMEStructure Gel		uncommon	Artifact	554	C	1	Whenever a nontoken creature you control dies, you may exile it. If you do, create X 1/1 colorless Horror artifact creature tokens, where X is that creature’s power.			normal	SANTAREPLACEMEOmnitool		common	Artifact	549	C	2	1, T: Untap another target artifact.
+2, T: Scry 1.
+SOMA — As long as Omnitool is enchanted, it may crew Vehicles as though it were a creature, and had a power of 3.			normal	SANTAREPLACEMEMockingbird		common	Artifact Creature — Horror 	546	C	5	SOMA — As long as Mockingbird is enchanted, it gets +2/+0.	2/3		normal	SANTAREPLACEMEWAU, the Warden	WUB	mythic	Legendary Enchantment — Aura 	507	WUB	WUB	Enchant artifact
+At the beginning of your upkeep, you may exile a card from your graveyard. If you do, create a 1/1 colorless Horror artifact creature token.
+As long as enchanted artifact is a creature, it gets +X/+X, where X is the number of Horrors you control.			normal	SANTAREPLACEMETerry Akers, Blind Prophet	UB	rare	Legendary Creature — Horror 	492	UB	2UB	Deathtouch
+Whenever Terry Akers attacks, target creature gets -X/-X until end of turn, where X is the number of attacking Horrors you control.	2/4		normal	SANTAREPLACEMESimon Jarret, Deathspeaker	UB	rare	Legendary Enchantment — Aura 	481	UB	UB	Enchant artifact
+Whenever a nontoken creature you control dies, scry 1.
+Whenever you scry, if enchanted artifact is a creature, it gains +X/+0 until end of turn, where X is the number of cards looked at while scrying this way.			normal	SANTAREPLACEMEWAU Proxy	B	common	Creature — Horror 	202	B	1B	Deathtouch	1/2		normal	SANTAREPLACEMECCRV-7 Blackbox	B	rare	Artifact — Equipment 	162	B	2B	Equipped creature gets +1/+0.
+Whenever equipped creature dies, choose one —
+• Return target Aura or Equipment card from your graveyard to your hand.
+• You draw a card and you lose 1 life.
+Equip 2			normal	SANTAREPLACEMECatherine Chun, ARK-itect	U	rare	Legendary Enchantment — Aura 	94	U	UU	Enchant artifact
+Enchanted artifact has “T: Add CC. Spend this mana only to cast noncreature spells.”
+As long as enchanted artifact is a creature, it can’t be blocked by creatures with equal or greater power.			normal	SANTAREPLACEMETelos Impact	W	rare	Sorcery	75	W	2WW	Destroy all creatures. They can’t be regenerated.			normal	SANTAREPLACEMEThe Mystery Machine		rare	Artifact — Vehicle 	548	C	3	Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this Vehicle. Otherwise, remove all counters from it at the beginning
+of the next turn.)
+Whenever you remove one or more counters from this Vehicle, create that many Food tokens.
+2, T, Sacrifice a Food: Draw a card.
+Crew 3	4/4		normal	SANTAREPLACEMEWile E. Coyote, Gourmet	UR	rare	Legendary Creature — Coyote Toon 	509	UR	2UR	Vigilance
+Zany (When this creature dies, shuffle it into its owner’s library.)
+Whenever you activate an ability of an artifact you control, you may sacrifice it. When you do, it deals damage equal to its mana value to any target and
+to Wile E. Coyote, Gourmet. Then put a +1/+1 counter on Wile E. Coyote. (It must survive the damage to get the counter.)	2/5		normal	SANTAREPLACEMERise to the Fight	WB	rare	Sorcery	468	WB	3WB	Stretch (As you cast this spell, you may pay any amount of life.)
+Look at the top X cards of your library, where
+X is the amount of life paid as you cast this spell. Put up to three creature cards each with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom in any order.			normal	SANTAREPLACEMEDuck Season, Rabbit Season	UR	rare	Enchantment	371	UR	UR	Whenever a player casts a spell, counter it if it would counter another spell or ability.			normal	SANTAREPLACEMEClose Down	WU	uncommon	Enchantment	358	WU	2WU	When this enchantment enters and whenever an artifact enters under your control, create a 2/2 white and blue Toon Detective creature token with vigilance. This ability triggers only once each turn.			normal	SANTAREPLACEMETrickster Wolf	G	common	Creature — Wolf Toon 	315	G	2G	Trample
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from it at the beginning of the next turn.)
+Zany (When this creature dies, shuffle it into its owner’s library.)	2/2		normal	SANTAREPLACEMETerrible Wolfman	G	rare	Creature — Human Rogue 	310	G	3G	Trample
+Surprise 1GG (1GG, Discard this card: Reveal cards from the top of your library until
+you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)	4/4		normal	SANTAREPLACEMEMysterious Doors	G	common	Sorcery	297	G	2G	Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Surprise 1GG (1GG, Discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)			normal	SANTAREPLACEMEMean Giant	G	uncommon	Creature — Giant 	295	G	4G	Stretch (As you cast this spell, you may pay any amount of life.)
+Mean Giant enters with an additional
++1/+1 counter on it for each 2 life paid as you cast it.
+Trample	4/4		normal	SANTAREPLACEMEUnlucky Accident	R	common	Sorcery	266	R	2R	Creatures your opponents control can’t block this turn.
+Surprise 2RR (2RR, Discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in
+a random order.)			normal	SANTAREPLACEMEShaggy, All Alone	R	uncommon	Legendary Creature — Toon Coward 	259	R	1R	Haste
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from it at the beginning of the next turn.)
+Whenever this creature attacks, if it has three
+or more +1/+1 counters, double its power and it gains trample until end of turn.	1/1		normal	SANTAREPLACEMERide the Rocket	R	common	Sorcery	258	R	2R	Stretch (As you cast this spell, you may pay any amount of life.)
+Ride the Rocket deals 3 damage to any target. If you paid 3 or more life as you cast this spell, it deals 5 damage instead.			normal	SANTAREPLACEMEQuickshot Duo	R	common	Creature — Horse Toon Ranger 	256	R	2R	Menace
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from it at the beginning of the next turn.)
+Zany (When this creature dies, shuffle it into its owner’s library.)	2/2		normal	SANTAREPLACEMEHuman Seeking Gun	R	common	Artifact — Gadget 	239	R	1R	When this Gadget enters, create a 1/1 red Toon creature token.
+1RR, T: This Gadget deals 1 damage
+to each opponent. You may activate an ability of a Gadget you control without paying its mana cost. Activate only during your main phase.			normal	SANTAREPLACEMEZoinks!	B	common	Sorcery	204	B	1B	Destroy target creature with mana value 2 or less.
+Surprise 1BB (1BB, Discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in
+a random order.)			normal	SANTAREPLACEMEShady Mafioso	B	common	Creature — Wolf Toon Rogue 	191	B	1B	Stretch (As you cast this spell, you may pay any amount of life.)
+Shady Mafioso enters with a +1/+1 counter if you paid 2 or more life as you cast it.	2/1		normal	SANTAREPLACEMECog Gang	B	uncommon	Artifact Creature — Robot Toon 	164	B	2B	Stretch (As you cast this spell, you may
+pay any amount of life.)
+Menace
+When Cog Gang enters, for each 3 life paid as you cast it, create a token that’s a copy of it. (They don’t stretch.)	2/2		normal	SANTAREPLACEMEThe Big Bad Wolf	B	mythic	Legendary Creature — Wolf Toon 	156	B	2BBB	Stretch (As you cast this spell, you may pay any amount of life.)
+When The Big Bad Wolf enters, each player sacrifices X non-Wolf creatures, where X is the amount of life paid as you cast it. For each creature sacrificed this way, put a +1/+1 counter on The Big Bad Wolf.	1/1		normal	SANTAREPLACEMEWrong Turn at Albuquerque	U	uncommon	Instant	147	U	1UU	Counter target spell.
+Surprise 2UU (2UU, Discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)			normal	SANTAREPLACEMETemporary Jetpacks	U	common	Artifact — Gadget 	140	U	1U	When this Gadget enters, create a 1/1 red Toon creature token.
+1UU, T: Up to two creatures you control each gain flying until end of turn. You may activate the ability of a Gadget you control without paying its mana cost. Activate only during your main phase.			normal	SANTAREPLACEMEMind Control Hat	U	rare	Artifact — Equipment Gadget 	120	U	2UU	Whenever Mind Control Hat becomes attached
+to a creature, gain control of that creature for as long as Mind Control Hat is attached to it.
+3UU, T: Attach Mind Control Hat to target creature. You may activate an ability of another Gadget you control without paying its mana cost. Activate only during your main phase.			normal	SANTAREPLACEMEThe Powerpuff Girls	W	rare	Legendary Creature — Toon Hero 	59	W	WWW	Flying, vigilance, lifelink
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from it at the beginning of the next turn.)
+At the beginning of your upkeep, if this creaturevhas three or more +1/+1 counters, it
+gains indestructible until end of turn.	3/3		normal	SANTAREPLACEMELaidback Cat	W	common	Creature — Cat Toon 	40	W	1W	Lifelink
+Inertia (At the beginning of your end step, if you cast a spell this turn, put a +1/+1 counter on this creature. Otherwise, remove all counters from it at the beginning of the next turn.)
+Zany (When this creature dies, shuffle it into its owner’s library.)	0/2		normal	SANTAREPLACEMEFalling Anvil	W	common	Instant	24	W	1W	Falling Anvil deals 3 damage to target attacking or blocking creature.
+Surprise 1WW (1WW, Discard this card: Reveal cards from the top of your library until you reveal a card with the same mana value. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)			normal	SANTAREPLACEMEZagrea, At the Helm	WR	mythic	Legendary Planeswalker — Zagrea 	514	WR	2RW			[+1]: Put a +1/+1 counter on up to one target creature. If it’s equipped, it gains trample until end of turn.
+[-2]: Create a 2/2 red Pirate creature token with haste. You may attach any number of Equipment you control to it.
+[-6]: Search your library for any number of Equipment cards with different mana values, put them onto the battlefield, then shuffle.	planeswalker	SANTAREPLACEMESylvia, Insurgent Inferno	BR	mythic	Legendary Planeswalker — Sylvia 	489	BR	3BR			[+1]: Draw a card. Then discard a card unless you pay 2 life or sacrifice a permanent.
+[-X]: Gain control of target creature or planeswalker with mana value X until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of your next end step.
+[-7]: You get an emblem with “Whenever an opponent loses life, draw that many cards.” Each opponent loses 5 life. (Damage causes loss of life.)	planeswalker	SANTAREPLACEMESimul, Prodigal Biomage	UG	mythic	Legendary Planeswalker — Simul 	482	UG	2GU			[+1]: Create a 0/0 green Plant Mutant creature token with a +1/+1 counter on it, then you may move any number of +1/+1 counters from other permanents you control onto that token.
+[-1]: Untap up to one target creature and up to one target land.
+[-6]: Draw X cards, where X is the number
+of counters on target permanent you control.	planeswalker	SANTAREPLACEMERobin, Unveiler of Truths	UB	mythic	Legendary Planeswalker — Robin 	469	UB	1UB			[+1]: Draw a card, then discard a card. If you discarded an instant or sorcery card this way, each opponent loses 1 life and you gain 1 life.
+[-2]: Return target creature to its owner’s hand.
+[-X]: Exile target instant or sorcery card in your graveyard with mana value X or less. You may cast a copy of that card without paying its mana cost.	planeswalker	SANTAREPLACEMEOchre, Caretaker of the Wilds	WG	mythic	Legendary Planeswalker — Ochre 	442	WG	3GW			Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for 1 or one mana of that creature’s color.)
+[+1]: Distribute two +1/+1 counters among one or two target creatures. Untap them.
+[-3]: Search your library for a creature card that doesn’t have the same name as another creature you control or a card in your graveyard, reveal it, put it into your hand, then shuffle.	planeswalker	SANTAREPLACEMENix and Twain, Conglomerate	WB	mythic	Legendary Planeswalker — Nix Twain 	439	WB	1WB			Sacrifice an artifact: Put a loyalty counter on Nix and Twain, Conglomerate.
+[0]: Create a 1/1 colorless Construct artifact creature token.
+[-1]: Exile the top card of target opponent’s library. You may play it for as long as
+it remains exiled. Create a Treasure token.	planeswalker	SANTAREPLACEMEMeras, Worldrot	BG	mythic	Legendary Planeswalker — Meras 	431	BG	4BG			[+1]: Mill three cards, then return a permanent card from your graveyard to your hand.
+[-3]: Add X C, where X is the number of different mana values among cards in your graveyard.
+[-5]: Destroy all creatures. You gain 1 life for each creature card in a graveyard.
+[-10]: Each of your opponents gets an emblem with “If you would add colored mana,
+add that much C instead.”	planeswalker	SANTAREPLACEMEMelody, Queen of Tides	WU	mythic	Legendary Planeswalker — Melody 	430	WU	4WU			You have no maximum hand size.
+[+1]: Draw a card. If you or Melody were attacked last turn, draw two cards instead.
+[-2]: Discard all the cards in your hand. Draw that many cards and you gain that much life.
+[-4]: Return all creatures to their owner’s hands.	planeswalker	SANTAREPLACEMELiactru, Artisan of Storms	UR	mythic	Legendary Planeswalker — Liactru 	420	UR	1UR			Magecraft — Whenever you cast or copy an instant or sorcery spell, put a loyalty counter on Liactru.
+[0]: Exile the top card of your library. You may play cards exiled with Liactru until end of turn.
+[-1]: Add UR.
+[-4]: Create a 4/4 red and blue Elemental creature token. Discover 4. (Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)	planeswalker	SANTAREPLACEMEAino of the Everwilds	RG	mythic	Legendary Planeswalker — Aino 	330	RG	1RG			[+1]: Create a Treasure token. Aino deals 1 damage to each opponent.
+[-2]: Target creature you control fights target creature you don’t control.
+[-4]: Sacrifice a creature. When you do, search your library for a creature card with mana value 1 greater than the sacrificed creature’s and put it onto the battlefield, then shuffle.	planeswalker	SANTAREPLACEMEFearsome Sturgeon	U	special	Creature — Fish 	589	U	4UU	Flash
+This spell costs 1 less to cast for each spell cast this turn.
+When Fearsome Sturgeon enters, you may tap or untap target nonland permanent. If you do, you may put a stun counter on that permanent. (If a permanent with a stun counter would become untapped, remove one from it instead.)	3/4		normal	SANTAREPLACEMEMardia, Dusk Priest	W	rare	Legendary Creature — Vampire Cleric 	46	WB	W	When Mardia enters the battlefield, create  a Blessing token. (It’s an artifact with “2, Sacrifice this token: Target creature gets +1/+1
+and gains flyi‌ng until end of turn.”)
+1W/B: Creatures you control with flying get +1/+1 and gain lifelink until end of turn.	2/1		normal	SANTAREPLACEMEMaroth, Heavenly Overseer	W	rare	Legendary Creature — Angel Detective 	47	WU	1WW	Flying, vigilance
+Whenever you cast an spell, you may pay 1W/U. If you do, investigate. Do this only once each turn. (To investigate, create a Clue token. It’s an artifact with “2, Sacrifice this token: Draw a card.”)
+Whenever you draw your second card each turn, create a 2/2 white and blue Detective creature token.	3/3		normal	SANTAREPLACEMEGarron, Mad Inquisitor	U	rare	Legendary Creature — Human Inquisitor 	105	UB	2UU	When Garron enters the battlefield, create a Blackmail token. (It’s an artifact with “X, Sacrifice this token: Target player mills X cards.”) 
+1U/B, T: Draw a card for each player who has ten or more cards in their graveyard.	2/4		normal	SANTAREPLACEMEMarci, Replication Mage	U	rare	Legendary Creature — Human Wizard 	118	UR	2UU	Creatures you control have prowess.
+Whenever Marci attacks, you may pay 2U/R. If you do, create a Duplicator token. (It’s an artifact with “X, Sacrifice this token: Copy target instant or sorcery spell you control with mana value X. You may choose new targets for the copy.”)	3/3		normal	SANTAREPLACEMEPower Vortex	U	uncommon	Instant	130	U	1UU	Counter target spell. Create a Duplicator token. (It’s an artifact with “X, Sacrifice this token: Copy target instant or sorcery spell you control with mana value X. You may choose new targets for the copy.”)			normal	SANTAREPLACEMEAbundance of Sickness	B	common	Instant	148	B	B	Create a Disease token. (It’s an artifact with “3, Sacrifice this token: Put a -1/-1
+counter on target creature, then proliferate. Activate only as a sorcery.”)
+Whenever a creature dies this turn, its controller loses 1 life and you gain 1 life.			normal	SANTAREPLACEMEAmarax, Blood Worshipper	B	rare	Legendary Creature — Zombie Shaman 	149	BR	2B	2B/R, Sacrifice a creature: Create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this token: Draw a card.”)
+At the beginning of your end step, if you sacrificed a permanent and discarded a card this turn, you may pay 4 life. If you do, create a 5/5 black Demon creature token with flying.	2/3		normal	SANTAREPLACEMEBloodborne Conjurant	B	common	Creature — Human Warlock 	160	B	1B	Deathtouch
+When this creature dies, if it was sacrificed,
+you gain 2 life and create a Blood token. (It’s an artifact with “1, T, Discard a card, Sacrifice this token: Draw a card.”)	1/1		normal	SANTAREPLACEMEZoron, Plaguelord	B	rare	Legendary Creature — Demon Warlock 	205	BG	3BB	Whenever a creature an opponent controls dies, if it had a -1/-1 counter on it, draw a card. Otherwise, create a Disease token. (It’s an artifact with “3, Sacrifice this token: Put a -1/-1 counter on target creature, then proliferate. Activate only as a sorcery.”)
+1B/G: Target creature you control gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)	4/4		normal	SANTAREPLACEMEDhomir Smith	R	rare	Legendary Creature — Dwarf Artificer 	222	WR	3RR	Whenever Dhomir Smith enters the battlefield or attacks, create a Weapon token. (It’s an Equipment
+artifact with “Equipped creature gets +1/+1” and equip 2.)
+R/W: Attach target Equipment you control to target creature you control. Activate only as a sorcery.
+Whenever you attack, each creature you control gets +1/+1 until end of turn for each Equipment attached to it.	3/3		normal	SANTAREPLACEMEDurakko, Junk Specialist	R	rare	Legendary Creature — Human Artificer 	224	RG	2R	Whenever you cast a spell from exile, create a tapped Junk token. (It’s an artifact with “T, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+2R/G, Exile three cards from your graveyard: Create a tapped Junk token.	3/2		normal	SANTAREPLACEMEMass Weaponcrafting	R	common	Sorcery	247	R	1R	Create a Weapon token. Attach it to target creature you control. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip 2.)
+Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)			normal	SANTAREPLACEMEHavrouth, Expedition Leader	G	rare	Legendary Creature — Dwarf Scout 	288	UG	2GG	Whenever Havrouth enters the battlefield or attacks, create a Map token. (It’s an artifact with “1, T, Sacrifice this token: Target creature
+you control explores. Activate only as a sorcery.”)
+Whenever a permanent you control explores a creature card, you may pay 1G/U. If you do, put that card into your hand.	3/4		normal	SANTAREPLACEMEIlmo, Ravenous Cub	G	rare	Legendary Creature — Bear 	290	WG	1G	Trample
+When Ilmo enters the battlefield, create a Food token.
+Whenever Ilmo attacks, target creature you control gets +X/+X until end of turn, where X is the amount of life you gained this turn.
+G/W, T: Create a Food token.	2/2		normal	SANTAREPLACEMEBlackmail		common	Token Artifact — Blackmail 	22	C		X, Sacrifice this token:
+Target player mills X cards.			token	SANTAREPLACEMEBlessing		common	Token Artifact — Blessing 	23	C		2, Sacrifice this token: Target creature gets +1/+1 and flying
+until end of turn.			token	SANTAREPLACEMEDisease		common	Token Artifact — Disease 	24	C		3, Sacrifice this token: Put a -1/-1 counter on target creature, then proliferate. Activate only as a sorcery. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)			token	SANTAREPLACEMEDuplicator		common	Token Artifact — Duplicator 	25	C		X, Sacrifice this token: Copy target instant or sorcery spell you control with mana value X. You may choose new targets for the copy.			token	SANTAREPLACEMEWeapon		common	Token Artifact — Weapon 	31	C		Equipped creature gets +1/+1.
+Equip 2			token	SANTAREPLACEMEAggressive Codriver	R	uncommon	Creature — Human Mercenary Pilot 	206	R	1R	Whenever this creature attacks, create
+a Treasure token.
+R: This creature gets +1/+0 until end of turn.	1/3		normal	SANTAREPLACEMEAiry Pillar		rare	Land — Swamp Mountain 	558	C		(T: Add B or R.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMEBarren Highway		uncommon	Land	559	C		T: Add C.
+2, T: Destroy target land. Each player may search their library for
+a basic land card, put it onto the battlefield tapped, then shuffle.			normal	SANTAREPLACEMEBeat Bloody	B	common	Enchantment — Aura 	154	B	B	Enchant creature or Vehicle
+At the beginning of each end step, if there are
+fewer than five -1/-1 counters on enchanted permanent, put a -1/-1 counter on enchanted permanent.
+When enchanted permanent leaves the battlefield during an end step, you draw a card and you lose 1 life.			normal	SANTAREPLACEMEBifurcated Crash	R	uncommon	Instant	213	WR	XR	If five or more mana was spent to cast this spell, it can’t be countered.
+Destroy target artifact. If W was spent to cast this spell, you may instead destroy target enchantment.			normal	SANTAREPLACEMEBifurcated Will	U	rare	Instant	91	UR	XU	If five or more mana was spent to cast this spell, it can’t be countered.
+Counter target spell unless its controller pays X. If R was spent to cast this spell, you may instead have Bifurcated Will deal X damage to any target.			normal	SANTAREPLACEMEBurial Site		rare	Land — Plains Swamp 	560	C		(T: Add W or B.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMEBusy Slums		rare	Land — Mountain Plains 	561	C		(T: Add R or W.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMECar Jacker	R	uncommon	Creature — Human Rogue Pilot 	220	R	2R	When this creature enters, gain control of up to one target artifact until end of turn. Untap it. If it’s a Vehicle, it becomes an
+artifact creature and gains haste until end of turn.	3/2		normal	SANTAREPLACEMECheck Point		rare	Land — Island Mountain 	562	C		(T: Add U or R.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMECity Circuit		rare	Land — Circuit 	563	C		This land enters tapped unless you control two or fewer other lands.
+T: Search your library for a basic land card, put it onto the battlefield, then shuffle.			normal	SANTAREPLACEMEClouded Factory	WU	rare	Artifact	359	WU	WU	As this artifact enters, look at target player’s hand, then choose a card name.
+Whenever a player casts a spell with the chosen name, counter that spell and that player draws a card.			normal	SANTAREPLACEMEFatal Crash	W	uncommon	Instant	26	W	W	Kicker—Sacrifice an artifact.
+Destroy target creature if its power is 2 or less. If this spell was kicked, destroy that creature if its power is 4 or less instead.			normal	SANTAREPLACEMEFinal Frontier	R	uncommon	Enchantment	230	R	1R	When this enchantment enters, it deals 3 damage to any target.
+3RR: You may discard a card. If you do, draw a card.			normal	SANTAREPLACEMEGen 2 Mana Vehicle	U	uncommon	Artifact — Vehicle	106	U	1U	Flash
+This Vehicle can’t block.
+When this Vehicle enters, counter target spell unless its controller pays 2.
+Engineer 2 (At the beginning of each combat,
+if you’ve spent at least two mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	2/2		normal	SANTAREPLACEMEGrand Finale	W	rare	Instant	30	W	4WW	Destroy all creatures.			normal	SANTAREPLACEMEGraveyard Crusher	G	rare	Artifact — Vehicle 	287	G	G	G: Exile target card from a graveyard. If you exiled a card you own this way, put a +1/+1 counter on this Vehicle.
+Engineer 2 (At the beginning of each combat, if you’ve spent at least two mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	1/1		normal	SANTAREPLACEMEHard Drive Collector	B	rare	Creature — Human Mercenary 	175	B	1B	When this creature enters, mill four cards.
+Whenever one or more cards leave your graveyard, you draw a card and you lose 1 life. This ability triggers only once each turn.	2/2		normal	SANTAREPLACEMEHuman	W	common	Token Creature — Human 	5	W			1/1		token	SANTAREPLACEMEKiss Goodbye	WUR	rare	Instant	416	WUR	1URW	Choose two —
+• Counter target spell.
+• Target player draws two cards, then discards two cards.
+• Kiss Goodbye deals 4 damage to target creature.
+• Target player creates two 1/1 white Human creature tokens and a Treasure token.			normal	SANTAREPLACEMELifecycling Project	G	common	Enchantment	294	G	1G	When this enchantment enters, destroy up to one target artifact or enchantment.
+3GG, Sacrifice this enchantment: Search your library for a basic land card or Circuit card, put it onto the battlefield,
+then shuffle.			normal	SANTAREPLACEMEMachine Rights Activist	RG	rare	Creature — Human Rogue 	424	RG	2RG	Ward 2
+When this creature enters, create two Treasure tokens.
+1R: Target artifact or creature gains haste until end of turn.	4/4		normal	SANTAREPLACEMEMana Harness	U	common	Instant	117	U	1U	Counter target spell unless its controller pays 2.
+Cycling 1U			normal	SANTAREPLACEMEMost Wanted	B	mythic	Legendary Enchantment	180	B	1B	1B, Sacrifice this enchantment: Search
+your library for a card, put it into your hand, then shuffle. You lose 2 life.			normal	SANTAREPLACEMEMultiboost	U	uncommon	Instant	122	U	U	Multikicker 1U
+Draw a card, then draw an additional card for each time this spell was kicked.			normal	SANTAREPLACEMENatural Isle		rare	Land — Forest Island 	574	C		(T: Add G or U.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMENight Ride	B	rare	Artifact — Vehicle 	185	B	2B	When this Vehicle enters, target player sacrifices a creature or planeswalker. If they can’t, they discard a card, then you draw a card and you lose 1 life.
+Engineer 4 (At the beginning of each combat, if you’ve spent at least four mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	3/2		normal	SANTAREPLACEMEOrissa, the Prodigy	WUR	mythic	Legendary Planeswalker — Orissa 	449	WUR	1URW	Driver—Your deck contains no creatures and each artifact is a Vehicle. (If this card outside the game is your chosen driver, you may swap it with a card in your opening hand.)		Driver—Each creature in your starting deck is a Pilot and it contains ten or more Vehicles. (If this card outside the game is your chosen driver, you may swap it with a card in your opening hand.)
+[+1]: Create a 2/2 colorless Vehicle artifact token named
+Osiris MV with flying and engineer 2. 
+[0]: Untap up to one target artifact and up to one target land.
+[-6]: Search your library for up to three Vehicle cards and put them onto the battlefield, then shuffle. You get an emblem with “Vehicles you control have engineer 0.”	planeswalker	SANTAREPLACEMEOrissa's Rivalry	R	rare	Enchantment	249	R	2R	As this enchantment enters, choose XVX or Osiris.
+• XVX — Whenever you cast a permanent spell, this enchantment deals 2 damage to any target.
+• Osiris — Whenever you cast a noncreature spell, create a 1/1 red Pilot artifact creature token with “T: Add R.”			normal	SANTAREPLACEMEOrissa's Talent	UR	rare	Instant	450	UR	UR	Search your library for a Vehicle card, reveal it, put it into your hand, then shuffle.			normal	SANTAREPLACEMEOsiris Chaser	U	rare	Artifact — Vehicle 	126	U	U	Hideaway 4 (When this Vehicle enters, look at the top four cards of your library, exile one face down, then put
+the rest on the bottom in a random order.)
+Whenever this Vehicle deals combat damage, you may cast the exiled card until end of turn.
+Engineer 2 (At the beginning of each combat, if you’ve spent at least two mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	2/2		normal	SANTAREPLACEMEOsiris GT M2	U	mythic	Artifact — Vehicle 	127	U	2UU	Flash
+Whenever this Vehicle attacks, you may draw two cards. If you do, discard two cards.
+Engineer 4 (At the beginning of each combat, if you’ve spent at least four mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	4/4		normal	SANTAREPLACEMEOsiris Headquarters		rare	Artifact Land — Vehicle 	577	WUR		This land enters tapped.
+T: Add U, R or W.
+Flying, ward 2
+Engineer 5 (At the beginning of each combat, if you’ve spent at least five mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	4/5		normal	SANTAREPLACEMEOsiris MV		common	Token Artifact — Vehicle 	27	C		Engineer 2 (At the beginning of each combat,
+if you’ve spent at least two mana this turn, you may have this token become an artifact creature until end of turn.)	2/2		token	SANTAREPLACEMEOut from Nowhere	BR	rare	Enchantment	451	BR	BR	Flash
+When this enchantment enters, destroy up to one target artifact or creature.
+1BR, Sacrifice this enchantment: Create two Treasure tokens.			normal	SANTAREPLACEMEOuter Ducts		rare	Land — Plains Island 	578	C		(T: Add W or U.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMEOver-Rev	R	common	Instant	251	R	R	Kicker—Sacrfice an artifact.
+Over-Rev deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.			normal	SANTAREPLACEMEPilot	R	common	Token Artifact Creature — Pilot  	14	R		T: Add R.	1/1		token	SANTAREPLACEMEPitstop	W	uncommon	Enchantment	55	W	2W	At the beginning of your end step, put a lap counter on this enchantment. You may return target Vehicle card with mana value less than or equal to the number of lap counters on this enchantment from your graveyard to your hand. If you don’t, surveil 1.			normal	SANTAREPLACEMEPolluted Stream		rare	Land — Island Swamp 	579	C		(T: Add U or B.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMEQuantum Prime Circuit		mythic	Legendary Artifact Land — Circuit 	580	C		Ward 2
+T: Add C.
+T, Pay 1 life: Add one mana of any color. Spend this mana only to cast an artifact or Orissa spell.			normal	SANTAREPLACEMERefuel	UR	rare	Enchantment	463	UR	1UR	At the beginning of your upkeep, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.			normal	SANTAREPLACEMERepair Crew	R	uncommon	Artifact Creature — Cyborg Artificer 	257	R	1R	T, Sacrifice another permanent: Create a Treasure token.
+2RR, T, Sacrifice two other permanents: Create a 4/4 red Vehicle artifact token with haste and engineer 4. (At the beginning of each combat, if you’ve spent at least four mana
+this turn, you may have that token become an artifact creature until end of turn.)	2/2		normal	SANTAREPLACEMEResourceful Waterguardian	U	rare	Artifact Creature — Merfolk Cyborg 	134	U	2U	Flash
+Whenever one or more creatures you control deal combat damage to an opponent, you may return a creature you control to its owner’s hand. If you do, untap up to two target artifacts and/or lands.	3/2		normal	SANTAREPLACEMERoadster Rager MV		uncommon	Artifact — Vehicle 	552	C	2	This Vehicle can’t block.
+Engineer 7 (At the beginning of each combat, if you’ve spent at least seven mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	7/7		normal	SANTAREPLACEMERundown Town		rare	Land — Forest Plains 	581	C		(T: Add G or W.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMERural Grid		rare	Land — Mountain Forest 	582	C		(T: Add R or G.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMEScrap Crawler	RG	rare	Artifact — Vehicle 	475	RG	1RG	When this Vehicle enters, return target permanent card with mana value 3 or less not named Scrap Crawler from your graveyard to your hand.
+Engineer 3 (At the beginning of each combat, if you’ve spent at least three mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	3/2		normal	SANTAREPLACEMEScrapper's Awakening	RG	mythic	Enchantment	476	RG	3RG	When this enchantment enters, creatures you control get +3/+3 and gain trample until end of turn.
+Whenever a creature you control deals combat
+damage to an opponent, look at the top card of your library. If it’s a land card, put it onto the battlefield. Otherwise, exile it. You may play that card until your next turn.			normal	SANTAREPLACEMESuccessful Experiment	BRG	rare	Artifact Creature — Cyborg Pilot 	488	BRG	BRG	This spell can’t be countered.
+Flying, haste
+Whenever this creature deals combat damage to an opponent, the next spell you cast this turn can’t be countered.	3/3		normal	SANTAREPLACEMESurge MV	W	rare	Artifact — Vehicle 	70	W	1WW	When this Vehicle enters, exile up to one target nonland, non-Xerx permanent until
+this Vehicle leaves the battlefield.
+Engineer 4 (At the beginning of each combat, if you’ve spent at least four mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	3/3		normal	SANTAREPLACEMETaken Out Back	B	uncommon	Enchantment	196	B	1B	When this enchantment enters, exile all graveyards. Choose a nonland card exiled this way. You may cast that card for as long as you control Taken Out Back, and mana of any color may be spent to cast it.			normal	SANTAREPLACEMETangled Streets		rare	Land — Swamp Forest 	583	C		(T: Add B or G.)
+You may have this land enter tapped. If you don’t, when it enters, each opponent may surveil 1.			normal	SANTAREPLACEMETeam Lounge	R	uncommon	Artifact	263	R	R	Whenever you cast your first noncreature spell each turn, draw a card, then discard a card.
+T: Target Vehicle becomes an artifact
+creature until end of turn.			normal	SANTAREPLACEMETest Drive	WUR	rare	Instant	494	WUR	URW	Exile target nonland permanent that’s
+an artifact, creature, or enchantment. If you controlled it, return it to the battlefield.			normal	SANTAREPLACEMEThe Secret Santa	WRG	special	Legendary Creature — Grinch 	590	WRG	RGW	If a player would be promised a gift, each player is promised that gift instead.
+T: Each player exiles the top card of their library face down. For the rest of the game, any player may pay 2. If they do, they put a card they exiled this way into their hand.	3/3		normal	SANTAREPLACEMETouring Track		rare	Land — Circuit 	584	C		T: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control two or more basic lands, untap that land.			normal	SANTAREPLACEMETrash Treasurer	G	rare	Creature — Human Pilot 	312	G	G	Vigilance
+Whenever this creature enters or attacks, mill a card.
+T, Exile a card from your graveyard: Add one mana of any color.	1/1		normal	SANTAREPLACEMETreasure		common	Token Artifact — Treasure 	30	C		T, Sacrifice this token: Add
+one mana of any color.			token	SANTAREPLACEMETrial Peaks Circuit		mythic	Legendary Land — Circuit 	587	C		T: Add C.
+T: Add one mana of any color. Spend this mana only to cast a legendary spell. That spell can’t be countered.
+2, T, Sacrifice Trial Peaks Circuit: Put target legendary card from your graveyard on top of your library.			normal	SANTAREPLACEMEUnderground		uncommon	Land	588	C		When this land enters, exile up to two target cards from graveyards.
+T: Add C.			normal	SANTAREPLACEMEUnfortunate Accident	B	uncommon	Enchantment	201	B	B	When this enchantment enters, each opponent discards a card and you mill two cards.
+2B: Transform this enchantment.			transform double faced	SANTA	Crash Survivor	B	Artifact Creature — Cyborg Survivor  	B		Slipstream (This creature can’t be blocked
+as long as only creatures with slipstream are attacking.)
+Whenever this creature deals combat damage to an opponent, exile up to one target card from a graveyard. If you exiled a card you own this way, each opponent loses 1 life and you gain 1 life.	2/2		REPLACEMEVictory at Any Cost	U	rare	Instant	144	UR	1U	Kicker 1R
+If this spell was kicked, search your library for
+a card with mana value equal to a spell on the stack, reveal it, put into your hand, then shuffle.
+You may exile a card from your hand. If you do, counter up to one target spell with mana value equal to the exiled card, then draw a card.			normal	SANTAREPLACEMEXerx, the Inventive	BRG	mythic	Legendary Planeswalker — Xerx 	512	BRG	BRG			Driver—Each card in your starting deck is a permanent card. (If this card outside the game is your chosen driver, you may swap it with a card in your opening hand.)
+[+1]: Return up to one target permanent card from your graveyard to your hand.
+[-2]: Destroy target artifact or enchantment. If you controlled it, draw two cards, then discard a card. 
+[-X]: Xerx deals X damage to any target and you
+gain X life.	planeswalker	SANTAREPLACEMEXerx's Rivalry	G	rare	Enchantment	323	G	2G	As this enchantment enters, choose XVX or Osiris.
+• XVX — When this enchantment enters and at the beginning of your upkeep, mill two cards. You may put a permanent card from among the milled cards into your hand.
+• Osiris — At the beginning of combat on your turn, up to one target permanent becomes a 4/4 Vehicle artifact creature in addition to its other types until your next turn.			normal	SANTAREPLACEMEXerx's Subterfuge	B	common	Enchantment	203	B	B	When this enchantment enters, surveil 1.
+1B, Sacrifice this enchantment: Target opponent reveals their hand. You choose a non-Orissa, noncreature, nonland card from it. That player discards that card. Activate only as a sorcery.			normal	SANTAREPLACEMEXVX Headquarters		rare	Artifact Land — Vehicle 	556	BRG		This land enters tapped.
+T: Add B, R or G.
+Flying, ward 2
+Engineer 5 (At the beginning of each combat, if you’ve spent at least five mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	5/4		normal	SANTAREPLACEMEXVX Mechanic	G	mythic	Creature — Human Artificer 	324	G	1G	Trample
+Whenever this creature deals combat damage to an opponent, return a permanent card from your graveyard to your hand, then sacrifice a permanent.	3/2		normal	SANTAREPLACEMEXVX MV	R	common	Token Artifact — Vehicle 	15	R		Haste
+Engineer 4 (At the beginning of each combat, if you’ve spent at least four mana this turn, you may have this token become an artifact creature until
+end of turn.)	4/4		token	SANTAREPLACEMEXVX Rano C4	R	mythic	Artifact — Vehicle 	270	R	2RR	Haste
+Whenever this Vehicle attacks, you may discard two cards. If you do, draw two cards.
+Engineer 4 (At the beginning of each combat, if you’ve spent at least four mana this turn, you may have this Vehicle become an artifact creature until end of turn.)	4/4		normal	SANTAREPLACEMEBody Enhancement Magic	W	uncommon	Enchantment — Aura 	10	W	1W	Enchant creature
+When Body Enhancement Magic enters the battlefield and whenever enchanted creature attacks, put a +1/+1 counter on enchanted creature.			normal	SANTAREPLACEMEByakuren, Superhuman	WU	rare	Legendary Creature — Wizard Monk 	356	WU	2WU	Vigilance, ward 3
+When Byakuren, Superhuman enters the battlefield, each opponent gains 5 life.
+Whenever Byakuren attacks, you may discard a card. If you do, she gains double
+strike until end of turn.	5/5		normal	SANTAREPLACEMECosmic Mind	U	uncommon	Sorcery	98	U	1UU	Draw three cards. Then discard a card unless you control a legendary creature or planeswalker.			normal	SANTAREPLACEMESorcerer's Sutra Scroll		mythic	Legendary Artifact — Equipment 	553	C	5	Imprint — When Sorcerer’s Sutra Scroll enters the battlefield, you may exile an instant, sorcery, or Aura card from your hand.
+Whenever equipped creature deals combat damage to a player, you may copy a card exiled with Sorcerer’s Sutra Scroll with mana value less than or equal to that damage. You may cast the copy without paying its mana cost.
+Equip 3			normal	SANTAREPLACEMETrent, Cynical Mimic		mythic	Legendary Planeswalker — Trent 	1	C	5			When Trent enters the battlefield and whenever Trent is dealt damage, each player reveals their hand, then exiles a nonland card from their hand.
+[+2]: Add CC or two mana in any combination of colors among cards exiled with Trent. Scry 2.
+[-2]: Search target player’s graveyard, hand and library for any number of cards that share a name with a card exiled with Trent and exile them.
+[-5]: You may cast a copy of a card exiled with Trent without paying its mana cost.	planeswalker	SANTAREPLACEMEAsuka, Victorius Velocity	R	mythic	Legendary Planeswalker — Asuka 	209	R	RRR			R, Reveal Asuka from your hand: Activate one of her abilities as if she was on the battlefield with two loyalty counters on her. She deals 2 damage to you.
+[+1]: Creatures you control get +1/+0 and gain haste until end of turn.
+[-2]: Up to two target creatures without flying can’t block this turn.
+[-X]: Asuka deals X damage to each opponent.	planeswalker	SANTAREPLACEMEAkira, Acidic Fool	UBR	mythic	Legendary Planeswalker — Akira 	331	UBR	1UBR			Once each turn, rather than sacrifice a permanent, you may remove two loyalty counters from Akira, Acidic Fool instead.
+Whenever one or more players sacrifice one or more permanents for the first time each turn, Akira deals 2 damage to any target and you gain 2 life.
+[+2]: Surveil 2. Create a Vial token. (It’s an artifact with “1, Sacrifice this token and another permanent: Draw a card. Activate only during your turn.”)
+[-4]: Each player sacrifices a creature and a noncreature permanent.	planeswalker	SANTAREPLACEMEJay, Nuclear Chef	WRG	mythic	Legendary Planeswalker — Jay 	407	WRG	1RGW			Whenever one or more loyalty counters are put on Jay, Nuclear Chef, create that many Food tokens.
+Whenever one or more loyalty counters are removed from Jay, they deal that much damage to each player.
+[+1]: You may sacrifice a permanent. If you do, create a Star token. (It’s an enchantment with “2, Sacrifice this token: It deals 2 damage to any target.”)
+[-2]: At the beginning of the next end step, put X +1/+1 or loyalty counters on a permanent you control, where X is half the greatest amount of life a player gained or lost this turn, rounded up, whichever
+is greater.	planeswalker	SANTAREPLACEMEKatsumi, Silent Shinobi	WUB	mythic	Legendary Planeswalker — Katsumi 	411	WUB	1WUB			As you activate an ability of a permanent you control, you may exile it. If you do, return that card to the battlefield under its owner’s control at the beginning
+of your next upkeep. It has haste.
+[+1]: Katsumi deals 1 damage to any target and you gain 1 life. Scry 1.
+[0]: You may pay 3 life any number of times. When you pay this cost one or more times, you may tap or untap up to that many target permanents plus one.
+[-3]: Until your next turn, nonmana abilities you activate have “Draw a card. You may counter up to one target ability.” You may activate another loyalty ability of Katsumi this turn.	planeswalker	SANTAREPLACEMELucina, Hellish Defier	BR	mythic	Legendary Planeswalker — Lucina 	423	BR	3BR			Whenever a player chooses not to, Lucina, Hellish Defier deals 2 damage to each opponent.
+[+1]: Create a 2/2 black Demon creature token with haste. Then an opponent of your choice may discard a card. If they don’t, create another one of those tokens.
+[-3]: Each player may discard two cards. Draw two cards for each opponent that didn’t, then draw two cards if you did.
+[-9]: Each opponent may return a creature or planeswalker card from their graveyard to the battlefield under your control. Create three 2/2 black Demon creature tokens with haste for each opponent that didn’t. Repeat this process two times.	planeswalker	SANTAREPLACEMEPersephone, Repentant Assassin	WB	mythic	Legendary Planeswalker — Persephone 	457	WB	1WB			As long as Persephone, Repentant Assassin lost loyalty this turn, you may cast nonland cards from your hand as though they were Murder. (Murder is a 1BB instant with “Destroy target creature.”)
+[+1]: Any number of target players each gain 3 life. Surveil 2 for each player that did.
+[-2]: Each player sacrifices a permanent. Draw a card if one or more creatures were sacrificed this way.
+[-5]: For each player, return a creature card of your choice from that player’s graveyard to the battlefield under their control.	planeswalker	SANTAREPLACEMERay, Union Spark	WR	mythic	Legendary Planeswalker — Ray 	462	WR	3RW			When you cast this spell, you get EEE. Creatures you control get +1/+0 and gain vigilance and haste until end of turn.
+Ray, Union Spark’s loyalty is equal to your E. (Add or remove loyalty counters and energy as you spend or gain either.)
+[+1]: You may tap or untap target artifact or creature, then you may tap or untap another target artifact
+or creature.
+[0]: You may pay EEE any number of times. When you pay this cost one or more times, Ray deals 3 damage to each of up to that many target creatures.	planeswalker	SANTAREPLACEMEVictoria, Rift Genius	WU	mythic	Legendary Planeswalker — Victoria 	505	WU	2WU			At the beginning of each opponent’s upkeep, secretly note a nonland card type. Whenever an opponent casts
+a spell of that type that turn, reveal the type you noted.
+[+2]: You draw a card and gain 2 life. If you revealed a type you noted since your last turn, draw an additional card.
+[-3]: Create a blue enchantment token named Rift with “2, Sacrifice this token: Exile target tapped permanent or spell if it has a card type you noted with a Victoria planeswalker this turn.”
+[-9]: You get an emblem with “Once each turn, you may gain control of a spell whose type you noted with a
+Victoria planeswalker this turn.”	planeswalker	SANTAREPLACEMEEini, Metallic Protector		mythic	Legendary Artifact Planeswalker — Eini 	539	C	4			You may activate abilities of other artifacts and lands you control as if they were one of Eini’s loyalty abilities. One loyalty counter pays for C and two pay for T. (You can’t pay other costs this way.)
+[+1]: Surveil 3. You may activate another of Eini’s loyalty abilities this turn.
+[+1]: Until end of turn, Eini becomes an X/X colorless Demigod Construct creature with indestructible, where X is the number of artifacts you control. 
+[-4]: Create a token that’s a copy of another target artifact or land you control.	planeswalker	SANTAREPLACEMEArchdemon of Redemption	B	rare	Creature — Demon Cleric 	153	B	4BB	Flying
+Whenever a creature an opponent controls dies, return it to the battlefield under your control at the beginning of the next end step.	6/6		normal	SANTAREPLACEMEArchdemon of Redemption	B	rare	Creature — Demon Cleric 	152	B	4BB	Flying
+Whenever a creature an opponent controls dies, return it to the battlefield under your control at the beginning of the next end step.	6/6		normal	SANTAREPLACEMEBurning Memories	R	uncommon	Instant	217	R	2RR	Sacrifice a creature. If you do, it deals damage equal to its power to any target and you exile cards from the top of your library equal to its toughness. You may play the exiled cards until the beginning of your next end step.			normal	SANTAREPLACEMEBurning Memories	R	uncommon	Instant	218	R	2RR	Sacrifice a creature. If you do, it deals damage equal to its power to any target and you exile cards from the top of your library equal to its toughness. You may play the exiled cards until the beginning of your next end step.			normal	SANTAREPLACEMEDesperate Fangs	WB	common	Instant	519	WB	1W/B	Desperate Fangs deals 3 damage to target attacking creature and you gain 3 life.			normal	SANTAREPLACEMEDesperate Fangs	WB	common	Instant	518	WB	1W/B	Desperate Fangs deals 3 damage to target attacking creature and you gain 3 life.			normal	SANTAREPLACEMEEffigy of Naught		mythic	Artifact	538	C	5	Creatures lose all abilities.			normal	SANTAREPLACEMEEffigy of Naught		mythic	Artifact	537	C	5	Creatures lose all abilities.			normal	SANTAREPLACEMERender Unto Whispers	WU	rare	Instant	465	WU	1WU	If a creature would deal damage this turn, prevent that damage and its controller mills that many cards.			normal	SANTAREPLACEMERender Unto Whispers	WU	rare	Instant	464	WU	1WU	If a creature would deal damage this turn, prevent that damage and its controller mills that many cards.			normal	SANTAREPLACEMESlay the Omen	B	uncommon	Sorcery	193	B	1BB	Destroy target creature or planeswalker. Fateseal 1. (Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)			normal	SANTAREPLACEMESlay the Omen	B	uncommon	Sorcery	194	B	1BB	Destroy target creature or planeswalker. Fateseal 1.			normal	SANTAREPLACEMEAchilles, Hero and Mentor	WUR	mythic	Legendary Creature — Spirit Warrior 	328	WUR	URW	Indestructible
+Each spell you cast costs 1 less to cast for each permanent it targets that you control.
+Heroic — Whenever you cast a spell that targets Achilles, Hero and Mentor, put a +1/+1 counter on him and each creature you control with lesser power.	2/2		normal	SANTAREPLACEMEAhuzak, Center of Preservation	U	mythic	Enchantment	86	U	3U	Whenever you cast a spell that targets only a single artifact or creature you control, create a token that’s a copy of that artifact or creature, except it’s not legendary.			normal	SANTAREPLACEMEAncient Miner Robot		uncommon	Artifact Creature — Myr 	527	C	2	T: Add one mana of any color in your commander’s color identity.	2/2		normal	SANTAREPLACEMEAngella, Queen of Bright Moon	W	rare	Legendary Creature — Angel Noble 	4	W	1WWW	Flying, vigilance
+Creatures you control with counters on them have lifelink.
+Heroic — Whenever you cast a spell that targets Angella, Queen of Bright Moon, you may put a shield counter on target creature you control.	3/3		normal	SANTAREPLACEMEArcadian Airship		uncommon	Artifact — Vehicle 	528	C	2	Flying
+Arcadian Airship can’t be blocked as long as you have completed a dungeon.
+Whenever Arcadian Airship deals combat damage to a player, venture into the dungeon and create a Treasure token.
+Crew 2	3/3		normal	SANTAREPLACEMEArchwing System		uncommon	Artifact — Equipment 	529	C	2	Equipped permanent has flying as long as it is a creature.
+Whenever equipped creature deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Equip creature or vehicle 2			normal	SANTAREPLACEMEBanjo, Beary Polite	WU	uncommon	Legendary Creature — Bear 	345	WU	WU	Skulk (This creature can’t be blocked by creatures with greater power.)
+Collect — Whenever one or more tokens you control enter, if no other tokens with the same name as those tokens entered under your control this turn, draw a card.
+Partner with Kazooie, Sassy Support	2/2		normal	SANTAREPLACEMEBerserk Spell	R	uncommon	Creature — Phoenix 	212	UR	1RR	Flying, haste
+Whenever Berserk Spell attacks, you may destroy target artifact. If you do, its controller draws a card.	3/2		adventure	SANTA	The Glowing Book	U	Sorcery — Adventure 	UR	1U	Up to one target creature connives.
+Investigate.			REPLACEMEBoon of Athena	W	rare	Instant	11	W	W	Kicker XX
+Put a shield counter on X plus one target creatures.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)			normal	SANTAREPLACEMEBoon of Zeus	R	uncommon	Instant	214	R	R	Strive— This spell costs 1 more to cast for each target beyond the first.
+Boon of Zeus deals 2 damage to any number of target creatures you don’t control and any number of target creatures you control get +2/+0 until end of turn.			normal	SANTAREPLACEMEBullet Control	R	uncommon	Instant	216	R	1R	Bullet Control deals 3 damage divided as you choose among up to three target permanents.			normal	SANTAREPLACEMEClaimed Obelisk		uncommon	Artifact	533	C	3	T: Add one mana of any color in your commander’s color identity.
+X, T, Sacrifice Claimed Obelisk: Search your library and/or graveyard for an artifact card with mana value X or less, reveal it, and put it into your hand. If you search your library this way, shuffle.			normal	SANTAREPLACEMECloud of Erasure	W	uncommon	Instant	16	W	W	Spree (Choose one or more additional costs.)
++1: Create two 1/1 white Homunculus Soldier creature tokens.
++2: Exile target artifact or enchantment.
++3W: Create a white and green Homunculus Beast token that is your choice of a 3/3 creature with flying or a 5/5 creature.			normal	SANTAREPLACEMECombee	W	uncommon	Creature — Insect 	17	W	W	Offspring 1W (You may pay an additional 1W as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+Whenever Combee deals combat damage to a player, create a Food token.	1/1		normal	SANTAREPLACEMECombee	W	common	Token Creature — Insect 	3	W		Flying
+Whenever Combee deals combat damage to a player, create a Food token.
+(This token’s mana cost is W.)	1/1		token	SANTAREPLACEMEComissar Gaunt, the People's Hero	WR	rare	Legendary Creature — Human Soldier 	362	WR	3RW	First strike
+Heroic — Whenever you cast a spell that targets Comissar Gaunt, the People’s Hero, create two
+1/1 red Human soldier tokens with haste.
+Battalion — Whenever Gaunt and at least two other creatures attack, put a +1/+1 counter
+on each attacking creature.	5/3		normal	SANTAREPLACEMEDemonstrate Faith	W	uncommon	Sorcery	19	W	W	Strive — This spell costs 1 more to cast for each target beyond the first.
+Any number of target creature gain “T: Create a 1/1 white Soldier creature token.” until end of turn.			normal	SANTAREPLACEMEDiancie	WR	rare	Creature — Faerie Elemental 	368	WR	RW	Flying
+When Diancie enters, create a tapped Treasure token.
+At the beginning of your end step, if you didn’t play a land this turn, you may pay 1. If you do, create a tapped Treasure token.	1/3		normal	SANTAREPLACEMEDrangleic Castle	W	rare	Enchantment — Room 	84	W	2WW	When Drangleic Castle unlocks, create two 2/2 white Soldier creature tokens with vigilance.
+1W: If Throne of Want is locked, it becomes unlocked until target legendary creature you control leaves the battlefield.			fuse split	SANTA	Throne of Want	W		W		Link the Flame— Spells and abilities your opponents control can’t cause creature cards to leave a player’s graveyard.			REPLACEMEEntrapta, Inventor Princess	UR	mythic	Legendary Creature — Human Artificer 	375	WUR	1UR	Heroic — Whenever you cast a spell that targets Entrapta, Inventor Princess, create two 1/1 colorless Construct artifact creature tokens.
+Tech Adaptation — If you would create one or more artifact tokens, you may pay XW and exile an artifact card with mana value X from your graveyard. If you do, create that many tokens that are copies of that card instead. 	2/2		normal	SANTAREPLACEMEFall of the Orokin	WR	rare	Legendary Enchantment — Saga 	379	WR	2RW			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I — Exile the top four cards of your library. Until the end of your next turn, you may play land cards from among them.
+II — Pay XX. Create X 2/2 colorless Vehicle artifact tokens with haste and crew 1. They become artifact creatures until end of turn.
+III — Create a number of 1/1 white Spirit creature tokens with flying equal to the number of artifacts you control.
+IV — Goad all creatures target opponent controls.	saga	SANTAREPLACEMEFanatic Submission	W	rare	Enchantment	25	W	1W	Whenever one or more creatures you control deal combat damage to a player, create a 1/1 white Elephant Lizard Soldier creature token.			normal	SANTAREPLACEMEFlawless Maneuver	W	rare	Instant	27	W	2W	If you control a commander, you may cast this spell without paying its mana cost.
+Creatures you control gain indestructible until end of turn.			normal	SANTAREPLACEMEFrieren, The Last Great Mage	U	rare	Legendary Creature — Elf Wizard 	104	U	1U	Flying; ward X, where X is the number of age counters on Frieren, The Last Great Mage.
+At the beginning of combat on your turn, put an age counter on Frieren, then look at the top X cards of your library. Reveal up to one instant or sorcery card with mana value X or less from among them and put it into your hand, then put the rest of the cards in the bottom of your library in a random order.
+Partner	2/2		normal	SANTAREPLACEMEFrieren, The Last Great Mage	U	rare	Legendary Creature — Elf Wizard 	103	U	1U	Flying; ward X, where X is the number of age counters on Frieren.
+At the beginning of combat on your turn, put an age counter on Frieren, then look at the top X cards of your library. Reveal up to one instant or sorcery card with mana value X or less from among them and put it into your hand, then put the rest of the cards in the bottom of your library in a random order.
+Partner	1/1		normal	SANTAREPLACEMEGolden Feather	WR	uncommon	Instant	387	WR	RW	Wonderwing — Choose one —
+• Golden Feather deals 4 damage to target player or planeswalker.
+• Permanents you control gain indestructible until end of turn.
+• Target creature gains double strike until end of turn.			normal	SANTAREPLACEMEHimmel, Inspiring Hero	W	rare	Legendary Creature — Human Warrior 	34	W	1WW	Vigilance, first strike
+Whenever Himmel attacks, create a white enchantment Aura named Remembrance with enchant creature and “Heroic — Whenever you cast a spell that targets enchanted creature, put a +1/+1 counter on it.”, then venture into the dungeon.
+Partner (You can have two commanders if both have partner.)	3/2		normal	SANTAREPLACEMEHimmel, Inspiring Hero	W	rare	Legendary Creature — Human Warrior 	33	W	1WW	Vigilance, first strike
+Whenever Himmel attacks, create a white enchantment Aura named Remembrance with enchant creature and “Heroic — Whenever you cast a spell that targets enchanted creature, put a +1/+1 counter on it.”, then venture into the dungeon.
+Partner (You can have two commanders if both have partner.)	3		normal	SANTAREPLACEMEHold the Line	W	rare	Instant	35	W	1WW	Blocking creatures get +7/+7 until end of turn.			normal	SANTAREPLACEMEHour of Reckoning	W	rare	Sorcery	36	W	4WWW	Convoke
+Destroy all nontoken creatures.			normal	SANTAREPLACEMEJeanne, Umbral Heir	R	rare	Creature — Human Warlock 	240	R	2RR	Heroic — Whenever you cast a spell that targets Jeanne, Umbral Heir, she deals damage equal to the number of creatures you control to up to one target creature.	4/4		normal	SANTAREPLACEMEKazooie, Sassy Support	R	uncommon	Legendary Creature — Bird 	242	R	1R	Flash
+Flying
+When Kazooie, Sassy Support enters or attacks, target creature gets +X/+0 until end of turn, where X is the number of cards you’ve drawn this turn.
+Partner with Banjo, Beary Polite	1/1		normal	SANTAREPLACEMEKnight of Might and Magic	W	uncommon	Creature — Human Knight 	39	W	1W		2/3	Level up 1W (1W: Put a level counter on this. Level up only as a sorcery.)
+[level 2-3] Other creatures you control get +1/+1.
+[level 4+] Other creatures you control get +2/+2.	leveler	SANTAREPLACEMELeadership Ability Tree	W	rare	Enchantment — Class 	41	W	2W			(Gain the next level as a sorcery to add its ability.)
+At the beginning of combat on your turn, add two mana of any color. If Leadership Ability Tree is level 3, create three treasure tokens instead.
+1W: Level 2
+Whenever a creature you control attacks or blocks, it gets +1/+1 until end of turn.
+2WW: Level 3
+Whenever a creature you control attacks or blocks, put a +1/+1 counter on it.	class	SANTAREPLACEMELink, Hero of Hyrule	W	rare	Legendary Creature — Elf Warrior 	42	W	2WW	Heroic — Whenever you cast a spell that targets Link, Hero of Hyrule, choose one:
+• Destroy target artifact or enchantment.
+• Put a +1/+1 counter on Link.
+• Draw a card.	3/3		normal	SANTAREPLACEMELiving Armor	U	uncommon	Artifact Creature — Oyster Knight 	115	U	2U	At the beginning of combat on your turn, up to one target noncreature artifact that isn’t attached to a creature becomes a 2/2 Oyster creature with haste in addition to its other types.	2/3		normal	SANTAREPLACEMEMak'Gora	R	rare	Sorcery	244	R	1R	This spell costs 1R more to cast for each target you control beyond the first.
+Any number of target creatures you control each damage equal to their power to target creature you don’t control.			normal	SANTAREPLACEMEMani Katti, Sword of Spirits		rare	Artifact — Equipment 	545	C	2	Equipped creature gets +1/+1.
+Whenever equipped creature attacks, create a 1/1 white Spirit token with flying.
+Whenever a legendary creature you control enters, you may attach Mani Katti, Sword of Spirits to it.
+Equip 3			normal	SANTAREPLACEMEMeat Magic	WU	rare	Enchantment	429	WU	WU	At the beginning of each end step, if a creature died this turn, create a Food token.
+1U: Noncreature Foods you control become 1/1 Homunculus creatures with flying until end of turn.
+Sacrifice X Foods: Return up to one target creature card with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery and only once each turn.			normal	SANTAREPLACEMEMoon Stone Fragment		uncommon	Artifact	547	C	1	T: Add CC.			normal	SANTAREPLACEMENihilego	U	rare	Creature — Jellyfish 	124	U	U	Nihilego can mutate on top or under Human creatures as though they were non-Human creatures.
+Whenever Nihilego’s triggered abilities would trigger one or more times, they trigger that many plus one time instead.	1/1	Mutate 1UU (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Nihilego can mutate on top or under Human creatures as though they were non-Human creatures.
+Whenever Nihilego’s triggered abilities would trigger one or more times, they trigger that many plus one time instead.	normal	SANTAREPLACEMENurturing Love	W	uncommon	Sorcery	51	W	W	If you cast Nurturing Love from your hand, create a 1/1 white Child token. Otherwise put a +1/+1 counter on target creature you control.
+Exile Nurturing Love with two time counters on it. It gains suspend.			normal	SANTAREPLACEMEObblinox Spy	U	uncommon	Creature — Elephant Lizard Rogue 	125	U	U	Disguised — Obblinox Spy can’t be blocked unless defending player pays 3.
+Whenever Obblinox Spy deals combat damage to a player, investigate.	1/1		normal	SANTAREPLACEMEOde to Caress and Cicatrix	W	uncommon	Enchantment — Aura 	52	W	W	You may pay 1WW rather than pay Ode to Caress and Cicatrix’s mana cost. If you do, copy it with a different target and cast the copy without paying its mana cost.
+Enchant creature
+Beatification — Spells and activated abilities you control that target enchanted creature cost 1 less to cast or activate.			normal	SANTAREPLACEMEOdysseus of Ithaca	WUR	mythic	Legendary Creature — Human Warrior 	443	WUR	2URW	Heroic Ingenuity — Whenever a player casts a spell that targets Odysseus of Ithaca, draw a card.
+Change the text of all permanents you control by replacing all instances of “Whenever you cast cast a spell that targets” with “Whenever a player casts a spell that targets”.	4/4		normal	SANTAREPLACEMEOlruggio, Watchful Eye	WUR	mythic	Legendary Creature — Human Wizard 	446	WUR	3URW	Ward—Sacrifice two tokens.
+Magic Inventions — Whenever you cast a spell that targets Olruggio, Watchful Eye for the first time each turn, cast a copy of that spell targeting each other creature you control without paying its mana cost.	5/5		normal	SANTAREPLACEMEOrpheus of the Bargain	W	uncommon	Legendary Creature — Human Bard 	53	W	WW	Heroic — Whenever you cast a spell that targets Orpheus of the Bargain, you may return target permanent card with mana value 3 or less from your graveyard to the battlefield.	1/3		normal	SANTAREPLACEMEOverseers of the Library	WU	rare	Creature — Human Monk 	453	WU	1WU	Vigilance
+Heroic — Whenever you cast a spell that targets Overseers of the Library, you may pay 1. If you do, draw a card.
+Whenever you draw a card, if you drew an even number of cards this turn, create a 2/2 Human Monk token with vigilance.	3/4		normal	SANTAREPLACEMEProduction Building		rare	Artifact	550	C	1	When Production Building enters, choose Food or a color, then create a 0/1 colorless Citizen creature token.
+T, Tap an untapped creature you control: Add C or one mana of the chosen color.
+2, T, Tap an untapped creature you control: Create a Food token. Activate only if you chose Food.			normal	SANTAREPLACEMERally For the Fallen King	W	common	Sorcery	60	W	1W	Create two 1/1 white Soldier creature tokens. If you cast Rally For the Fallen King from your graveyard, create X of those tokens instead.
+Flashback XXW (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	SANTAREPLACEMERemembrance	W	common	Token Enchantment — Aura 	6	W		Enchant creature
+Heroic — Whenever you cast a spell that targets enchanted creature, put a +1/+1 counter on it			token	SANTAREPLACEMERemembrance	W	common	Token Enchantment — Aura 	7	W		Enchant creature
+Heroic — Whenever you cast a spell that targets enchanted creature, put a +1/+1 counter on it			token	SANTAREPLACEMERemembrance	W	common	Token Enchantment — Aura 	8	W		Enchant creature
+Heroic — Whenever you cast a spell that targets enchanted creature, put a +1/+1 counter on it			token	SANTAREPLACEMERight Eye Of Light		uncommon	Legendary Artifact	551	WU	2	1, T: Add WW, WU or UU.
+1, T: Scry 2.
+T, Sacrifice Right Eye Of Light and a card named Left Eye of Darkness: Search your library for a God card and put it into your hand, then shuffle.			normal	SANTAREPLACEMERolling Maneuver	W	uncommon	Instant	62	W	W	Buyback 3 (You may pay an additional 3 as you cast this spell. If you do, put this card into your hand as it resolves.)
+Prevent all combat damage that would be dealt to and by target attacking creature you control this turn. 			normal	SANTAREPLACEMESecret Cobblers	W	rare	Enchantment — Case 	64	W	2WW			The first artifact spell you cast each turn has convoke.
+To Solve — Three or more creatures with mana value 1 or less entered this turn. (If unsolved, solve at the beginning of your end step.)
+Solved—Whenever a creature you control enters, put a +1/+1 counter on each creature you control.	saga	SANTAREPLACEMESenshi, Dungeon Cook	W	uncommon	Legendary Creature — Dwarf Warrior 	65	W	3W	Whenever a non-Human creature dies, create a Food token.
+At the beginning of each end step, if you gained life this turn, venture into the dungeon. (Enter the first room or advance to the next room.)	3/4		normal	SANTAREPLACEMESigmar, Uniter of Mankind	W	mythic	Legendary Creature — Human Warrior 	66	W	2WW	Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Other creatures you control have exalted.
+When Sigmar, Uniter of Mankind dies, if you have the city’s blessing, you may return him to the battlefield as a noncreature enchantment.	3/3		normal	SANTAREPLACEMESolaire, Sun-Seeking Knight	W	rare	Legendary Creature — Human Knight 	68	W	2WW	This spell costs 2 less to cast if you attacked this turn.
+Vigilance
+Heroic — Whenever you cast a spell that targets Solaire, Sun-Seeking Knight, put a +1/+1 counter on each creature you control.	2/3		normal	SANTAREPLACEMESorceress Sellen	U	rare	Legendary Creature — Human Wizard 	137	U	2U	If you would create one or more tokens, instead create those tokens plus an additional clue token.
+2, Sacrifice Sorceress Sellen: Create a token that is a copy of Sorceress Sellen except it doesn’t have this ability and isn’t legendary.	2/2		normal	SANTAREPLACEMESorceress Sellen	U	common	Token Creature — Human Wizard 	10	U		If you would create one or more tokens, instead create those tokens plus an additional clue token.
+(This token’s mana cost is 2U.)	2/2		token	SANTAREPLACEMESorcerous Mishaps	U	common	Sorcery — Lesson 	138	U	U	Strive — This spell costs 1 more to cast for each target beyond the first.
+Any number of target creatures gain “Whenever this creature deals combat damage to a player this turn, draw a card” until end of turn.			normal	SANTAREPLACEMESteel Meridian	W	rare	Enchantment	69	W	1WW	Protective Defect— If an effect would create one or more creature tokens under your control, it creates twice that many of those tokens instead. Put a defender counter on one of those tokens.
+3: Remove all defender counters from tokens you control. Put a vigilance counter on each token that lost defender this way.			normal	SANTAREPLACEMETal'Set, The First Turok	W	mythic	Legendary Planeswalker — Tal’Set 	72	W	1WW			Heroic — Whenever you cast a spell that targets Tal’Set, put two loyalty counters on it.
+[0]: Until your next turn, Tal’Set becomes a 4/4 creature with vigilance and reach and loses all other loyalty abilities.
+[-3]: Create three 1/1 white Warrior creature tokens with vigilance.
+[-4]: Search your library and/or graveyard for a historic card, reveal it and put it into your hand, then shuffle.	planeswalker	SANTAREPLACEMEThe Chronoscepter		mythic	Legendary Artifact	532	WR	1	Activate The Chronoscepter’s activated abilities only if you control ten or more permanents.
+R, T: The Chronoscepter deals 3 damage to any target. 
+XRW, T, exile The Chronoscepter: The Chronoscepter deals X damage to all creatures. Each player may search their library and/or graveyard for permanent cards with total mana value up to the number of creatures they controlled that died this turn and put them onto the battlefield, then shuffle.			normal	SANTAREPLACEMEThe Dark Portal		rare	Legendary Artifact	536	C	3	You may cast The Dark Portal from your graveyard by sacrificing three creatures in addition to paying its other costs.
+Whenever you attack, you may create a 2/2 red Orc Warrior creature with menace.			normal	SANTAREPLACEMEThe Horde	WR	mythic	Instant	397	WR	1RRWW	Kicker RW
+Cast The Horde only during your turn.
+Create X 2/1 white and red Warrior creature tokens where X is the number of creatures on the battlefield. If The Horde was kicked they gain haste until end of turn and there is an additional combat step after the turn’s first combat step this turn.			normal	SANTAREPLACEMEThe Loving Silver Tree	W	rare	Artifact	44	W	2W	The Loving Silver Tree enters tapped.
+T: Add W.
+T: The next spell you cast this turn has convoke.			normal	SANTAREPLACEMETower of Tomes		rare	Legendary Land	585	U		Tower of Tomes enters tapped.
+T: Add U.
+1U, T: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to that card’s mana cost. Activate only as a sorcery.			normal	SANTAREPLACEMEVox Harmonique	W	uncommon	Instant	80	W	W	Strive — This spell costs 1 more to cast
+for each target beyond the first.
+Any number of target creatures each get +1/+0 and gain first strike until end of turn.			normal	SANTAREPLACEMEVyze, Adventurous Swashbuckler	R	rare	Legendary Creature — Human Pirate 	267	R	R	Haste
+Whenever Vyze, Adventurous Swashbuckler deals combat damage to a player, choose one:
+• Create a tapped Treasure token.
+• Venture into the dungeon.	1/1		normal	SANTAREPLACEMEWarrior	WR	common	Token Creature — Warrior 	19	WR			2/1		token	SANTAREPLACEMEXipe of the Thousand Faces	W	mythic	Legendary Enchantment Creature — God 	82	W	2WW	Lifelink
+As long as you control six or fewer creatures, Xipe of the Thousand Faces isn’t a creature.
+Harmonic Strings — If one or more tokens would be created under your control, twice that many tokens are created instead.
+Whenever Xipe of the Thousand Faces is put into your graveyard, you may put THEM on top of your library at the beginning of the next end step.	4/4		normal	SANTAREPLACEMEZoltraak	W	rare	Instant	83	W	WW	This spell costs 2 more to cast if it targets a non-Demon creature.
+Destroy target nonland permanent. 			normal	SANTAREPLACEMERevolting Pixie	B	uncommon	Creature — Faerie Horror 	190	UB	B	Flash
+Flying
+Revolting Pixie can’t block.
+Revolt — U, Discard Revolting Pixie: Return
+target creature to its owner’s hand. Activate only if a permanent you controlled left the battlefield this turn.	2/1		normal	SANTAREPLACEMEHeroic Reserve Tactics	WUR	rare	Instant	396	WR	1RW	Choose two target creatures you control. For each of them, you may transform it. Then for each each transformed creature you control, put a +1/1 counter on that creature and it gains indestructible until end of turn.			normal	SANTAREPLACEMEThe Nucleus	UR	rare	Battle — King of the Hill 	440	UR	1UR	(If this battle was cast, it enters the battlefield unprotected. Any player can attack it. When a player defeats it, exile it, then return it to the battlefield under their protection.)
+Whenever a player defeats this battle, they draw two cards, then scry 2.			normal	SANTAREPLACEMEThe Gravel Pit	WR	rare	Battle — Attack/Defend 	391	WR	2RW	(You protect this battle from others. When it’s defeated, put it into its owner’s graveyard.)
+When this battle enters, it deals 2 damage to target creature
+an opponent controls.
+Creatures with power 2 or less can’t attack you.			normal	SANTAREPLACEMEHizona, Steel-Soul Ronin	WRG	mythic	Legendary Creature — Human Samurai 	0	WRG	1RGW	Whenever an Equipment enters under your control, you may attach it to Hizona.
+Whenever a modified creature you control attacks, you may cast an enchantment or Spirit card from your graveyard with mana value less than or equal to the number of modifications
+on that creature without paying its mana cost. (Equipment, Auras you control, and counters are modifications. Count counters separately.)	3/3		normal	SANTAREPLACEMEBirdfolk Hunter	W	uncommon	Creature — Bird Ranger 	8	W	1W	Prowess
+Whenever you cast an instant or sorcery spell, you may pay W. If you do, tap target creature.	2/2		normal	SANTAREPLACEMEJintou, Progenitor of the Wilds	W	rare	Legendary Creature — Dragon Spirit 	38	W	2WW	Flying
+Creature tokens you control have ward 1.
+Whenever one or more nontoken creatures you control become the target of a spell, create a 1/1 white Dragon creature token with flying.
+5W: Creatures you control get +1/+1 and gain flying until end of turn.	3/3		normal	SANTAREPLACEMEMagical Companionship	W	common	Instant	45	W	W	Put a prowess counter on up to one target creature. Draw a card.  (Whenever its controller casts a noncreature spell, that creature gets +1/+1 until end of turn.)			normal	SANTAREPLACEMEPlentiful Canopy	W	rare	Enchantment	56	W	2W	Whenever a player casts a noncreature spell, if they have fewer cards in hand than each other player, they draw a card. This ability triggers only once each turn.			normal	SANTAREPLACEMETrusty Salvager	W	uncommon	Creature — Otter 	77	W	2W	When Trusty Salvager enters, return target noncreature, nonland card with mana value 3 or less from your graveyard to your hand.	2/3		normal	SANTAREPLACEMEWinterfall	W	common	Instant	81	W	W	Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner’s control tapped.			normal	SANTAREPLACEMEEsoteric Spellscribe	G	uncommon	Creature — Bird Wizard 	283	WG	1G	Noncreature spells you control can’t be countered.
+T: Add G or W.	1/2		normal	SANTAREPLACEMEMyth of Origination	G	rare	Instant	298	G	4GG	Reveal the top five cards of your library. You may put up to one land card and up to one creature card from among them onto the battlefield. Put all noncreature, nonland cards from among them into your hand, and the rest on the bottom of your library in any order.			normal	SANTAREPLACEMEPine Kraken	G	common	Creature — Plant Kraken 	302	G	1G	Reach
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on Pine Kraken.	1/1		normal	SANTAREPLACEMEReach for the Impossible	G	common	Sorcery	305	G	G	Choose creature or noncreature. Reveal cards from the top of your library until you reveal a nonland card of the chosen kind. Put that card into your hand and the rest on the bottom of your library in any order.			normal	SANTAREPLACEMEUnspeak	G	uncommon	Instant	317	G	G	Counter target spell that targets a creature you control.			normal	SANTAREPLACEMEManaweave Snake	WG	rare	Creature — Snake 	425	WG	1GW	Flash
+When Manaweave Snake enters, exile target instant or sorcery spell. Put a number of +1/+1 counters on Manaweave Snake equal to that spell’s mana value.
+When Manaweave Snake leaves the battlefield,
+the exiled card’s owner may cast that card without paying its mana cost.	1/1		normal	SANTAREPLACEMESkali, Curious Envoy	WRG	rare	Legendary Creature — Griffin 	525	WRG	3R/WG	Flying, trample, prowess
+Whenever Skali, Curious Envoy attacks, reveal cards from the top of your library until you reveal an instant or sorcery spell with mana value greater or equal to Skali’s power. You may cast it without paying its mana cost. Put all cards revealed this way that weren’t cast on the bottom of your library in any order.	2/4		normal	SANTAREPLACEMEDragon	W	common	Token Creature — Dragon 	4	W		Flying	1/1		token	SANTAREPLACEME
