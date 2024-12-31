@@ -677,7 +677,7 @@ Vertin, the Timekeeper
 WAU, the Warden
 Xerx, the Inventive
 Dawn, Dusk, and Dark
-Draft — Form a Party
+Draft Form a Party
 Heroic Reserve Tactics
 Kiss Goodbye
 Legacy Initiate
@@ -733,12 +733,12 @@ Moon Stone Fragment
 Right Eye of Light
 Roadster Rager MV
 Structure Gel
-The Underground
 Haunted Mask
 Mockingbird
 Omnitool
 UH3 Bull
 Zeppelin
+The Underground
 e
 e
 e
@@ -812,8 +812,7 @@ Angel
 Combee_b
 Dragon
 Human
-Remembrance_a
-Remembrance_b
+Remembrance
 Unicorn
 Sorceress Sellen_b
 Rat Wizard
