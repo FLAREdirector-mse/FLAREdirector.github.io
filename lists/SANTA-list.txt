@@ -119,7 +119,7 @@ Zoron, Plaguelord
 Trogdor the Burninator
 Mean Giant
 The Loving Silver Tree
-Sorceress Sellen_a
+Sorceress Sellen
 Annihilape
 Vyze, Adventurous Swashbuckler
 Oomph
@@ -218,7 +218,7 @@ Wrong Turn at Albuquerque
 Bloodborne Conjurant
 Shaggy, All Alone
 Nourishing Rot
-Combee_a
+Combee
 Aspect of Fluidity
 Finished Business
 Team Lounge
@@ -520,7 +520,7 @@ Entrapta, Inventor Princess
 Jack Cooper, Surprise Militia Ace
 Persephone, Repentant Assassin
 The Black Marauder
-Jörmungandr, World Serpent
+Jormungandr, World Serpent
 Interplanar Dragonstorm
 Ameline, the Devourer
 Shora, the Bound Undeath
