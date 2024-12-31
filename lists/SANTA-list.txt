@@ -119,7 +119,7 @@ Zoron, Plaguelord
 Trogdor the Burninator
 Mean Giant
 The Loving Silver Tree
-Sorceress Sellen_a
+Sorceress Sellen
 Annihilape
 Vyze, Adventurous Swashbuckler
 Oomph
@@ -218,7 +218,7 @@ Wrong Turn at Albuquerque
 Bloodborne Conjurant
 Shaggy, All Alone
 Nourishing Rot
-Combee_a
+Combee
 Aspect of Fluidity
 Finished Business
 Team Lounge
@@ -812,8 +812,7 @@ Angel
 Combee_b
 Dragon
 Human
-Remembrance_a
-Remembrance_b
+Remembrance
 Unicorn
 Sorceress Sellen_b
 Rat Wizard
