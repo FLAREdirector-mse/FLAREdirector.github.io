@@ -378,7 +378,7 @@ e
 e
 e
 e
-Rally for the Fallen King
+Rally
 e
 e
 e
@@ -677,7 +677,7 @@ Vertin, the Timekeeper
 WAU, the Warden
 Xerx, the Inventive
 Dawn, Dusk, and Dark
-Draft Form a Party
+Draft
 Heroic Reserve Tactics
 Kiss Goodbye
 Legacy Initiate
@@ -730,7 +730,7 @@ Bus of the Merry Pranksters
 Claimed Obelisk
 Full Plate
 Moon Stone Fragment
-Right Eye of Light
+Right Eye
 Roadster Rager MV
 Structure Gel
 Haunted Mask
