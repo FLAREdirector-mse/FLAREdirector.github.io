@@ -1,7 +1,7 @@
 Azestru, the Radiant Lich
 Ahuzak, Center of Preservation
 The Big Bad Wolf
-Asuka, Victorius Velocity
+Asuka, Victorious Velocity
 Bon Vivoracious
 Greg, Naive Troublemaker
 Beatrice, Cursed Bluebird
@@ -18,12 +18,12 @@ Osiris GT M2
 Giyama, the Ending Soul
 Auntie Whisper's Bell
 Disciple of the Swarm
-System-a99 a Gundam
+System-∀99 ∀ Gundam
 Abjurer's Aspiration
 Most Wanted
 Burning of the Archive at Alephne
 Dreams of the Wild
-Tal'Set, The First Turok
+Tal'Set, the First Turok
 At Horizon's Edge
 Necrodancer's Torment
 Collision Elemental
@@ -59,7 +59,7 @@ CCRV-7 Blackbox
 Fiery Fascination
 Myth of Origination
 Chains of Command
-Frieren, The Last Great Mage
+Frieren, the Last Great Mage
 Darkhand's Influence
 Follower Phoenix
 The Springwinder
@@ -378,7 +378,7 @@ e
 e
 e
 e
-Rally For the Fallen King
+Rally for the Fallen King
 e
 e
 e
@@ -730,7 +730,7 @@ Bus of the Merry Pranksters
 Claimed Obelisk
 Full Plate
 Moon Stone Fragment
-Right Eye Of Light
+Right Eye of Light
 Roadster Rager MV
 Structure Gel
 The Underground
@@ -814,7 +814,6 @@ Dragon
 Human
 Remembrance_a
 Remembrance_b
-Remembrance_c
 Unicorn
 Sorceress Sellen_b
 Rat Wizard
@@ -838,3 +837,4 @@ Present
 Senkutsu
 Treasure
 Weapon
+e
